@@ -10,8 +10,10 @@
 
 #import "CHTTPRequestHandler.h"
 
-@interface CNXTHandler : NSObject <CHTTPRequestHandler> {
+@class NXT;
 
+@interface CNXTHandler : NSObject <CHTTPRequestHandler> {
+    NXT *nxt;
 }
 
 @end

@@ -39,10 +39,6 @@
 		455EC77D12205FC6002EB5D1 /* Base64Transcoder.c in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6A512205FC6002EB5D1 /* Base64Transcoder.c */; };
 		455EC77E12205FC6002EB5D1 /* CDateRange.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6A812205FC6002EB5D1 /* CDateRange.m */; };
 		455EC77F12205FC6002EB5D1 /* CLazyCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6AA12205FC6002EB5D1 /* CLazyCache.m */; };
-		455EC78012205FC6002EB5D1 /* CBetterCoreDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6AD12205FC6002EB5D1 /* CBetterCoreDataManager.m */; };
-		455EC78112205FC6002EB5D1 /* CCoreDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6AF12205FC6002EB5D1 /* CCoreDataManager.m */; };
-		455EC78212205FC6002EB5D1 /* CEntityDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6B112205FC6002EB5D1 /* CEntityDataSource.m */; };
-		455EC78312205FC6002EB5D1 /* NSManagedObjectContext_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6B312205FC6002EB5D1 /* NSManagedObjectContext_Extensions.m */; };
 		455EC78412205FC6002EB5D1 /* CPointerArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6B512205FC6002EB5D1 /* CPointerArray.m */; };
 		455EC78512205FC6002EB5D1 /* CTempFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6B712205FC6002EB5D1 /* CTempFile.m */; };
 		455EC78612205FC6002EB5D1 /* CTemporaryData.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6B912205FC6002EB5D1 /* CTemporaryData.m */; };
@@ -78,10 +74,35 @@
 		455EC7E5122061D5002EB5D1 /* natpmp.c in Sources */ = {isa = PBXBuildFile; fileRef = 455EC5E612205FC6002EB5D1 /* natpmp.c */; };
 		455EC7E9122061EB002EB5D1 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 455EC7E8122061EB002EB5D1 /* Security.framework */; };
 		455EC80212206242002EB5D1 /* CNXTHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC80112206242002EB5D1 /* CNXTHandler.m */; };
+		455EC880122063EC002EB5D1 /* LegoNXT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 455EC86D122063D4002EB5D1 /* LegoNXT.framework */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
 		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		455EC86C122063D4002EB5D1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 008666CE0F1152A70023983E /* LegoNXT.framework */;
+			remoteInfo = LegoNXT;
+		};
+		455EC86E122063D4002EB5D1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 8D1107320486CEB800E47090 /* LegoNXTRemote.app */;
+			remoteInfo = LegoNXTRemote;
+		};
+		455EC87E122063E5002EB5D1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 00BF73870F113FB100BF054E /* LegoNXT */;
+			remoteInfo = LegoNXT;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -175,14 +196,6 @@
 		455EC6A812205FC6002EB5D1 /* CDateRange.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDateRange.m; sourceTree = "<group>"; };
 		455EC6A912205FC6002EB5D1 /* CLazyCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLazyCache.h; sourceTree = "<group>"; };
 		455EC6AA12205FC6002EB5D1 /* CLazyCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CLazyCache.m; sourceTree = "<group>"; };
-		455EC6AC12205FC6002EB5D1 /* CBetterCoreDataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CBetterCoreDataManager.h; sourceTree = "<group>"; };
-		455EC6AD12205FC6002EB5D1 /* CBetterCoreDataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CBetterCoreDataManager.m; sourceTree = "<group>"; };
-		455EC6AE12205FC6002EB5D1 /* CCoreDataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCoreDataManager.h; sourceTree = "<group>"; };
-		455EC6AF12205FC6002EB5D1 /* CCoreDataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCoreDataManager.m; sourceTree = "<group>"; };
-		455EC6B012205FC6002EB5D1 /* CEntityDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CEntityDataSource.h; sourceTree = "<group>"; };
-		455EC6B112205FC6002EB5D1 /* CEntityDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CEntityDataSource.m; sourceTree = "<group>"; };
-		455EC6B212205FC6002EB5D1 /* NSManagedObjectContext_Extensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSManagedObjectContext_Extensions.h; sourceTree = "<group>"; };
-		455EC6B312205FC6002EB5D1 /* NSManagedObjectContext_Extensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSManagedObjectContext_Extensions.m; sourceTree = "<group>"; };
 		455EC6B412205FC6002EB5D1 /* CPointerArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CPointerArray.h; sourceTree = "<group>"; };
 		455EC6B512205FC6002EB5D1 /* CPointerArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CPointerArray.m; sourceTree = "<group>"; };
 		455EC6B612205FC6002EB5D1 /* CTempFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTempFile.h; sourceTree = "<group>"; };
@@ -251,6 +264,7 @@
 		455EC7E8122061EB002EB5D1 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		455EC80012206242002EB5D1 /* CNXTHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CNXTHandler.h; sourceTree = "<group>"; };
 		455EC80112206242002EB5D1 /* CNXTHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CNXTHandler.m; sourceTree = "<group>"; };
+		455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = LegoNXTRemote.xcodeproj; path = ../legonxtremote/LegoNXTRemote.xcodeproj; sourceTree = SOURCE_ROOT; };
 		8D1107310486CEB800E47090 /* NXTServer-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "NXTServer-Info.plist"; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* NXTServer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NXTServer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -262,6 +276,7 @@
 			files = (
 				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
 				455EC7E9122061EB002EB5D1 /* Security.framework in Frameworks */,
+				455EC880122063EC002EB5D1 /* LegoNXT.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,6 +328,7 @@
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
 				455EC7E8122061EB002EB5D1 /* Security.framework */,
 			);
@@ -544,7 +560,6 @@
 				455EC6A812205FC6002EB5D1 /* CDateRange.m */,
 				455EC6A912205FC6002EB5D1 /* CLazyCache.h */,
 				455EC6AA12205FC6002EB5D1 /* CLazyCache.m */,
-				455EC6AB12205FC6002EB5D1 /* CoreData */,
 				455EC6B412205FC6002EB5D1 /* CPointerArray.h */,
 				455EC6B512205FC6002EB5D1 /* CPointerArray.m */,
 				455EC6B612205FC6002EB5D1 /* CTempFile.h */,
@@ -564,21 +579,6 @@
 				455EC6F212205FC6002EB5D1 /* ValueTransformers */,
 			);
 			path = Source;
-			sourceTree = "<group>";
-		};
-		455EC6AB12205FC6002EB5D1 /* CoreData */ = {
-			isa = PBXGroup;
-			children = (
-				455EC6AC12205FC6002EB5D1 /* CBetterCoreDataManager.h */,
-				455EC6AD12205FC6002EB5D1 /* CBetterCoreDataManager.m */,
-				455EC6AE12205FC6002EB5D1 /* CCoreDataManager.h */,
-				455EC6AF12205FC6002EB5D1 /* CCoreDataManager.m */,
-				455EC6B012205FC6002EB5D1 /* CEntityDataSource.h */,
-				455EC6B112205FC6002EB5D1 /* CEntityDataSource.m */,
-				455EC6B212205FC6002EB5D1 /* NSManagedObjectContext_Extensions.h */,
-				455EC6B312205FC6002EB5D1 /* NSManagedObjectContext_Extensions.m */,
-			);
-			path = CoreData;
 			sourceTree = "<group>";
 		};
 		455EC6C012205FC6002EB5D1 /* Extensions */ = {
@@ -677,6 +677,15 @@
 			path = ValueTransformers;
 			sourceTree = "<group>";
 		};
+		455EC865122063D4002EB5D1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				455EC86D122063D4002EB5D1 /* LegoNXT.framework */,
+				455EC86F122063D4002EB5D1 /* LegoNXTRemote.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -691,6 +700,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				455EC87F122063E5002EB5D1 /* PBXTargetDependency */,
 			);
 			name = NXTServer;
 			productInstallPath = "$(HOME)/Applications";
@@ -715,12 +725,35 @@
 			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* NXTServer */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 455EC865122063D4002EB5D1 /* Products */;
+					ProjectRef = 455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				8D1107260486CEB800E47090 /* NXTServer */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		455EC86D122063D4002EB5D1 /* LegoNXT.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = LegoNXT.framework;
+			remoteRef = 455EC86C122063D4002EB5D1 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		455EC86F122063D4002EB5D1 /* LegoNXTRemote.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = LegoNXTRemote.app;
+			remoteRef = 455EC86E122063D4002EB5D1 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		8D1107290486CEB800E47090 /* Resources */ = {
@@ -771,10 +804,6 @@
 				455EC77D12205FC6002EB5D1 /* Base64Transcoder.c in Sources */,
 				455EC77E12205FC6002EB5D1 /* CDateRange.m in Sources */,
 				455EC77F12205FC6002EB5D1 /* CLazyCache.m in Sources */,
-				455EC78012205FC6002EB5D1 /* CBetterCoreDataManager.m in Sources */,
-				455EC78112205FC6002EB5D1 /* CCoreDataManager.m in Sources */,
-				455EC78212205FC6002EB5D1 /* CEntityDataSource.m in Sources */,
-				455EC78312205FC6002EB5D1 /* NSManagedObjectContext_Extensions.m in Sources */,
 				455EC78412205FC6002EB5D1 /* CPointerArray.m in Sources */,
 				455EC78512205FC6002EB5D1 /* CTempFile.m in Sources */,
 				455EC78612205FC6002EB5D1 /* CTemporaryData.m in Sources */,
@@ -813,6 +842,14 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		455EC87F122063E5002EB5D1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = LegoNXT;
+			targetProxy = 455EC87E122063E5002EB5D1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {

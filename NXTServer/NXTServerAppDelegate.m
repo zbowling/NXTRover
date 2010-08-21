@@ -15,6 +15,8 @@
 @implementation NXTServerAppDelegate
 
 @synthesize window;
+@synthesize startButton;
+@synthesize stopButton;
 @synthesize server;
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
@@ -33,9 +35,20 @@ CNXTHandler *theNXTHandler = [[[CNXTHandler alloc] init] autorelease];
 NSError *theError = NULL;
 [theHTTPServer.socketListener start:&theError];
 
-NSLog(@"%@", theError);
-
 self.server = theHTTPServer;
+
+[self.startButton setEnabled:NO];
+[self.stopButton setEnabled:YES];
 }
+
+- (IBAction)stop:(id)inSender
+{
+[self.server.socketListener stop];
+self.server = NULL;
+
+[self.startButton setEnabled:YES];
+[self.stopButton setEnabled:NO];
+}
+
 
 @end

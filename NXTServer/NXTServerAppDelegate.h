@@ -12,12 +12,17 @@
 
 @interface NXTServerAppDelegate : NSObject <NSApplicationDelegate> {
     NSWindow *window;
+    NSButton *startButton;
+    NSButton *stopButton;
     CHTTPServer *server;
 }
 
-@property (assign) IBOutlet NSWindow *window;
+@property (readwrite, nonatomic, assign) IBOutlet NSWindow *window;
+@property (readwrite, nonatomic, assign) IBOutlet NSButton *startButton;
+@property (readwrite, nonatomic, assign) IBOutlet NSButton *stopButton;
 @property (readwrite, nonatomic, retain) CHTTPServer *server;
 
 - (IBAction)start:(id)inSender;
+- (IBAction)stop:(id)inSender;
 
 @end
