@@ -1,0 +1,114 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                doChangeSpeedA = id; 
+                doChangeSpeedB = id; 
+                doChangeSpeedC = id; 
+                doConnect = id; 
+                doPollSensor1 = id; 
+                doPollSensor2 = id; 
+                doPollSensor3 = id; 
+                doPollSensor4 = id; 
+                doPollServoA = id; 
+                doPollServoB = id; 
+                doPollServoC = id; 
+                doResetServoPosition = id; 
+                enableServoA = id; 
+                enableServoB = id; 
+                enableServoC = id; 
+            }; 
+            CLASS = AppController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "_nxt" = NXT; 
+                batteryLevelIndicator = NSLevelIndicator; 
+                connectButton = NSButton; 
+                connectMessage = NSTextField; 
+                sensorPoll1 = NSButton; 
+                sensorPoll2 = NSButton; 
+                sensorPoll3 = NSButton; 
+                sensorPoll4 = NSButton; 
+                sensorType1 = NSPopUpButton; 
+                sensorType2 = NSPopUpButton; 
+                sensorType3 = NSPopUpButton; 
+                sensorType4 = NSPopUpButton; 
+                sensorValue1 = NSTextField; 
+                sensorValue2 = NSTextField; 
+                sensorValue3 = NSTextField; 
+                sensorValue4 = NSTextField; 
+                servoEnableA = NSButton; 
+                servoEnableB = NSButton; 
+                servoEnableC = NSButton; 
+                servoPollA = NSButton; 
+                servoPollB = NSButton; 
+                servoPollC = NSButton; 
+                servoPositionA = NSTextField; 
+                servoPositionB = NSTextField; 
+                servoPositionC = NSTextField; 
+                servoPositionReset = NSButton; 
+                servoSpeedA = NSSlider; 
+                servoSpeedB = NSSlider; 
+                servoSpeedC = NSSlider; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {
+                doChangeSpeedA = id; 
+                doChangeSpeedB = id; 
+                doChangeSpeedC = id; 
+                doConnect = id; 
+                doPollSensor1 = id; 
+                doPollSensor2 = id; 
+                doPollSensor3 = id; 
+                doPollSensor4 = id; 
+                doPollServoA = id; 
+                doPollServoB = id; 
+                doPollServoC = id; 
+                doResetServoPosition = id; 
+                enableServoA = id; 
+                enableServoB = id; 
+                enableServoC = id; 
+            }; 
+            CLASS = LegoNXTRemote; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "_nxt" = NXT; 
+                batteryLevelIndicator = NSLevelIndicator; 
+                connectButton = NSButton; 
+                connectMessage = NSTextField; 
+                sensorPoll1 = NSButton; 
+                sensorPoll2 = NSButton; 
+                sensorPoll3 = NSButton; 
+                sensorPoll4 = NSButton; 
+                sensorType1 = NSPopUpButton; 
+                sensorType2 = NSPopUpButton; 
+                sensorType3 = NSPopUpButton; 
+                sensorType4 = NSPopUpButton; 
+                sensorValue1 = NSTextField; 
+                sensorValue2 = NSTextField; 
+                sensorValue3 = NSTextField; 
+                sensorValue4 = NSTextField; 
+                servoEnableA = NSButton; 
+                servoEnableB = NSButton; 
+                servoEnableC = NSButton; 
+                servoPollA = NSButton; 
+                servoPollB = NSButton; 
+                servoPollC = NSButton; 
+                servoPositionA = NSTextField; 
+                servoPositionB = NSTextField; 
+                servoPositionC = NSTextField; 
+                servoPositionReset = NSButton; 
+                servoSpeedA = NSSlider; 
+                servoSpeedB = NSSlider; 
+                servoSpeedC = NSSlider; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = NSLevelIndicator; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {CLASS = NSSegmentedControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }
+    ); 
+    IBVersion = 1; 
+}

@@ -1,0 +1,9 @@
+/* $Id: LegoNXT_Prefix.pch 2 2009-01-04 22:06:09Z querry43 $ */
+
+//
+// Prefix header for all source files of the 'LegoNXTRemote' project.
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
