@@ -1,6 +1,6 @@
 [submodule "Externals/HTTPD"]
 	path = Externals/HTTPD
-	url = git@github.com:schwa/TouchHTTPD.git
+	url = git://github.com/schwa/TouchHTTPD.git
 [submodule "Externals/TouchFoundation"]
 	path = Externals/TouchFoundation
-	url = git@github.com:schwa/TouchFoundation.git
+	url = git://github.com/schwa/TouchFoundation.git

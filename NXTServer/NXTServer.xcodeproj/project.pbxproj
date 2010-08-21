@@ -86,21 +86,21 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = 455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */;
 			proxyType = 2;
-			remoteGlobalIDString = 008666CE0F1152A70023983E /* LegoNXT.framework */;
+			remoteGlobalIDString = 008666CE0F1152A70023983E;
 			remoteInfo = LegoNXT;
 		};
 		455EC86E122063D4002EB5D1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */;
 			proxyType = 2;
-			remoteGlobalIDString = 8D1107320486CEB800E47090 /* LegoNXTRemote.app */;
+			remoteGlobalIDString = 8D1107320486CEB800E47090;
 			remoteInfo = LegoNXTRemote;
 		};
 		455EC87E122063E5002EB5D1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */;
 			proxyType = 1;
-			remoteGlobalIDString = 00BF73870F113FB100BF054E /* LegoNXT */;
+			remoteGlobalIDString = 00BF73870F113FB100BF054E;
 			remoteInfo = LegoNXT;
 		};
 /* End PBXContainerItemProxy section */
