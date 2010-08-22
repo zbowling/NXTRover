@@ -9,8 +9,6 @@
 /* Begin PBXBuildFile section */
 		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
 		256AC3DA0F4B6AC300CF3369 /* NXTServerAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 256AC3D90F4B6AC300CF3369 /* NXTServerAppDelegate.m */; };
-		455EC71F12205FC6002EB5D1 /* GMAppleDouble.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC5E012205FC6002EB5D1 /* GMAppleDouble.m */; };
-		455EC72112205FC6002EB5D1 /* getgateway.c in Sources */ = {isa = PBXBuildFile; fileRef = 455EC5E312205FC6002EB5D1 /* getgateway.c */; };
 		455EC72612205FC6002EB5D1 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 455EC5EC12205FC6002EB5D1 /* LICENSE.txt */; };
 		455EC74012205FC6002EB5D1 /* CSecureTransportConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC62A12205FC6002EB5D1 /* CSecureTransportConnection.m */; };
 		455EC74112205FC6002EB5D1 /* CTCPConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC62C12205FC6002EB5D1 /* CTCPConnection.m */; };
@@ -24,17 +22,13 @@
 		455EC74912205FC6002EB5D1 /* CHTTPMessage_ConvenienceExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC63E12205FC6002EB5D1 /* CHTTPMessage_ConvenienceExtensions.m */; };
 		455EC74A12205FC6002EB5D1 /* CHTTPRequestHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC64012205FC6002EB5D1 /* CHTTPRequestHandler.m */; };
 		455EC74B12205FC6002EB5D1 /* CHTTPServer.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC64212205FC6002EB5D1 /* CHTTPServer.m */; };
-		455EC74D12205FC6002EB5D1 /* CDefaultFileSystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC64712205FC6002EB5D1 /* CDefaultFileSystem.m */; };
 		455EC75A12205FC6002EB5D1 /* CHTTPLoggingHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC66412205FC6002EB5D1 /* CHTTPLoggingHandler.m */; };
 		455EC75B12205FC6002EB5D1 /* TouchHTTPDConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC66612205FC6002EB5D1 /* TouchHTTPDConstants.m */; };
-		455EC75C12205FC6002EB5D1 /* CNATPMPManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC66912205FC6002EB5D1 /* CNATPMPManager.m */; };
 		455EC75D12205FC6002EB5D1 /* CChunkWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC66C12205FC6002EB5D1 /* CChunkWriter.m */; };
 		455EC75E12205FC6002EB5D1 /* CMultiInputStream.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC66E12205FC6002EB5D1 /* CMultiInputStream.m */; };
 		455EC75F12205FC6002EB5D1 /* CStreamConnector.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC67012205FC6002EB5D1 /* CStreamConnector.m */; };
 		455EC76012205FC6002EB5D1 /* NSError_HTTPDExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC67212205FC6002EB5D1 /* NSError_HTTPDExtensions.m */; };
-		455EC76212205FC6002EB5D1 /* NSFileManager_AppleDoubleExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC67612205FC6002EB5D1 /* NSFileManager_AppleDoubleExtensions.m */; };
 		455EC76312205FC6002EB5D1 /* NSStream_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC67812205FC6002EB5D1 /* NSStream_Extensions.m */; };
-		455EC76412205FC6002EB5D1 /* NSString_AppleDoubleExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC67A12205FC6002EB5D1 /* NSString_AppleDoubleExtensions.m */; };
 		455EC76512205FC6002EB5D1 /* HSK_CFUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC67D12205FC6002EB5D1 /* HSK_CFUtilities.m */; };
 		455EC77D12205FC6002EB5D1 /* Base64Transcoder.c in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6A512205FC6002EB5D1 /* Base64Transcoder.c */; };
 		455EC77E12205FC6002EB5D1 /* CDateRange.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6A812205FC6002EB5D1 /* CDateRange.m */; };
@@ -71,48 +65,21 @@
 		455EC7A112205FC6002EB5D1 /* CFloatTransformer.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6F612205FC6002EB5D1 /* CFloatTransformer.m */; };
 		455EC7A212205FC6002EB5D1 /* CHumanDateFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6F812205FC6002EB5D1 /* CHumanDateFormatter.m */; };
 		455EC7A312205FC6002EB5D1 /* CNumberToStringValueTransformer.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC6FA12205FC6002EB5D1 /* CNumberToStringValueTransformer.m */; };
-		455EC7E5122061D5002EB5D1 /* natpmp.c in Sources */ = {isa = PBXBuildFile; fileRef = 455EC5E612205FC6002EB5D1 /* natpmp.c */; };
 		455EC7E9122061EB002EB5D1 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 455EC7E8122061EB002EB5D1 /* Security.framework */; };
 		455EC80212206242002EB5D1 /* CNXTHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 455EC80112206242002EB5D1 /* CNXTHandler.m */; };
-		455EC880122063EC002EB5D1 /* LegoNXT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 455EC86D122063D4002EB5D1 /* LegoNXT.framework */; };
-		455EC95012206E62002EB5D1 /* LegoNXT.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 455EC86D122063D4002EB5D1 /* LegoNXT.framework */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
 		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		D96335391220863B00B81372 /* LegoNXT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D96335381220863B00B81372 /* LegoNXT.framework */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		455EC86C122063D4002EB5D1 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 008666CE0F1152A70023983E;
-			remoteInfo = LegoNXT;
-		};
-		455EC86E122063D4002EB5D1 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 8D1107320486CEB800E47090;
-			remoteInfo = LegoNXTRemote;
-		};
-		455EC87E122063E5002EB5D1 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 00BF73870F113FB100BF054E;
-			remoteInfo = LegoNXT;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXCopyFilesBuildPhase section */
-		455EC95412206E69002EB5D1 /* CopyFiles */ = {
+		D9633519122084E600B81372 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
-			dstSubfolderSpec = 11;
+			dstSubfolderSpec = 10;
 			files = (
-				455EC95012206E62002EB5D1 /* LegoNXT.framework in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -129,16 +96,6 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
-		455EC5DF12205FC6002EB5D1 /* GMAppleDouble.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GMAppleDouble.h; sourceTree = "<group>"; };
-		455EC5E012205FC6002EB5D1 /* GMAppleDouble.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GMAppleDouble.m; sourceTree = "<group>"; };
-		455EC5E212205FC6002EB5D1 /* Changelog.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Changelog.txt; sourceTree = "<group>"; };
-		455EC5E312205FC6002EB5D1 /* getgateway.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = getgateway.c; sourceTree = "<group>"; };
-		455EC5E412205FC6002EB5D1 /* getgateway.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = getgateway.h; sourceTree = "<group>"; };
-		455EC5E512205FC6002EB5D1 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
-		455EC5E612205FC6002EB5D1 /* natpmp.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = natpmp.c; sourceTree = "<group>"; };
-		455EC5E712205FC6002EB5D1 /* natpmp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = natpmp.h; sourceTree = "<group>"; };
-		455EC5E812205FC6002EB5D1 /* natpmpc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = natpmpc.c; sourceTree = "<group>"; };
-		455EC5E912205FC6002EB5D1 /* testgetgateway.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = testgetgateway.c; sourceTree = "<group>"; };
 		455EC5EC12205FC6002EB5D1 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		455EC62912205FC6002EB5D1 /* CSecureTransportConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CSecureTransportConnection.h; sourceTree = "<group>"; };
 		455EC62A12205FC6002EB5D1 /* CSecureTransportConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CSecureTransportConnection.m; sourceTree = "<group>"; };
@@ -184,8 +141,6 @@
 		455EC66412205FC6002EB5D1 /* CHTTPLoggingHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CHTTPLoggingHandler.m; sourceTree = "<group>"; };
 		455EC66512205FC6002EB5D1 /* TouchHTTPDConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TouchHTTPDConstants.h; sourceTree = "<group>"; };
 		455EC66612205FC6002EB5D1 /* TouchHTTPDConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TouchHTTPDConstants.m; sourceTree = "<group>"; };
-		455EC66812205FC6002EB5D1 /* CNATPMPManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CNATPMPManager.h; sourceTree = "<group>"; };
-		455EC66912205FC6002EB5D1 /* CNATPMPManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CNATPMPManager.m; sourceTree = "<group>"; };
 		455EC66B12205FC6002EB5D1 /* CChunkWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CChunkWriter.h; sourceTree = "<group>"; };
 		455EC66C12205FC6002EB5D1 /* CChunkWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CChunkWriter.m; sourceTree = "<group>"; };
 		455EC66D12205FC6002EB5D1 /* CMultiInputStream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CMultiInputStream.h; sourceTree = "<group>"; };
@@ -196,12 +151,8 @@
 		455EC67212205FC6002EB5D1 /* NSError_HTTPDExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSError_HTTPDExtensions.m; sourceTree = "<group>"; };
 		455EC67312205FC6002EB5D1 /* NSError_XMLOutputExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSError_XMLOutputExtensions.h; sourceTree = "<group>"; };
 		455EC67412205FC6002EB5D1 /* NSError_XMLOutputExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSError_XMLOutputExtensions.m; sourceTree = "<group>"; };
-		455EC67512205FC6002EB5D1 /* NSFileManager_AppleDoubleExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSFileManager_AppleDoubleExtensions.h; sourceTree = "<group>"; };
-		455EC67612205FC6002EB5D1 /* NSFileManager_AppleDoubleExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSFileManager_AppleDoubleExtensions.m; sourceTree = "<group>"; };
 		455EC67712205FC6002EB5D1 /* NSStream_Extensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSStream_Extensions.h; sourceTree = "<group>"; };
 		455EC67812205FC6002EB5D1 /* NSStream_Extensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSStream_Extensions.m; sourceTree = "<group>"; };
-		455EC67912205FC6002EB5D1 /* NSString_AppleDoubleExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSString_AppleDoubleExtensions.h; sourceTree = "<group>"; };
-		455EC67A12205FC6002EB5D1 /* NSString_AppleDoubleExtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSString_AppleDoubleExtensions.m; sourceTree = "<group>"; };
 		455EC67C12205FC6002EB5D1 /* HSK_CFUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HSK_CFUtilities.h; sourceTree = "<group>"; };
 		455EC67D12205FC6002EB5D1 /* HSK_CFUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HSK_CFUtilities.m; sourceTree = "<group>"; };
 		455EC6A512205FC6002EB5D1 /* Base64Transcoder.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Base64Transcoder.c; sourceTree = "<group>"; };
@@ -278,9 +229,10 @@
 		455EC7E8122061EB002EB5D1 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		455EC80012206242002EB5D1 /* CNXTHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CNXTHandler.h; sourceTree = "<group>"; };
 		455EC80112206242002EB5D1 /* CNXTHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CNXTHandler.m; sourceTree = "<group>"; };
-		455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = LegoNXTRemote.xcodeproj; path = ../legonxtremote/LegoNXTRemote.xcodeproj; sourceTree = SOURCE_ROOT; };
 		8D1107310486CEB800E47090 /* NXTServer-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "NXTServer-Info.plist"; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* NXTServer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NXTServer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D96334F81220842600B81372 /* LegoNXT.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = LegoNXT.h; path = legonxtremote/build/Release/LegoNXT.framework/Versions/A/Headers/LegoNXT.h; sourceTree = "<group>"; };
+		D96335381220863B00B81372 /* LegoNXT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = LegoNXT.framework; path = Library/Frameworks/LegoNXT.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -290,7 +242,7 @@
 			files = (
 				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
 				455EC7E9122061EB002EB5D1 /* Security.framework in Frameworks */,
-				455EC880122063EC002EB5D1 /* LegoNXT.framework in Frameworks */,
+				D96335391220863B00B81372 /* LegoNXT.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,9 +294,10 @@
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
-				455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
 				455EC7E8122061EB002EB5D1 /* Security.framework */,
+				D96334F81220842600B81372 /* LegoNXT.h */,
+				D96335381220863B00B81372 /* LegoNXT.framework */,
 			);
 			name = NXTServer;
 			sourceTree = "<group>";
@@ -390,36 +343,10 @@
 		455EC5B412205FC6002EB5D1 /* HTTPD */ = {
 			isa = PBXGroup;
 			children = (
-				455EC5DE12205FC6002EB5D1 /* Externals */,
 				455EC5EC12205FC6002EB5D1 /* LICENSE.txt */,
 				455EC62712205FC6002EB5D1 /* Source */,
 			);
 			path = HTTPD;
-			sourceTree = "<group>";
-		};
-		455EC5DE12205FC6002EB5D1 /* Externals */ = {
-			isa = PBXGroup;
-			children = (
-				455EC5DF12205FC6002EB5D1 /* GMAppleDouble.h */,
-				455EC5E012205FC6002EB5D1 /* GMAppleDouble.m */,
-				455EC5E112205FC6002EB5D1 /* libnatpmp-20071213 */,
-			);
-			path = Externals;
-			sourceTree = "<group>";
-		};
-		455EC5E112205FC6002EB5D1 /* libnatpmp-20071213 */ = {
-			isa = PBXGroup;
-			children = (
-				455EC5E212205FC6002EB5D1 /* Changelog.txt */,
-				455EC5E312205FC6002EB5D1 /* getgateway.c */,
-				455EC5E412205FC6002EB5D1 /* getgateway.h */,
-				455EC5E512205FC6002EB5D1 /* Makefile */,
-				455EC5E612205FC6002EB5D1 /* natpmp.c */,
-				455EC5E712205FC6002EB5D1 /* natpmp.h */,
-				455EC5E812205FC6002EB5D1 /* natpmpc.c */,
-				455EC5E912205FC6002EB5D1 /* testgetgateway.c */,
-			);
-			path = "libnatpmp-20071213";
 			sourceTree = "<group>";
 		};
 		455EC62712205FC6002EB5D1 /* Source */ = {
@@ -427,7 +354,6 @@
 			children = (
 				455EC62812205FC6002EB5D1 /* Connections */,
 				455EC63512205FC6002EB5D1 /* HTTP */,
-				455EC66712205FC6002EB5D1 /* NATPMP */,
 				455EC66A12205FC6002EB5D1 /* Support */,
 			);
 			path = Source;
@@ -515,15 +441,6 @@
 			path = Logging;
 			sourceTree = "<group>";
 		};
-		455EC66712205FC6002EB5D1 /* NATPMP */ = {
-			isa = PBXGroup;
-			children = (
-				455EC66812205FC6002EB5D1 /* CNATPMPManager.h */,
-				455EC66912205FC6002EB5D1 /* CNATPMPManager.m */,
-			);
-			path = NATPMP;
-			sourceTree = "<group>";
-		};
 		455EC66A12205FC6002EB5D1 /* Support */ = {
 			isa = PBXGroup;
 			children = (
@@ -537,12 +454,8 @@
 				455EC67212205FC6002EB5D1 /* NSError_HTTPDExtensions.m */,
 				455EC67312205FC6002EB5D1 /* NSError_XMLOutputExtensions.h */,
 				455EC67412205FC6002EB5D1 /* NSError_XMLOutputExtensions.m */,
-				455EC67512205FC6002EB5D1 /* NSFileManager_AppleDoubleExtensions.h */,
-				455EC67612205FC6002EB5D1 /* NSFileManager_AppleDoubleExtensions.m */,
 				455EC67712205FC6002EB5D1 /* NSStream_Extensions.h */,
 				455EC67812205FC6002EB5D1 /* NSStream_Extensions.m */,
-				455EC67912205FC6002EB5D1 /* NSString_AppleDoubleExtensions.h */,
-				455EC67A12205FC6002EB5D1 /* NSString_AppleDoubleExtensions.m */,
 				455EC67B12205FC6002EB5D1 /* SKPInputStreamConnector */,
 			);
 			path = Support;
@@ -691,15 +604,6 @@
 			path = ValueTransformers;
 			sourceTree = "<group>";
 		};
-		455EC865122063D4002EB5D1 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				455EC86D122063D4002EB5D1 /* LegoNXT.framework */,
-				455EC86F122063D4002EB5D1 /* LegoNXTRemote.app */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -707,15 +611,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "NXTServer" */;
 			buildPhases = (
+				D9633519122084E600B81372 /* CopyFiles */,
 				8D1107290486CEB800E47090 /* Resources */,
 				8D11072C0486CEB800E47090 /* Sources */,
 				8D11072E0486CEB800E47090 /* Frameworks */,
-				455EC95412206E69002EB5D1 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				455EC87F122063E5002EB5D1 /* PBXTargetDependency */,
 			);
 			name = NXTServer;
 			productInstallPath = "$(HOME)/Applications";
@@ -730,7 +633,6 @@
 			isa = PBXProject;
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "NXTServer" */;
 			compatibilityVersion = "Xcode 3.1";
-			developmentRegion = English;
 			hasScannedForEncodings = 1;
 			knownRegions = (
 				English,
@@ -740,35 +642,12 @@
 			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* NXTServer */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 455EC865122063D4002EB5D1 /* Products */;
-					ProjectRef = 455EC864122063D4002EB5D1 /* LegoNXTRemote.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				8D1107260486CEB800E47090 /* NXTServer */,
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXReferenceProxy section */
-		455EC86D122063D4002EB5D1 /* LegoNXT.framework */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.framework;
-			path = LegoNXT.framework;
-			remoteRef = 455EC86C122063D4002EB5D1 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		455EC86F122063D4002EB5D1 /* LegoNXTRemote.app */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.application;
-			path = LegoNXTRemote.app;
-			remoteRef = 455EC86E122063D4002EB5D1 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		8D1107290486CEB800E47090 /* Resources */ = {
@@ -790,8 +669,6 @@
 			files = (
 				8D11072D0486CEB800E47090 /* main.m in Sources */,
 				256AC3DA0F4B6AC300CF3369 /* NXTServerAppDelegate.m in Sources */,
-				455EC71F12205FC6002EB5D1 /* GMAppleDouble.m in Sources */,
-				455EC72112205FC6002EB5D1 /* getgateway.c in Sources */,
 				455EC74012205FC6002EB5D1 /* CSecureTransportConnection.m in Sources */,
 				455EC74112205FC6002EB5D1 /* CTCPConnection.m in Sources */,
 				455EC74212205FC6002EB5D1 /* CTCPSocketListener.m in Sources */,
@@ -804,17 +681,13 @@
 				455EC74912205FC6002EB5D1 /* CHTTPMessage_ConvenienceExtensions.m in Sources */,
 				455EC74A12205FC6002EB5D1 /* CHTTPRequestHandler.m in Sources */,
 				455EC74B12205FC6002EB5D1 /* CHTTPServer.m in Sources */,
-				455EC74D12205FC6002EB5D1 /* CDefaultFileSystem.m in Sources */,
 				455EC75A12205FC6002EB5D1 /* CHTTPLoggingHandler.m in Sources */,
 				455EC75B12205FC6002EB5D1 /* TouchHTTPDConstants.m in Sources */,
-				455EC75C12205FC6002EB5D1 /* CNATPMPManager.m in Sources */,
 				455EC75D12205FC6002EB5D1 /* CChunkWriter.m in Sources */,
 				455EC75E12205FC6002EB5D1 /* CMultiInputStream.m in Sources */,
 				455EC75F12205FC6002EB5D1 /* CStreamConnector.m in Sources */,
 				455EC76012205FC6002EB5D1 /* NSError_HTTPDExtensions.m in Sources */,
-				455EC76212205FC6002EB5D1 /* NSFileManager_AppleDoubleExtensions.m in Sources */,
 				455EC76312205FC6002EB5D1 /* NSStream_Extensions.m in Sources */,
-				455EC76412205FC6002EB5D1 /* NSString_AppleDoubleExtensions.m in Sources */,
 				455EC76512205FC6002EB5D1 /* HSK_CFUtilities.m in Sources */,
 				455EC77D12205FC6002EB5D1 /* Base64Transcoder.c in Sources */,
 				455EC77E12205FC6002EB5D1 /* CDateRange.m in Sources */,
@@ -851,20 +724,11 @@
 				455EC7A112205FC6002EB5D1 /* CFloatTransformer.m in Sources */,
 				455EC7A212205FC6002EB5D1 /* CHumanDateFormatter.m in Sources */,
 				455EC7A312205FC6002EB5D1 /* CNumberToStringValueTransformer.m in Sources */,
-				455EC7E5122061D5002EB5D1 /* natpmp.c in Sources */,
 				455EC80212206242002EB5D1 /* CNXTHandler.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		455EC87F122063E5002EB5D1 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = LegoNXT;
-			targetProxy = 455EC87E122063E5002EB5D1 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
@@ -891,6 +755,12 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../legonxtremote/build/Debug\"",
+					"\"$(SRCROOT)/../legonxtremote/build/Release\"",
+					"\"$(SRCROOT)/legonxtremote/build/Release\"",
+				);
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_FIX_AND_CONTINUE = YES;
 				GCC_MODEL_TUNING = G5;
@@ -899,6 +769,10 @@
 				GCC_PREFIX_HEADER = NXTServer_Prefix.pch;
 				INFOPLIST_FILE = "NXTServer-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
 				PRODUCT_NAME = NXTServer;
 			};
 			name = Debug;
@@ -908,11 +782,21 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../legonxtremote/build/Debug\"",
+					"\"$(SRCROOT)/../legonxtremote/build/Release\"",
+					"\"$(SRCROOT)/legonxtremote/build/Release\"",
+				);
 				GCC_MODEL_TUNING = G5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = NXTServer_Prefix.pch;
 				INFOPLIST_FILE = "NXTServer-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
 				PRODUCT_NAME = NXTServer;
 			};
 			name = Release;
@@ -920,7 +804,6 @@
 		C01FCF4F08A954540054247B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -928,18 +811,19 @@
 				ONLY_ACTIVE_ARCH = YES;
 				PREBINDING = NO;
 				SDKROOT = macosx10.6;
+				VALID_ARCHS = i386;
 			};
 			name = Debug;
 		};
 		C01FCF5008A954540054247B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
 				SDKROOT = macosx10.6;
+				VALID_ARCHS = i386;
 			};
 			name = Release;
 		};
