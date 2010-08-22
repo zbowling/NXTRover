@@ -1,0 +1,9 @@
+$Id: TODO.txt 2 2009-01-04 22:06:09Z querry43 $
+
+
+ToDo Items
+----------
+AppleScript support
+About Dialog
+Help Dialog
+Better UI Layout

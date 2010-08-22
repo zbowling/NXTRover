@@ -1,0 +1,520 @@
+TLegoNXT
+v7
+r0
+t304120674.813855
+cCheck dependencies
+cSymLink /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Versions/Current A
+cSymLink /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Headers Versions/Current/Headers
+cSymLink /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/LegoNXT Versions/Current/LegoNXT
+cCpHeader build/Release/LegoNXT.framework/Versions/A/Headers/LegoNXT.h src/LegoNXT.h
+cProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-efidolrhoumflwaiyfgdmkbbnbws/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cgiuevcljayfvxcpmwhxmtuiizfd/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cevfxkelwxzvsdehwzcwekwqmhrd/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/x86_64/LegoNXT.o /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT.o /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT normal i386
+cCompileC build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT.o /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT normal ppc
+cLd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/x86_64/LegoNXT normal x86_64
+cCreateUniversalBinary /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Versions/A/LegoNXT normal "x86_64 i386 ppc"
+cTouch /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BE2D1A200000000000000EE
+t1273156002
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004BE2C6D100000000000017ED
+t1273153233
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004B90FA5D0000000000000401
+t1267792477
+s1025
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h
+c000000004B90FBB80000000000001565
+t1267792824
+s5477
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothDevice.h
+c000000004B4837C8000000000000BD2F
+t1263024072
+s48431
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothRFCOMMChannel.h
+c000000004B4837C800000000000049DF
+t1263024072
+s18911
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothSDPUUID.h
+c000000004B4837C80000000000001A73
+t1263024072
+s6771
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetoothUI.framework/Headers/objc/IOBluetoothDeviceSelectorController.h
+c000000004B48389900000000000033F0
+t1263024281
+s13296
+
+N/System/Library/Frameworks/IOBluetooth.framework/IOBluetooth
+c000000004C414DF400000000002CB810
+t1279348212
+s2930704
+
+N/System/Library/Frameworks/IOBluetoothUI.framework/IOBluetoothUI
+c000000004C414E1B00000000000B4350
+t1279348251
+s738128
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT
+t1282427685
+s32228
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT.LinkFileList
+c000000004C704B0F0000000000000088
+t1282427663
+s136
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT.o
+t1282427685
+s31588
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT
+t1282427687
+s34748
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT.LinkFileList
+c000000004C704B0F0000000000000087
+t1282427663
+s135
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT.o
+t1282427686
+s33736
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/x86_64/LegoNXT
+t1282427874
+s29888
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/x86_64/LegoNXT.LinkFileList
+c000000004C704BDB000000000000008A
+t1282427867
+s138
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/x86_64/LegoNXT.o
+t1282427874
+s46620
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework
+t1282427874
+s170
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Headers
+t3
+s24
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/LegoNXT
+t3
+s24
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Versions/A/Headers/LegoNXT.h
+t1282425747
+s15956
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Versions/A/LegoNXT
+t1282427874
+s104380
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Versions/Current
+t3
+s1
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.h
+c000000004984F8690000000000003E54
+t1233451113
+s15956
+i<Cocoa/Cocoa.h>
+i<IOBluetooth/objc/IOBluetoothDevice.h>
+i<IOBluetooth/objc/IOBluetoothSDPUUID.h>
+i<IOBluetooth/objc/IOBluetoothRFCOMMChannel.h>
+i<IOBluetoothUI/objc/IOBluetoothDeviceSelectorController.h>
+
+N/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m
+c00000000496161C10000000000006A74
+t1231118785
+s27252
+i"LegoNXT.h"
+i<CoreServices/CoreServices.h>
+i<Foundation/NSData.h>
+
+N/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT
+t1282425764
+s32228
+
+N/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT.LinkFileList
+c000000004C704393000000000000007E
+t1282425747
+s126
+
+N/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT.o
+t1282425763
+s31580
+
+N/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT
+t1282425764
+s34748
+
+N/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT.LinkFileList
+c000000004C704393000000000000007D
+t1282425747
+s125
+
+N/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT.o
+t1282425764
+s33728
+
+N/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework
+t1282425764
+s170
+
+N/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Headers
+t3
+s24
+
+N/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/LegoNXT
+t3
+s24
+
+N/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Versions/A/Headers/LegoNXT.h
+t1282425747
+s15956
+
+N/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Versions/A/LegoNXT
+t1282425764
+s73188
+
+N/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Versions/Current
+t3
+s1
+
+N/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.h
+c000000004984F8690000000000003E54
+t1233451113
+s15956
+i<Cocoa/Cocoa.h>
+i<IOBluetooth/objc/IOBluetoothDevice.h>
+i<IOBluetooth/objc/IOBluetoothSDPUUID.h>
+i<IOBluetooth/objc/IOBluetoothRFCOMMChannel.h>
+i<IOBluetoothUI/objc/IOBluetoothDeviceSelectorController.h>
+
+N/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.m
+c00000000496161C10000000000006A74
+t1231118785
+s27252
+i"LegoNXT.h"
+i<CoreServices/CoreServices.h>
+i<Foundation/NSData.h>
+
+N/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cevfxkelwxzvsdehwzcwekwqmhrd/AppKit.h.gch
+t1282427680
+s38044464
+
+N/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cgiuevcljayfvxcpmwhxmtuiizfd/AppKit.h.gch
+t1282427683
+s40154128
+
+N/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-efidolrhoumflwaiyfgdmkbbnbws/AppKit.h.gch
+t1282427873
+s38503408
+
+N/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-emoslbhqeprezsgifavokylagyca/AppKit.h.gch
+t1282425760
+s38044464
+
+N/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmvafmrxjsoaydbwuoequupekvab/AppKit.h.gch
+t1282425759
+s40154128
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304120667#304120667#0(0"0(0#1#0"8636429056#0"0#
+
+CCompileC build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT.o /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304120484.465363
+e304120485.763381
+r1
+xCompileC
+xbuild/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT.o
+x/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m304120484#304120485#0(0"0(0#0#71"/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m8608257088#1220"    cd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/LegoNXT.hmap -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/include -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cgiuevcljayfvxcpmwhxmtuiizfd/AppKit.h -c /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m -o /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT.o0#
+
+CCompileC build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT.o /Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304118561.193806
+e304118563.811624
+r1
+xCompileC
+xbuild/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT.o
+x/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.m304118561#304118563#0(0"0(0#0#61"/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.m8621005760#1140"    cd /Users/zbowling/projects/NXTRover/legonxtremote    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/LegoNXT.hmap -F/Users/zbowling/projects/NXTRover/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/include -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmvafmrxjsoaydbwuoequupekvab/AppKit.h -c /Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.m -o /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT.o0#
+
+CCompileC build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT.o /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s304120484.464413
+e304120486.847015
+r1
+xCompileC
+xbuild/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT.o
+x/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m304120484#304120486#0(0"0(0#0#71"/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m8620715008#1227"    cd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.6 -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/LegoNXT.hmap -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/include -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources/ppc -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cevfxkelwxzvsdehwzcwekwqmhrd/AppKit.h -c /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m -o /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT.o0#
+
+CCompileC build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT.o /Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s304118561.192551
+e304118564.424593
+r1
+xCompileC
+xbuild/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT.o
+x/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.m304118561#304118564#0(0"0(0#0#61"/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.m7809643567100341248#1147"    cd /Users/zbowling/projects/NXTRover/legonxtremote    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.6 -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/LegoNXT.hmap -F/Users/zbowling/projects/NXTRover/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/include -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources/ppc -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-emoslbhqeprezsgifavokylagyca/AppKit.h -c /Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.m -o /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT.o0#
+
+CCompileC build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/x86_64/LegoNXT.o /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s304120674.066878
+e304120674.584133
+r1
+xCompileC
+xbuild/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/x86_64/LegoNXT.o
+x/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m304120674#304120674#0(0"0(0#0#71"/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m8620327008#1226"    cd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/LegoNXT.hmap -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/include -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources/x86_64 -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-efidolrhoumflwaiyfgdmkbbnbws/AppKit.h -c /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/src/LegoNXT.m -o /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/x86_64/LegoNXT.o0#
+
+CCpHeader build/Release/LegoNXT.framework/Versions/A/Headers/LegoNXT.h src/LegoNXT.h
+s304118547.458723
+e304118547.463860
+r1
+xCpHeader
+xbuild/Release/LegoNXT.framework/Versions/A/Headers/LegoNXT.h
+xsrc/LegoNXT.h
+lSLF07#2@18"Copy src/LegoNXT.h304118547#304118547#0(0"0(0#0#61"/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.h8599655168#385"    cd /Users/zbowling/projects/NXTRover/legonxtremote    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.h /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Versions/A/Headers0#
+
+CCreateUniversalBinary /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Versions/A/LegoNXT normal "ppc i386"
+s304120487.180795
+e304120487.209401
+r1
+xCreateUniversalBinary
+x/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Versions/A/LegoNXT
+xnormal
+xppc i386
+lSLF07#2@90"CreateUniversalBinary build/Release/LegoNXT.framework/Versions/A/LegoNXT normal "ppc i386"304120487#304120487#0(0"0(0#0#66"/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/ppc i3868636355616#475"    cd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote    /usr/bin/lipo -create /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT -output /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Versions/A/LegoNXT0#
+
+CCreateUniversalBinary /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Versions/A/LegoNXT normal "x86_64 i386 ppc"
+s304120674.785113
+e304120674.810149
+r1
+xCreateUniversalBinary
+x/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Versions/A/LegoNXT
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@97"CreateUniversalBinary build/Release/LegoNXT.framework/Versions/A/LegoNXT normal "x86_64 i386 ppc"304120674#304120674#0(0"0(0#0#73"/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/x86_64 i386 ppc8608992224#611"    cd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote    /usr/bin/lipo -create /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/x86_64/LegoNXT /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT -output /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Versions/A/LegoNXT0#
+
+CCreateUniversalBinary /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Versions/A/LegoNXT normal "ppc i386"
+s304118564.838185
+e304118564.892969
+r1
+xCreateUniversalBinary
+x/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Versions/A/LegoNXT
+xnormal
+xppc i386
+lSLF07#2@90"CreateUniversalBinary build/Release/LegoNXT.framework/Versions/A/LegoNXT normal "ppc i386"304118564#304118564#0(0"0(0#0#56"/Users/zbowling/projects/NXTRover/legonxtremote/ppc i3868612583264#435"    cd /Users/zbowling/projects/NXTRover/legonxtremote    /usr/bin/lipo -create /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT -output /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Versions/A/LegoNXT0#
+
+CLd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT normal i386
+s304120485.763470
+e304120485.872795
+r1
+xLd
+x/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT
+xnormal
+xi386
+lSLF07#2@138"Link /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT304120485#304120485#0(0"0(0#0#0"8624433920#898"    cd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -filelist /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT.LinkFileList -install_name @executable_path/../Frameworks/LegoNXT.framework/Versions/A/LegoNXT -mmacosx-version-min=10.6 -framework Foundation -framework AppKit -framework IOBluetooth -framework IOBluetoothUI -single_module -compatibility_version 1 -current_version 1 -o /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT0#
+
+CLd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT normal ppc
+s304120486.847256
+e304120487.180633
+r1
+xLd
+x/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT
+xnormal
+xppc
+lSLF07#2@137"Link /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT304120486#304120487#0(0"0(0#0#0"8621478208#895"    cd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -filelist /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT.LinkFileList -install_name @executable_path/../Frameworks/LegoNXT.framework/Versions/A/LegoNXT -mmacosx-version-min=10.6 -framework Foundation -framework AppKit -framework IOBluetooth -framework IOBluetoothUI -single_module -compatibility_version 1 -current_version 1 -o /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT0#
+
+CLd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/x86_64/LegoNXT normal x86_64
+s304120674.584299
+e304120674.784973
+r1
+xLd
+x/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/x86_64/LegoNXT
+xnormal
+xx86_64
+lSLF07#2@140"Link /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/x86_64/LegoNXT304120674#304120674#0(0"0(0#0#0"8613143456#904"    cd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -filelist /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/x86_64/LegoNXT.LinkFileList -install_name @executable_path/../Frameworks/LegoNXT.framework/Versions/A/LegoNXT -mmacosx-version-min=10.6 -framework Foundation -framework AppKit -framework IOBluetooth -framework IOBluetoothUI -single_module -compatibility_version 1 -current_version 1 -o /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/x86_64/LegoNXT0#
+
+CLd /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT normal i386
+s304118563.811864
+e304118564.070735
+r1
+xLd
+x/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT
+xnormal
+xi386
+lSLF07#2@128"Link /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT304118563#304118564#0(0"0(0#0#0"8608387232#848"    cd /Users/zbowling/projects/NXTRover/legonxtremote    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zbowling/projects/NXTRover/legonxtremote/build/Release -F/Users/zbowling/projects/NXTRover/legonxtremote/build/Release -filelist /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT.LinkFileList -install_name @executable_path/../Frameworks/LegoNXT.framework/Versions/A/LegoNXT -mmacosx-version-min=10.6 -framework Foundation -framework AppKit -framework IOBluetooth -framework IOBluetoothUI -single_module -compatibility_version 1 -current_version 1 -o /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/i386/LegoNXT0#
+
+CLd /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT normal ppc
+s304118564.424680
+e304118564.838091
+r1
+xLd
+x/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT
+xnormal
+xppc
+lSLF07#2@127"Link /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT304118564#304118564#0(0"0(0#0#0"8603340288#845"    cd /Users/zbowling/projects/NXTRover/legonxtremote    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zbowling/projects/NXTRover/legonxtremote/build/Release -F/Users/zbowling/projects/NXTRover/legonxtremote/build/Release -filelist /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT.LinkFileList -install_name @executable_path/../Frameworks/LegoNXT.framework/Versions/A/LegoNXT -mmacosx-version-min=10.6 -framework Foundation -framework AppKit -framework IOBluetooth -framework IOBluetoothUI -single_module -compatibility_version 1 -current_version 1 -o /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/Objects-normal/ppc/LegoNXT0#
+
+CProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cevfxkelwxzvsdehwzcwekwqmhrd/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal ppc objective-c com.apple.compilers.gcc.4_2
+s304120463.843637
+e304120480.998743
+r1
+xProcessPCH
+x/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cevfxkelwxzvsdehwzcwekwqmhrd/AppKit.h.gch
+x/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h304120463#304120480#0(0"0(0#0#90"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h8614575456#1113"    cd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.6 -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/LegoNXT.hmap -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/include -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources/ppc -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources -c /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cevfxkelwxzvsdehwzcwekwqmhrd/AppKit.h.gch0#
+
+CProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cgiuevcljayfvxcpmwhxmtuiizfd/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal i386 objective-c com.apple.compilers.gcc.4_2
+s304120463.853072
+e304120484.464209
+r1
+xProcessPCH
+x/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cgiuevcljayfvxcpmwhxmtuiizfd/AppKit.h.gch
+x/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h304120463#304120484#0(0"0(0#0#90"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h8620299616#1105"    cd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/LegoNXT.hmap -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/include -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources -c /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-cgiuevcljayfvxcpmwhxmtuiizfd/AppKit.h.gch0#
+
+CProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-efidolrhoumflwaiyfgdmkbbnbws/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s304120667.571703
+e304120674.066625
+r1
+xProcessPCH
+x/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-efidolrhoumflwaiyfgdmkbbnbws/AppKit.h.gch
+x/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h304120667#304120674#0(0"0(0#0#90"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h8631266400#1109"    cd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/LegoNXT.hmap -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/include -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources/x86_64 -I/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources -c /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-efidolrhoumflwaiyfgdmkbbnbws/AppKit.h.gch0#
+
+CProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-emoslbhqeprezsgifavokylagyca/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal ppc objective-c com.apple.compilers.gcc.4_2
+s304118547.463981
+e304118560.687843
+r1
+xProcessPCH
+x/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-emoslbhqeprezsgifavokylagyca/AppKit.h.gch
+x/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h304118547#304118560#0(0"0(0#0#90"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h8621328224#1053"    cd /Users/zbowling/projects/NXTRover/legonxtremote    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.6 -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/LegoNXT.hmap -F/Users/zbowling/projects/NXTRover/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/include -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources/ppc -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources -c /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-emoslbhqeprezsgifavokylagyca/AppKit.h.gch0#
+
+CProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmvafmrxjsoaydbwuoequupekvab/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal i386 objective-c com.apple.compilers.gcc.4_2
+s304118547.464942
+e304118561.192403
+r1
+xProcessPCH
+x/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmvafmrxjsoaydbwuoequupekvab/AppKit.h.gch
+x/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h304118547#304118561#0(0"0(0#0#90"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h8607327744#1045"    cd /Users/zbowling/projects/NXTRover/legonxtremote    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/LegoNXT.hmap -F/Users/zbowling/projects/NXTRover/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/include -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Release/LegoNXT.build/DerivedSources -c /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmvafmrxjsoaydbwuoequupekvab/AppKit.h.gch0#
+
+CSymLink /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Headers Versions/Current/Headers
+r0
+
+CSymLink /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/LegoNXT Versions/Current/LegoNXT
+r0
+
+CSymLink /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework/Versions/Current A
+r0
+
+CSymLink /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Headers Versions/Current/Headers
+s304118547.456040
+e304118547.458662
+r1
+xSymLink
+x/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Headers
+xVersions/Current/Headers
+lSLF07#2@95"Process /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Headers304118547#304118547#0(0"0(0#0#0"8607207360#184"    cd /Users/zbowling/projects/NXTRover/legonxtremote    /bin/ln -sf Versions/Current/Headers /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Headers0#
+
+CSymLink /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/LegoNXT Versions/Current/LegoNXT
+s304118547.448587
+e304118547.456919
+r1
+xSymLink
+x/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/LegoNXT
+xVersions/Current/LegoNXT
+lSLF07#2@95"Process /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/LegoNXT304118547#304118547#0(0"0(0#0#0"8620476032#184"    cd /Users/zbowling/projects/NXTRover/legonxtremote    /bin/ln -sf Versions/Current/LegoNXT /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/LegoNXT0#
+
+CSymLink /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Versions/Current A
+s304118547.447314
+e304118547.455906
+r1
+xSymLink
+x/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Versions/Current
+xA
+lSLF07#2@104"Process /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Versions/Current304118547#304118547#0(0"0(0#0#0"32088649860579376#170"    cd /Users/zbowling/projects/NXTRover/legonxtremote    /bin/ln -sf A /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework/Versions/Current0#
+
+CTouch /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework
+s304120674.810256
+e304120674.813743
+r1
+xTouch
+x/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework
+lSLF07#2@95"Touch /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework304120674#304120674#0(0"0(0#0#0"8618661440#177"    cd /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote    /usr/bin/touch -c /Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release/LegoNXT.framework0#
+
+CTouch /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework
+s304118564.893053
+e304118564.900809
+r1
+xTouch
+x/Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework
+lSLF07#2@85"Touch /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework304118564#304118564#0(0"0(0#0#0"8603898656#157"    cd /Users/zbowling/projects/NXTRover/legonxtremote    /usr/bin/touch -c /Users/zbowling/projects/NXTRover/legonxtremote/build/Release/LegoNXT.framework0#
+

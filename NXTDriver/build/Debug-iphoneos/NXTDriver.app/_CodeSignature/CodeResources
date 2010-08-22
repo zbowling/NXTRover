@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>DriverUI.nib</key>
+		<data>
+		4/bvE6+K1YZjXsEyk7OP2x/Ch7U=
+		</data>
+		<key>DriverUIiPad.nib</key>
+		<data>
+		72nC0BHjQNlG0fAIDUEYZJ1gt8I=
+		</data>
+		<key>MainWindow_iPad.nib</key>
+		<data>
+		B9I8sPfROkkH6Gxsihgo7GVCGBo=
+		</data>
+		<key>MainWindow_iPhone.nib</key>
+		<data>
+		MeV9S73s8uR2hpvNZcMwmK4UjEg=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		dGJttawm4A18zUh7ohdGhe2rGkU=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

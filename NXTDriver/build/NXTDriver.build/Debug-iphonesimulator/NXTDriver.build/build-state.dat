@@ -1,0 +1,358 @@
+TNXTDriver
+v7
+r0
+t304123598.165062
+cCheck dependencies
+cProcessInfoPlistFile /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/Info.plist NXTDriver-Info.plist
+cCompileXIB /Users/zbowling/projects/NXTRover/NXTDriver/iPhone/MainWindow_iPhone.xib
+cCompileXIB /Users/zbowling/projects/NXTRover/NXTDriver/iPad/MainWindow_iPad.xib
+cCompileXIB /Users/zbowling/projects/NXTRover/NXTDriver/DriverUIiPad.xib
+cCompileXIB /Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.xib
+cProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTDriver_Prefix-blwkscsdynbcskdhguxnjrygofrf/NXTDriver_Prefix.pch.gch NXTDriver_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/main.o /Users/zbowling/projects/NXTRover/NXTDriver/Shared/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/AppDelegate_iPhone.o /Users/zbowling/projects/NXTRover/NXTDriver/iPhone/AppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/AppDelegate_iPad.o /Users/zbowling/projects/NXTRover/NXTDriver/iPad/AppDelegate_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/NXTClient.o /Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/DriverUI.o /Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/NXTDriver normal i386
+cGenerateDSYMFile /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app.dSYM /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/NXTDriver
+cTouch /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C01D6D20000000000000132
+t1275188946
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BEA386B000000000027C7D0
+t1273641067
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BEA38EA000000000029D430
+t1273641194
+s2741296
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BEA38DC0000000000001466
+t1273641180
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BEA514400000000000009CD
+t1273647428
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BEA52440000000001D44C30
+t1273647684
+s30690352
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/DriverUIiPad.xib
+c000000004C70310C0000000000001665
+t1282421004
+s5733
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.h
+c000000004C704F9D000000000000012E
+t1282428829
+s302
+i<Foundation/Foundation.h>
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.m
+c000000004C70596E0000000000000393
+t1282431342
+s915
+i"NXTClient.h"
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/NXTDriver_Prefix.pch
+c000000004C702A9500000000000000BB
+t1282419349
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/Shared/main.m
+c000000004C702A950000000000000161
+t1282419349
+s353
+i<UIKit/UIKit.h>
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app
+t1282430798
+s306
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app.dSYM
+t1282430798
+s102
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/DriverUI.nib
+t1282424658
+s1473
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/DriverUIiPad.nib
+t1282424658
+s663
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/Info.plist
+t1282424656
+s913
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/MainWindow_iPad.nib
+t1282424658
+s982
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/MainWindow_iPhone.nib
+t1282424658
+s984
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/NXTDriver
+t1282430798
+s25336
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/PkgInfo
+t1282424656
+s8
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/AppDelegate_iPad.o
+t1282429326
+s48020
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/AppDelegate_iPhone.o
+t1282424660
+s46116
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/DriverUI.o
+t1282429911
+s41856
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/NXTClient.o
+t1282430798
+s9176
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/NXTDriver.LinkFileList
+c000000004C703F5000000000000002B2
+t1282424656
+s690
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/main.o
+t1282424660
+s6328
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/iPad/AppDelegate_iPad.h
+c000000004C703AE300000000000001B1
+t1282423523
+s433
+i<UIKit/UIKit.h>
+i"DriverUI.h"
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/iPad/AppDelegate_iPad.m
+c000000004C705186000000000000076C
+t1282429318
+s1900
+i"AppDelegate_iPad.h"
+i"DriverUI.h"
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.h
+c000000004C704F1E000000000000015F
+t1282428702
+s351
+i<UIKit/UIKit.h>
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.m
+c000000004C7053D40000000000000C4B
+t1282429908
+s3147
+i"DriverUI.h"
+i"NXTClient.h"
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.xib
+c000000004C70342A0000000000004D44
+t1282421802
+s19780
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/iPad/MainWindow_iPad.xib
+c000000004C702A9500000000000036DD
+t1282419349
+s14045
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/iPhone/AppDelegate_iPhone.h
+c000000004C702A95000000000000013F
+t1282419349
+s319
+i<UIKit/UIKit.h>
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/iPhone/AppDelegate_iPhone.m
+c000000004C702A9500000000000009B5
+t1282419349
+s2485
+i"AppDelegate_iPhone.h"
+
+N/Users/zbowling/projects/NXTRover/NXTDriver/iPhone/MainWindow_iPhone.xib
+c000000004C702A95000000000000390C
+t1282419349
+s14604
+
+N/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTDriver_Prefix-blwkscsdynbcskdhguxnjrygofrf/NXTDriver_Prefix.pch.gch
+t1282424660
+s15199248
+
+NNXTDriver-Info.plist
+c000000004C702A950000000000000569
+t1282419349
+s1385
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304123597#304123598#0(0"0(0#1#0"8643293280#0"0#
+
+CCompileC build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/AppDelegate_iPad.o /Users/zbowling/projects/NXTRover/NXTDriver/iPad/AppDelegate_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304122126.344750
+e304122126.475332
+r1
+xCompileC
+xbuild/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/AppDelegate_iPad.o
+x/Users/zbowling/projects/NXTRover/NXTDriver/iPad/AppDelegate_iPad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/zbowling/projects/NXTRover/NXTDriver/iPad/AppDelegate_iPad.m304122126#304122126#0(0"0(0#0#67"/Users/zbowling/projects/NXTRover/NXTDriver/iPad/AppDelegate_iPad.m8635843136#2025"    cd /Users/zbowling/projects/NXTRover/NXTDriver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator -I/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/include -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTDriver_Prefix-blwkscsdynbcskdhguxnjrygofrf/NXTDriver_Prefix.pch -c /Users/zbowling/projects/NXTRover/NXTDriver/iPad/AppDelegate_iPad.m -o /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/AppDelegate_iPad.o0#
+
+CCompileC build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/AppDelegate_iPhone.o /Users/zbowling/projects/NXTRover/NXTDriver/iPhone/AppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304117460.632585
+e304117460.770501
+r1
+xCompileC
+xbuild/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/AppDelegate_iPhone.o
+x/Users/zbowling/projects/NXTRover/NXTDriver/iPhone/AppDelegate_iPhone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zbowling/projects/NXTRover/NXTDriver/iPhone/AppDelegate_iPhone.m304117460#304117460#0(0"0(0#0#71"/Users/zbowling/projects/NXTRover/NXTDriver/iPhone/AppDelegate_iPhone.m8605975904#2031"    cd /Users/zbowling/projects/NXTRover/NXTDriver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator -I/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/include -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTDriver_Prefix-blwkscsdynbcskdhguxnjrygofrf/NXTDriver_Prefix.pch -c /Users/zbowling/projects/NXTRover/NXTDriver/iPhone/AppDelegate_iPhone.m -o /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/AppDelegate_iPhone.o0#
+
+CCompileC build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/DriverUI.o /Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304122711.665959
+e304122711.829078
+r1
+xCompileC
+xbuild/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/DriverUI.o
+x/Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.m: In function '-[DriverUI viewDidLoad]':
+o/Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.m:42: warning: class 'DriverUI' does not implement the 'UIAccelerometerDelegate' protocol
+lSLF07#2@67"Compile /Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.m304122711#304122711#0(248"/Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.m: In function '-[DriverUI viewDidLoad]':/Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.m:42: warning: class 'DriverUI' does not implement the 'UIAccelerometerDelegate' protocol1(22@74"Class 'DriverUI' does not implement the 'UIAccelerometerDelegate' protocol304122711#100#148#0(6@59"/Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.m304122708#42#0#42#0#45"class '*' does not implement the '*' protocol0(0#0#59"/Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.m8641750176#2009"    cd /Users/zbowling/projects/NXTRover/NXTDriver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator -I/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/include -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTDriver_Prefix-blwkscsdynbcskdhguxnjrygofrf/NXTDriver_Prefix.pch -c /Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.m -o /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/DriverUI.o0#
+
+CCompileC build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/NXTClient.o /Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304123597.983149
+e304123598.103454
+r1
+xCompileC
+xbuild/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/NXTClient.o
+x/Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.m: In function '+[NXTClient sendGoMessage:left:right:]':
+o/Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.m:30: warning: unused variable 'receivedData'
+lSLF07#2@63"Compile /Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.m304123597#304123598#0(211"/Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.m: In function '+[NXTClient sendGoMessage:left:right:]':/Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.m:30: warning: unused variable 'receivedData'1(22@30"Unused variable 'receivedData'304123598#111#100#0(6@55"/Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.m304123588#30#0#30#0#19"unused variable '*'0(0#0#55"/Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.m8613661120#2006"    cd /Users/zbowling/projects/NXTRover/NXTDriver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator -I/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/include -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTDriver_Prefix-blwkscsdynbcskdhguxnjrygofrf/NXTDriver_Prefix.pch -c /Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.m -o /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/NXTClient.o0#
+
+CCompileC build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/main.o /Users/zbowling/projects/NXTRover/NXTDriver/Shared/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304117460.631053
+e304117460.693227
+r1
+xCompileC
+xbuild/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/main.o
+x/Users/zbowling/projects/NXTRover/NXTDriver/Shared/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/zbowling/projects/NXTRover/NXTDriver/Shared/main.m304117460#304117460#0(0"0(0#0#57"/Users/zbowling/projects/NXTRover/NXTDriver/Shared/main.m8612925792#2003"    cd /Users/zbowling/projects/NXTRover/NXTDriver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator -I/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/include -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTDriver_Prefix-blwkscsdynbcskdhguxnjrygofrf/NXTDriver_Prefix.pch -c /Users/zbowling/projects/NXTRover/NXTDriver/Shared/main.m -o /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/zbowling/projects/NXTRover/NXTDriver/DriverUIiPad.xib
+s304117456.514240
+e304117458.643039
+r1
+xCompileXIB
+x/Users/zbowling/projects/NXTRover/NXTDriver/DriverUIiPad.xib
+lSLF07#2@27"CompileXIB DriverUIiPad.xib304117456#304117458#0(0"0(0#0#60"/Users/zbowling/projects/NXTRover/NXTDriver/DriverUIiPad.xib8605101152#591"    cd /Users/zbowling/projects/NXTRover/NXTDriver    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/DriverUIiPad.nib /Users/zbowling/projects/NXTRover/NXTDriver/DriverUIiPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.xib
+s304117456.515079
+e304117458.709729
+r1
+xCompileXIB
+x/Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.xib
+lSLF07#2@28"CompileXIB iPad/DriverUI.xib304117456#304117458#0(0"0(0#0#61"/Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.xib8602430112#588"    cd /Users/zbowling/projects/NXTRover/NXTDriver    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/DriverUI.nib /Users/zbowling/projects/NXTRover/NXTDriver/iPad/DriverUI.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/zbowling/projects/NXTRover/NXTDriver/iPad/MainWindow_iPad.xib
+s304117456.513538
+e304117458.602543
+r1
+xCompileXIB
+x/Users/zbowling/projects/NXTRover/NXTDriver/iPad/MainWindow_iPad.xib
+lSLF07#2@35"CompileXIB iPad/MainWindow_iPad.xib304117456#304117458#0(0"0(0#0#68"/Users/zbowling/projects/NXTRover/NXTDriver/iPad/MainWindow_iPad.xib8605221952#602"    cd /Users/zbowling/projects/NXTRover/NXTDriver    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/MainWindow_iPad.nib /Users/zbowling/projects/NXTRover/NXTDriver/iPad/MainWindow_iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/zbowling/projects/NXTRover/NXTDriver/iPhone/MainWindow_iPhone.xib
+s304117456.512647
+e304117458.602115
+r1
+xCompileXIB
+x/Users/zbowling/projects/NXTRover/NXTDriver/iPhone/MainWindow_iPhone.xib
+lSLF07#2@39"CompileXIB iPhone/MainWindow_iPhone.xib304117456#304117458#0(0"0(0#0#72"/Users/zbowling/projects/NXTRover/NXTDriver/iPhone/MainWindow_iPhone.xib8605309888#608"    cd /Users/zbowling/projects/NXTRover/NXTDriver    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/MainWindow_iPhone.nib /Users/zbowling/projects/NXTRover/NXTDriver/iPhone/MainWindow_iPhone.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app.dSYM /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/NXTDriver
+s304123598.130851
+e304123598.162248
+r1
+xGenerateDSYMFile
+x/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app.dSYM
+x/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/NXTDriver
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/NXTDriver.app.dSYM build/Debug-iphonesimulator/NXTDriver.app/NXTDriver304123598#304123598#0(0"0(0#0#95"/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/NXTDriver8658559008#404"    cd /Users/zbowling/projects/NXTRover/NXTDriver    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/NXTDriver -o /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app.dSYM0#
+
+CLd /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/NXTDriver normal i386
+s304123598.103571
+e304123598.130730
+r1
+xLd
+x/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/NXTDriver
+xnormal
+xi386
+lSLF07#2@100"Link /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/NXTDriver304123598#304123598#0(0"0(0#0#0"8632192576#935"    cd /Users/zbowling/projects/NXTRover/NXTDriver    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator -F/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator -filelist /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/Objects-normal/i386/NXTDriver.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/NXTDriver0#
+
+CProcessInfoPlistFile /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/Info.plist NXTDriver-Info.plist
+s304117456.508485
+e304117456.512515
+r1
+xProcessInfoPlistFile
+x/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/Info.plist
+xNXTDriver-Info.plist
+lSLF07#2@28"Process NXTDriver-Info.plist304117456#304117456#0(0"0(0#0#64"/Users/zbowling/projects/NXTRover/NXTDriver/NXTDriver-Info.plist8608337344#500"    cd /Users/zbowling/projects/NXTRover/NXTDriver    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NXTDriver-Info.plist -genpkginfo /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app/Info.plist0#
+
+CProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTDriver_Prefix-blwkscsdynbcskdhguxnjrygofrf/NXTDriver_Prefix.pch.gch NXTDriver_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304117458.709916
+e304117460.630776
+r1
+xProcessPCH
+x/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTDriver_Prefix-blwkscsdynbcskdhguxnjrygofrf/NXTDriver_Prefix.pch.gch
+xNXTDriver_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile NXTDriver_Prefix.pch304117458#304117460#0(0"0(0#0#64"/Users/zbowling/projects/NXTRover/NXTDriver/NXTDriver_Prefix.pch8608246528#1881"    cd /Users/zbowling/projects/NXTRover/NXTDriver    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/NXTDriver-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator -I/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/include -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTDriver/build/NXTDriver.build/Debug-iphonesimulator/NXTDriver.build/DerivedSources -c /Users/zbowling/projects/NXTRover/NXTDriver/NXTDriver_Prefix.pch -o /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTDriver_Prefix-blwkscsdynbcskdhguxnjrygofrf/NXTDriver_Prefix.pch.gch0#
+
+CTouch /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app
+s304123598.162337
+e304123598.165014
+r1
+xTouch
+x/Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app
+lSLF07#2@91"Touch /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app304123598#304123598#0(0"0(0#0#0"8647973120#290"    cd /Users/zbowling/projects/NXTRover/NXTDriver    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/zbowling/projects/NXTRover/NXTDriver/build/Debug-iphonesimulator/NXTDriver.app0#
+

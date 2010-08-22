@@ -1,0 +1,1490 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* NXTDriver */ = {
+		activeExec = 0;
+		executables = (
+			D97407851220621500FB6290 /* NXTDriver */,
+		);
+	};
+	2860E32B111B888700E27156 /* AppDelegate_iPad.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 789}}";
+			sepNavSelRange = "{278, 18}";
+			sepNavVisRange = "{0, 433}";
+		};
+	};
+	2860E32C111B888700E27156 /* AppDelegate_iPad.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 952}}";
+			sepNavSelRange = "{441, 0}";
+			sepNavVisRange = "{0, 1900}";
+			sepNavWindowFrame = "{{15, 68}, {750, 1109}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D97407851220621500FB6290 /* NXTDriver */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* NXTDriver */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* NXTDriver */,
+		);
+		breakpoints = (
+			D96335D512208BAF00B81372 /* DriverUI.m:42 */,
+		);
+		codeSenseManager = D97407971220622800FB6290 /* Code sense */;
+		executables = (
+			D97407851220621500FB6290 /* NXTDriver */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1473,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 304126202;
+			PBXWorkspaceStateSaveDate = 304126202;
+		};
+		perUserProjectItems = {
+			D92D350C122099B900456E28 /* PBXTextBookmark */ = D92D350C122099B900456E28 /* PBXTextBookmark */;
+			D92D350D122099B900456E28 /* PBXTextBookmark */ = D92D350D122099B900456E28 /* PBXTextBookmark */;
+			D92D3510122099B900456E28 /* PBXTextBookmark */ = D92D3510122099B900456E28 /* PBXTextBookmark */;
+			D92D3511122099B900456E28 /* PBXTextBookmark */ = D92D3511122099B900456E28 /* PBXTextBookmark */;
+			D92D3512122099B900456E28 /* PBXTextBookmark */ = D92D3512122099B900456E28 /* PBXTextBookmark */;
+			D92D355412209E0100456E28 /* PBXTextBookmark */ = D92D355412209E0100456E28 /* PBXTextBookmark */;
+			D92D355512209E0100456E28 /* PBXTextBookmark */ = D92D355512209E0100456E28 /* PBXTextBookmark */;
+			D92D355612209E0100456E28 /* PBXTextBookmark */ = D92D355612209E0100456E28 /* PBXTextBookmark */;
+			D92D355712209E0100456E28 /* PBXTextBookmark */ = D92D355712209E0100456E28 /* PBXTextBookmark */;
+			D92D355812209E0100456E28 /* PBXTextBookmark */ = D92D355812209E0100456E28 /* PBXTextBookmark */;
+			D92D355912209E0100456E28 /* PBXTextBookmark */ = D92D355912209E0100456E28 /* PBXTextBookmark */;
+			D92D356312209F0000456E28 /* PBXTextBookmark */ = D92D356312209F0000456E28 /* PBXTextBookmark */;
+			D92D356412209F0000456E28 /* PBXTextBookmark */ = D92D356412209F0000456E28 /* PBXTextBookmark */;
+			D92D356512209F0000456E28 /* PBXTextBookmark */ = D92D356512209F0000456E28 /* PBXTextBookmark */;
+			D92D356612209F0000456E28 /* PBXTextBookmark */ = D92D356612209F0000456E28 /* PBXTextBookmark */;
+			D92D356B12209FDB00456E28 /* PBXTextBookmark */ = D92D356B12209FDB00456E28 /* PBXTextBookmark */;
+			D92D356C12209FDB00456E28 /* PBXTextBookmark */ = D92D356C12209FDB00456E28 /* PBXTextBookmark */;
+			D92D356D12209FDB00456E28 /* PBXTextBookmark */ = D92D356D12209FDB00456E28 /* PBXTextBookmark */;
+			D92D356E12209FDB00456E28 /* PBXTextBookmark */ = D92D356E12209FDB00456E28 /* PBXTextBookmark */;
+			D92D35741220A1CA00456E28 /* PBXTextBookmark */ = D92D35741220A1CA00456E28 /* PBXTextBookmark */;
+			D92D35751220A1CA00456E28 /* PBXTextBookmark */ = D92D35751220A1CA00456E28 /* PBXTextBookmark */;
+			D92D35761220A1CA00456E28 /* PBXTextBookmark */ = D92D35761220A1CA00456E28 /* PBXTextBookmark */;
+			D92D35771220A1CA00456E28 /* PBXTextBookmark */ = D92D35771220A1CA00456E28 /* PBXTextBookmark */;
+			D92D357B1220A24600456E28 /* PBXTextBookmark */ = D92D357B1220A24600456E28 /* PBXTextBookmark */;
+			D92D357C1220A24600456E28 /* PBXTextBookmark */ = D92D357C1220A24600456E28 /* PBXTextBookmark */;
+			D92D357D1220A24600456E28 /* PBXTextBookmark */ = D92D357D1220A24600456E28 /* PBXTextBookmark */;
+			D92D357E1220A24600456E28 /* PBXTextBookmark */ = D92D357E1220A24600456E28 /* PBXTextBookmark */;
+			D92D357F1220A24600456E28 /* PBXTextBookmark */ = D92D357F1220A24600456E28 /* PBXTextBookmark */;
+			D92D35801220A24600456E28 /* PBXTextBookmark */ = D92D35801220A24600456E28 /* PBXTextBookmark */;
+			D92D35811220A24600456E28 /* PBXTextBookmark */ = D92D35811220A24600456E28 /* PBXTextBookmark */;
+			D96335561220878700B81372 = D96335561220878700B81372 /* PBXTextBookmark */;
+			D963355A122087F200B81372 = D963355A122087F200B81372 /* PBXTextBookmark */;
+			D963355B122087F200B81372 = D963355B122087F200B81372 /* PBXTextBookmark */;
+			D963355C122087F200B81372 = D963355C122087F200B81372 /* PBXTextBookmark */;
+			D963355D122087F200B81372 = D963355D122087F200B81372 /* PBXTextBookmark */;
+			D96335651220886F00B81372 = D96335651220886F00B81372 /* PBXTextBookmark */;
+			D96335661220886F00B81372 = D96335661220886F00B81372 /* PBXTextBookmark */;
+			D96335671220886F00B81372 = D96335671220886F00B81372 /* PBXTextBookmark */;
+			D96335681220886F00B81372 = D96335681220886F00B81372 /* PBXTextBookmark */;
+			D96335691220886F00B81372 = D96335691220886F00B81372 /* PBXTextBookmark */;
+			D963356A1220886F00B81372 = D963356A1220886F00B81372 /* PBXTextBookmark */;
+			D963356B1220886F00B81372 = D963356B1220886F00B81372 /* PBXTextBookmark */;
+			D96335701220886F00B81372 = D96335701220886F00B81372 /* PBXTextBookmark */;
+			D96335831220890F00B81372 = D96335831220890F00B81372 /* PBXTextBookmark */;
+			D96335841220890F00B81372 = D96335841220890F00B81372 /* PBXTextBookmark */;
+			D96335851220890F00B81372 = D96335851220890F00B81372 /* PBXTextBookmark */;
+			D96335861220890F00B81372 = D96335861220890F00B81372 /* PBXTextBookmark */;
+			D96335891220890F00B81372 = D96335891220890F00B81372 /* PBXTextBookmark */;
+			D963358A1220890F00B81372 = D963358A1220890F00B81372 /* PBXTextBookmark */;
+			D963358B1220890F00B81372 = D963358B1220890F00B81372 /* PBXTextBookmark */;
+			D96335921220892A00B81372 = D96335921220892A00B81372 /* PBXTextBookmark */;
+			D9633597122089E100B81372 = D9633597122089E100B81372 /* PBXTextBookmark */;
+			D9633598122089E100B81372 = D9633598122089E100B81372 /* PBXTextBookmark */;
+			D9633599122089E100B81372 = D9633599122089E100B81372 /* PBXTextBookmark */;
+			D963359A122089E100B81372 = D963359A122089E100B81372 /* PBXTextBookmark */;
+			D963359B122089E100B81372 = D963359B122089E100B81372 /* PBXTextBookmark */;
+			D963359C122089E100B81372 = D963359C122089E100B81372 /* PBXTextBookmark */;
+			D96335A312208A1B00B81372 = D96335A312208A1B00B81372 /* PBXTextBookmark */;
+			D96335A412208A1B00B81372 = D96335A412208A1B00B81372 /* PBXTextBookmark */;
+			D96335A512208A1B00B81372 = D96335A512208A1B00B81372 /* PBXTextBookmark */;
+			D96335A612208A1B00B81372 = D96335A612208A1B00B81372 /* PBXTextBookmark */;
+			D96335A712208A1B00B81372 = D96335A712208A1B00B81372 /* PBXTextBookmark */;
+			D96335A812208A1B00B81372 = D96335A812208A1B00B81372 /* PBXTextBookmark */;
+			D96335AF12208A7B00B81372 = D96335AF12208A7B00B81372 /* PBXTextBookmark */;
+			D96335B012208A7B00B81372 = D96335B012208A7B00B81372 /* PBXTextBookmark */;
+			D96335B112208A7B00B81372 = D96335B112208A7B00B81372 /* PBXTextBookmark */;
+			D96335BA12208AEA00B81372 = D96335BA12208AEA00B81372 /* PBXTextBookmark */;
+			D96335BB12208AEA00B81372 = D96335BB12208AEA00B81372 /* PBXTextBookmark */;
+			D96335BC12208AEA00B81372 = D96335BC12208AEA00B81372 /* PBXTextBookmark */;
+			D96335C012208B0700B81372 = D96335C012208B0700B81372 /* PBXTextBookmark */;
+			D96335C112208B1B00B81372 = D96335C112208B1B00B81372 /* PBXBookmark */;
+			D96335C412208B5800B81372 = D96335C412208B5800B81372 /* PBXTextBookmark */;
+			D96335C512208B5800B81372 = D96335C512208B5800B81372 /* PBXTextBookmark */;
+			D96335C612208B5800B81372 = D96335C612208B5800B81372 /* PBXTextBookmark */;
+			D96335C912208B5800B81372 = D96335C912208B5800B81372 /* PBXTextBookmark */;
+			D96335CA12208B5800B81372 = D96335CA12208B5800B81372 /* PBXTextBookmark */;
+			D96335CB12208B5800B81372 = D96335CB12208B5800B81372 /* PBXTextBookmark */;
+			D96335CF12208B7F00B81372 = D96335CF12208B7F00B81372 /* PBXTextBookmark */;
+			D96335D012208B7F00B81372 = D96335D012208B7F00B81372 /* PBXTextBookmark */;
+			D96335D112208B7F00B81372 = D96335D112208B7F00B81372 /* PBXTextBookmark */;
+			D96335D212208B7F00B81372 = D96335D212208B7F00B81372 /* PBXTextBookmark */;
+			D96335D312208B7F00B81372 = D96335D312208B7F00B81372 /* PBXTextBookmark */;
+			D96335D412208B7F00B81372 = D96335D412208B7F00B81372 /* PBXTextBookmark */;
+			D96335D612208BAF00B81372 = D96335D612208BAF00B81372 /* PBXTextBookmark */;
+			D96335D812208BC300B81372 = D96335D812208BC300B81372 /* PBXTextBookmark */;
+			D96335D912208BC300B81372 = D96335D912208BC300B81372 /* PBXTextBookmark */;
+			D96335DA12208BC300B81372 = D96335DA12208BC300B81372 /* PBXTextBookmark */;
+			D96335DB12208BC300B81372 = D96335DB12208BC300B81372 /* PBXTextBookmark */;
+			D96335DC12208BC300B81372 = D96335DC12208BC300B81372 /* PBXTextBookmark */;
+			D96335DD12208BC300B81372 = D96335DD12208BC300B81372 /* PBXTextBookmark */;
+			D96335E212208C0000B81372 = D96335E212208C0000B81372 /* PBXTextBookmark */;
+			D96335E312208C0000B81372 = D96335E312208C0000B81372 /* PBXTextBookmark */;
+			D96335E412208C0000B81372 = D96335E412208C0000B81372 /* PBXTextBookmark */;
+			D96335E512208C0000B81372 = D96335E512208C0000B81372 /* PBXTextBookmark */;
+			D96335E612208C0000B81372 = D96335E612208C0000B81372 /* PBXTextBookmark */;
+			D96335E712208C0000B81372 = D96335E712208C0000B81372 /* PBXTextBookmark */;
+			D96335EE12208C8C00B81372 = D96335EE12208C8C00B81372 /* PBXTextBookmark */;
+			D96335EF12208CD600B81372 = D96335EF12208CD600B81372 /* PBXTextBookmark */;
+			D96335F012208CD600B81372 = D96335F012208CD600B81372 /* PBXTextBookmark */;
+			D96335F112208CD600B81372 = D96335F112208CD600B81372 /* PBXTextBookmark */;
+			D96335F212208CD600B81372 = D96335F212208CD600B81372 /* PBXTextBookmark */;
+			D96335F312208CD600B81372 = D96335F312208CD600B81372 /* PBXTextBookmark */;
+			D96335F412208CD600B81372 = D96335F412208CD600B81372 /* PBXTextBookmark */;
+			D963360412208ECE00B81372 = D963360412208ECE00B81372 /* PBXTextBookmark */;
+			D963360512208ECE00B81372 = D963360512208ECE00B81372 /* PBXTextBookmark */;
+			D963360612208ECE00B81372 = D963360612208ECE00B81372 /* PBXTextBookmark */;
+			D963360712208ECE00B81372 = D963360712208ECE00B81372 /* PBXTextBookmark */;
+			D963360B12208F5C00B81372 = D963360B12208F5C00B81372 /* PBXTextBookmark */;
+			D963360C12208F5C00B81372 = D963360C12208F5C00B81372 /* PBXTextBookmark */;
+			D963360D12208F5C00B81372 = D963360D12208F5C00B81372 /* PBXTextBookmark */;
+			D963360E12208F5C00B81372 = D963360E12208F5C00B81372 /* PBXTextBookmark */;
+			D963360F12208F5C00B81372 = D963360F12208F5C00B81372 /* PBXTextBookmark */;
+			D963361012208F5C00B81372 = D963361012208F5C00B81372 /* PBXTextBookmark */;
+			D97407D4122071EE00FB6290 = D97407D4122071EE00FB6290 /* PBXTextBookmark */;
+			D97407D5122071EE00FB6290 = D97407D5122071EE00FB6290 /* PBXTextBookmark */;
+			D97407D7122071EE00FB6290 = D97407D7122071EE00FB6290 /* PBXTextBookmark */;
+			D97407DF1220727600FB6290 = D97407DF1220727600FB6290 /* PBXTextBookmark */;
+			D97407E3122072E100FB6290 = D97407E3122072E100FB6290 /* PBXTextBookmark */;
+			D974080C1220761200FB6290 = D974080C1220761200FB6290 /* PBXTextBookmark */;
+			D9F42606122076ED004529E3 = D9F42606122076ED004529E3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D97407961220622800FB6290 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D92D350C122099B900456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 76";
+		rLen = 0;
+		rLoc = 3016;
+		rType = 0;
+		vrLen = 1526;
+		vrLoc = 1621;
+	};
+	D92D350D122099B900456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 76";
+		rLen = 0;
+		rLoc = 3016;
+		rType = 0;
+		vrLen = 1526;
+		vrLoc = 1621;
+	};
+	D92D3510122099B900456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 33";
+		rLen = 0;
+		rLoc = 854;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 0;
+	};
+	D92D3511122099B900456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 80";
+		rLen = 0;
+		rLoc = 3171;
+		rType = 0;
+		vrLen = 2174;
+		vrLoc = 968;
+	};
+	D92D3512122099B900456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D92D355412209E0100456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 17";
+		rLen = 0;
+		rLoc = 247;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 0;
+	};
+	D92D355512209E0100456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 74";
+		rLen = 0;
+		rLoc = 2686;
+		rType = 0;
+		vrLen = 1581;
+		vrLoc = 1650;
+	};
+	D92D355612209E0100456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 90";
+		rLen = 0;
+		rLoc = 2874;
+		rType = 0;
+		vrLen = 1406;
+		vrLoc = 1752;
+	};
+	D92D355712209E0100456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 33";
+		rLen = 0;
+		rLoc = 854;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 0;
+	};
+	D92D355812209E0100456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 106";
+		rLen = 0;
+		rLoc = 3171;
+		rType = 0;
+		vrLen = 2158;
+		vrLoc = 968;
+	};
+	D92D355912209E0100456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D92D356312209F0000456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 70";
+		rLen = 0;
+		rLoc = 2601;
+		rType = 0;
+		vrLen = 1228;
+		vrLoc = 2119;
+	};
+	D92D356412209F0000456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 33";
+		rLen = 0;
+		rLoc = 854;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 0;
+	};
+	D92D356512209F0000456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 106";
+		rLen = 0;
+		rLoc = 3171;
+		rType = 0;
+		vrLen = 2158;
+		vrLoc = 968;
+	};
+	D92D356612209F0000456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D92D356B12209FDB00456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 72";
+		rLen = 0;
+		rLoc = 2667;
+		rType = 0;
+		vrLen = 823;
+		vrLoc = 2633;
+	};
+	D92D356C12209FDB00456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 33";
+		rLen = 0;
+		rLoc = 854;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 0;
+	};
+	D92D356D12209FDB00456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 106";
+		rLen = 0;
+		rLoc = 3171;
+		rType = 0;
+		vrLen = 2127;
+		vrLoc = 968;
+	};
+	D92D356E12209FDB00456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D92D35741220A1CA00456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 26";
+		rLen = 0;
+		rLoc = 752;
+		rType = 0;
+		vrLen = 1778;
+		vrLoc = 1064;
+	};
+	D92D35751220A1CA00456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 33";
+		rLen = 0;
+		rLoc = 854;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 0;
+	};
+	D92D35761220A1CA00456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 106";
+		rLen = 0;
+		rLoc = 3171;
+		rType = 0;
+		vrLen = 2127;
+		vrLoc = 968;
+	};
+	D92D35771220A1CA00456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D92D357B1220A24600456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 24";
+		rLen = 0;
+		rLoc = 675;
+		rType = 0;
+		vrLen = 1803;
+		vrLoc = 26;
+	};
+	D92D357C1220A24600456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BE122068FA00FB6290 /* DriverUI.h */;
+		name = "DriverUI.h: 11";
+		rLen = 0;
+		rLoc = 153;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	D92D357D1220A24600456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 41";
+		rLen = 0;
+		rLoc = 1451;
+		rType = 0;
+		vrLen = 1778;
+		vrLoc = 1064;
+	};
+	D92D357E1220A24600456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 53";
+		rLen = 0;
+		rLoc = 1969;
+		rType = 0;
+		vrLen = 2172;
+		vrLoc = 584;
+	};
+	D92D357F1220A24600456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 33";
+		rLen = 0;
+		rLoc = 854;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 0;
+	};
+	D92D35801220A24600456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 106";
+		rLen = 0;
+		rLoc = 3171;
+		rType = 0;
+		vrLen = 2173;
+		vrLoc = 968;
+	};
+	D92D35811220A24600456E28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D96335561220878700B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'receivedData' undeclared (first use in this function)";
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		rLen = 1;
+		rLoc = 30;
+		rType = 1;
+	};
+	D963355A122087F200B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 22";
+		rLen = 0;
+		rLoc = 442;
+		rType = 0;
+		vrLen = 450;
+		vrLoc = 272;
+	};
+	D963355B122087F200B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 29";
+		rLen = 0;
+		rLoc = 776;
+		rType = 0;
+		vrLen = 474;
+		vrLoc = 399;
+	};
+	D963355C122087F200B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Object cannot be set - either readonly property or no setter found";
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		rLen = 1;
+		rLoc = 43;
+		rType = 1;
+	};
+	D963355D122087F200B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 44";
+		rLen = 0;
+		rLoc = 1492;
+		rType = 0;
+		vrLen = 545;
+		vrLoc = 1297;
+	};
+	D96335651220886F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A21220625700FB6290 /* NXTClient.h */;
+		name = "NXTClient.h: 13";
+		rLen = 0;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 302;
+		vrLoc = 0;
+	};
+	D96335661220886F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 26";
+		rLen = 50;
+		rLoc = 656;
+		rType = 0;
+		vrLen = 861;
+		vrLoc = 0;
+	};
+	D96335671220886F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32B111B888700E27156 /* AppDelegate_iPad.h */;
+		name = "AppDelegate_iPad.h: 14";
+		rLen = 18;
+		rLoc = 278;
+		rType = 0;
+		vrLen = 433;
+		vrLoc = 0;
+	};
+	D96335681220886F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 25";
+		rLen = 0;
+		rLoc = 709;
+		rType = 0;
+		vrLen = 1824;
+		vrLoc = 0;
+	};
+	D96335691220886F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BE122068FA00FB6290 /* DriverUI.h */;
+		name = "DriverUI.h: 14";
+		rLen = 9;
+		rLoc = 220;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	D963356A1220886F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 44";
+		rLen = 9;
+		rLoc = 1493;
+		rType = 0;
+		vrLen = 2327;
+		vrLoc = 127;
+	};
+	D963356B1220886F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 53";
+		rLen = 0;
+		rLoc = 2011;
+		rType = 0;
+		vrLen = 2128;
+		vrLoc = 637;
+	};
+	D96335701220886F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 29";
+		rLen = 0;
+		rLoc = 778;
+		rType = 0;
+		vrLen = 878;
+		vrLoc = 0;
+	};
+	D96335831220890F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BE122068FA00FB6290 /* DriverUI.h */;
+		name = "DriverUI.h: 14";
+		rLen = 9;
+		rLoc = 220;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	D96335841220890F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 44";
+		rLen = 0;
+		rLoc = 1583;
+		rType = 0;
+		vrLen = 2180;
+		vrLoc = 582;
+	};
+	D96335851220890F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32B111B888700E27156 /* AppDelegate_iPad.h */;
+		name = "AppDelegate_iPad.h: 14";
+		rLen = 18;
+		rLoc = 278;
+		rType = 0;
+		vrLen = 433;
+		vrLoc = 0;
+	};
+	D96335861220890F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 24";
+		rLen = 0;
+		rLoc = 675;
+		rType = 0;
+		vrLen = 1803;
+		vrLoc = 26;
+	};
+	D96335891220890F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 24";
+		rLen = 0;
+		rLoc = 627;
+		rType = 0;
+		vrLen = 434;
+		vrLoc = 289;
+	};
+	D963358A1220890F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D963358B1220890F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 29";
+		rLen = 0;
+		rLoc = 778;
+		rType = 0;
+		vrLen = 878;
+		vrLoc = 0;
+	};
+	D96335921220892A00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 44";
+		rLen = 0;
+		rLoc = 1492;
+		rType = 0;
+		vrLen = 455;
+		vrLoc = 1297;
+	};
+	D9633597122089E100B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 24";
+		rLen = 0;
+		rLoc = 675;
+		rType = 0;
+		vrLen = 1804;
+		vrLoc = 26;
+	};
+	D9633598122089E100B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BE122068FA00FB6290 /* DriverUI.h */;
+		name = "DriverUI.h: 11";
+		rLen = 0;
+		rLoc = 153;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	D9633599122089E100B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 92";
+		rLen = 0;
+		rLoc = 3449;
+		rType = 0;
+		vrLen = 2122;
+		vrLoc = 0;
+	};
+	D963359A122089E100B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 77";
+		rLen = 0;
+		rLoc = 3058;
+		rType = 0;
+		vrLen = 1819;
+		vrLoc = 1139;
+	};
+	D963359B122089E100B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D963359C122089E100B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 29";
+		rLen = 0;
+		rLoc = 778;
+		rType = 0;
+		vrLen = 878;
+		vrLoc = 0;
+	};
+	D96335A312208A1B00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 77";
+		rLen = 0;
+		rLoc = 3058;
+		rType = 0;
+		vrLen = 1819;
+		vrLoc = 1139;
+	};
+	D96335A412208A1B00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A21220625700FB6290 /* NXTClient.h */;
+		name = "NXTClient.h: 13";
+		rLen = 0;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 302;
+		vrLoc = 0;
+	};
+	D96335A512208A1B00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 17";
+		rLen = 0;
+		rLoc = 247;
+		rType = 0;
+		vrLen = 890;
+		vrLoc = 0;
+	};
+	D96335A612208A1B00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 21";
+		rLen = 0;
+		rLoc = 442;
+		rType = 0;
+		vrLen = 890;
+		vrLoc = 0;
+	};
+	D96335A712208A1B00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D96335A812208A1B00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 30";
+		rLen = 0;
+		rLoc = 778;
+		rType = 0;
+		vrLen = 890;
+		vrLoc = 0;
+	};
+	D96335AF12208A7B00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 22";
+		rLen = 0;
+		rLoc = 526;
+		rType = 0;
+		vrLen = 888;
+		vrLoc = 0;
+	};
+	D96335B012208A7B00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D96335B112208A7B00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 30";
+		rLen = 0;
+		rLoc = 778;
+		rType = 0;
+		vrLen = 888;
+		vrLoc = 0;
+	};
+	D96335BA12208AEA00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 19";
+		rLen = 0;
+		rLoc = 274;
+		rType = 0;
+		vrLen = 909;
+		vrLoc = 0;
+	};
+	D96335BB12208AEA00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D96335BC12208AEA00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 30";
+		rLen = 0;
+		rLoc = 778;
+		rType = 0;
+		vrLen = 909;
+		vrLoc = 0;
+	};
+	D96335C012208B0700B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 44";
+		rLen = 0;
+		rLoc = 1492;
+		rType = 0;
+		vrLen = 552;
+		vrLoc = 1069;
+	};
+	D96335C112208B1B00B81372 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+	};
+	D96335C412208B5800B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 9";
+		rLen = 0;
+		rLoc = 150;
+		rType = 0;
+		vrLen = 909;
+		vrLoc = 0;
+	};
+	D96335C512208B5800B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BE122068FA00FB6290 /* DriverUI.h */;
+		name = "DriverUI.h: 11";
+		rLen = 0;
+		rLoc = 153;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	D96335C612208B5800B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 65";
+		rLen = 0;
+		rLoc = 2467;
+		rType = 0;
+		vrLen = 2013;
+		vrLoc = 968;
+	};
+	D96335C912208B5800B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 80";
+		rLen = 0;
+		rLoc = 3171;
+		rType = 0;
+		vrLen = 2077;
+		vrLoc = 1064;
+	};
+	D96335CA12208B5800B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D96335CB12208B5800B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 30";
+		rLen = 0;
+		rLoc = 778;
+		rType = 0;
+		vrLen = 909;
+		vrLoc = 0;
+	};
+	D96335CF12208B7F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 65";
+		rLen = 0;
+		rLoc = 2467;
+		rType = 0;
+		vrLen = 2013;
+		vrLoc = 968;
+	};
+	D96335D012208B7F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		rLen = 0;
+		rLoc = 21;
+		rType = 1;
+	};
+	D96335D112208B7F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 22";
+		rLen = 0;
+		rLoc = 497;
+		rType = 0;
+		vrLen = 909;
+		vrLoc = 0;
+	};
+	D96335D212208B7F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 80";
+		rLen = 0;
+		rLoc = 3171;
+		rType = 0;
+		vrLen = 2077;
+		vrLoc = 1064;
+	};
+	D96335D312208B7F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D96335D412208B7F00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 30";
+		rLen = 0;
+		rLoc = 778;
+		rType = 0;
+		vrLen = 909;
+		vrLoc = 0;
+	};
+	D96335D512208BAF00B81372 /* DriverUI.m:42 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 42;
+		location = NXTDriver;
+		modificationTime = 304128572.555951;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	D96335D612208BAF00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		rLen = 1;
+		rLoc = 41;
+		rType = 1;
+	};
+	D96335D812208BC300B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 22";
+		rLen = 0;
+		rLoc = 497;
+		rType = 0;
+		vrLen = 909;
+		vrLoc = 0;
+	};
+	D96335D912208BC300B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BE122068FA00FB6290 /* DriverUI.h */;
+		name = "DriverUI.h: 11";
+		rLen = 0;
+		rLoc = 153;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	D96335DA12208BC300B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 50";
+		rLen = 0;
+		rLoc = 1751;
+		rType = 0;
+		vrLen = 1919;
+		vrLoc = 1064;
+	};
+	D96335DB12208BC300B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 80";
+		rLen = 0;
+		rLoc = 3171;
+		rType = 0;
+		vrLen = 2078;
+		vrLoc = 1064;
+	};
+	D96335DC12208BC300B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D96335DD12208BC300B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 30";
+		rLen = 0;
+		rLoc = 778;
+		rType = 0;
+		vrLen = 909;
+		vrLoc = 0;
+	};
+	D96335E212208C0000B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 77";
+		rLen = 0;
+		rLoc = 3058;
+		rType = 0;
+		vrLen = 1525;
+		vrLoc = 1616;
+	};
+	D96335E312208C0000B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 22";
+		rLen = 0;
+		rLoc = 497;
+		rType = 0;
+		vrLen = 909;
+		vrLoc = 0;
+	};
+	D96335E412208C0000B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 30";
+		rLen = 0;
+		rLoc = 778;
+		rType = 0;
+		vrLen = 907;
+		vrLoc = 0;
+	};
+	D96335E512208C0000B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 80";
+		rLen = 0;
+		rLoc = 3171;
+		rType = 0;
+		vrLen = 2077;
+		vrLoc = 1064;
+	};
+	D96335E612208C0000B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D96335E712208C0000B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 30";
+		rLen = 0;
+		rLoc = 778;
+		rType = 0;
+		vrLen = 907;
+		vrLoc = 0;
+	};
+	D96335EE12208C8C00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		rLen = 1;
+		rLoc = 30;
+		rType = 1;
+	};
+	D96335EF12208CD600B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BE122068FA00FB6290 /* DriverUI.h */;
+		name = "DriverUI.h: 11";
+		rLen = 0;
+		rLoc = 153;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	D96335F012208CD600B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 76";
+		rLen = 0;
+		rLoc = 3016;
+		rType = 0;
+		vrLen = 1397;
+		vrLoc = 1750;
+	};
+	D96335F112208CD600B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 20";
+		rLen = 0;
+		rLoc = 397;
+		rType = 0;
+		vrLen = 914;
+		vrLoc = 0;
+	};
+	D96335F212208CD600B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 32";
+		rLen = 0;
+		rLoc = 856;
+		rType = 0;
+		vrLen = 914;
+		vrLoc = 0;
+	};
+	D96335F312208CD600B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 80";
+		rLen = 0;
+		rLoc = 3171;
+		rType = 0;
+		vrLen = 2078;
+		vrLoc = 1064;
+	};
+	D96335F412208CD600B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D963360412208ECE00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 19";
+		rLen = 0;
+		rLoc = 274;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 0;
+	};
+	D963360512208ECE00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 32";
+		rLen = 0;
+		rLoc = 854;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 0;
+	};
+	D963360612208ECE00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 80";
+		rLen = 0;
+		rLoc = 3171;
+		rType = 0;
+		vrLen = 2077;
+		vrLoc = 1064;
+	};
+	D963360712208ECE00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D963360B12208F5C00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 17";
+		rLen = 0;
+		rLoc = 247;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 0;
+	};
+	D963360C12208F5C00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BE122068FA00FB6290 /* DriverUI.h */;
+		name = "DriverUI.h: 11";
+		rLen = 0;
+		rLoc = 153;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	D963360D12208F5C00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 76";
+		rLen = 0;
+		rLoc = 3016;
+		rType = 0;
+		vrLen = 1497;
+		vrLoc = 1650;
+	};
+	D963360E12208F5C00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 33";
+		rLen = 0;
+		rLoc = 854;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 0;
+	};
+	D963360F12208F5C00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 80";
+		rLen = 0;
+		rLoc = 3171;
+		rType = 0;
+		vrLen = 2078;
+		vrLoc = 1064;
+	};
+	D963361012208F5C00B81372 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 21";
+		rLen = 0;
+		rLoc = 441;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 0;
+	};
+	D97407851220621500FB6290 /* NXTDriver */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = NXTDriver;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	D97407961220622800FB6290 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D97407971220622800FB6290 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D97407A21220625700FB6290 /* NXTClient.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 766}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{0, 302}";
+		};
+	};
+	D97407A31220625700FB6290 /* NXTClient.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1160, 954}}";
+			sepNavSelRange = "{854, 0}";
+			sepNavVisRange = "{0, 915}";
+			sepNavWindowFrame = "{{15, 69}, {750, 1105}}";
+		};
+	};
+	D97407BE122068FA00FB6290 /* DriverUI.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 762}}";
+			sepNavSelRange = "{153, 0}";
+			sepNavVisRange = "{0, 351}";
+		};
+	};
+	D97407BF122068FA00FB6290 /* DriverUI.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1599}}";
+			sepNavSelRange = "{3171, 0}";
+			sepNavVisRange = "{968, 2173}";
+			sepNavWindowFrame = "{{15, 69}, {750, 1105}}";
+		};
+	};
+	D97407D4122071EE00FB6290 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A21220625700FB6290 /* NXTClient.h */;
+		name = "NXTClient.h: 10";
+		rLen = 0;
+		rLoc = 163;
+		rType = 0;
+		vrLen = 301;
+		vrLoc = 0;
+	};
+	D97407D5122071EE00FB6290 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BE122068FA00FB6290 /* DriverUI.h */;
+		name = "DriverUI.h: 17";
+		rLen = 0;
+		rLoc = 264;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	D97407D7122071EE00FB6290 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407A31220625700FB6290 /* NXTClient.m */;
+		name = "NXTClient.m: 26";
+		rLen = 50;
+		rLoc = 656;
+		rType = 0;
+		vrLen = 861;
+		vrLoc = 0;
+	};
+	D97407DF1220727600FB6290 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32B111B888700E27156 /* AppDelegate_iPad.h */;
+		name = "AppDelegate_iPad.h: 16";
+		rLen = 18;
+		rLoc = 349;
+		rType = 0;
+		vrLen = 433;
+		vrLoc = 0;
+	};
+	D97407E3122072E100FB6290 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 45";
+		rLen = 0;
+		rLoc = 1426;
+		rType = 0;
+		vrLen = 1756;
+		vrLoc = 132;
+	};
+	D974080C1220761200FB6290 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 75";
+		rLen = 0;
+		rLoc = 2989;
+		rType = 0;
+		vrLen = 1636;
+		vrLoc = 1297;
+	};
+	D9F42606122076ED004529E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D97407BF122068FA00FB6290 /* DriverUI.m */;
+		name = "DriverUI.m: 46";
+		rLen = 0;
+		rLoc = 1619;
+		rType = 0;
+		vrLen = 1634;
+		vrLoc = 1297;
+	};
+}
