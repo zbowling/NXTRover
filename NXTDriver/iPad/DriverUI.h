@@ -7,17 +7,27 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <GameKit/GameKit.h>
 
-
-@interface DriverUI : UIViewController {
+@interface DriverUI : UIViewController<GKPeerPickerControllerDelegate,GKSessionDelegate> {
 	BOOL running;
 	NSTimer *sendTimer;
 	double ax;
 	double ay;
 	double az; 
+	IBOutlet UILabel *speedLabel;
+	IBOutlet UILabel *leftLabel;
+	IBOutlet UILabel *rightLabel;
+	GKPeerPickerController *mPicker;
+	GKSession *mSession;
+	IBOutlet UISwitch *switchContol;
 }
-
+@property (nonatomic, retain) IBOutlet UILabel* speedLabel;
+@property (nonatomic, retain) IBOutlet UILabel* leftLabel;
+@property (nonatomic, retain) IBOutlet UILabel* rightLabel;
 - (IBAction) goButtonDown:(id)sender;
 - (IBAction) goButtonUp:(id)sender;
+- (IBAction) hostingSwitch:(id)sender;
 
+@property (retain) GKSession *mSession;
 @end

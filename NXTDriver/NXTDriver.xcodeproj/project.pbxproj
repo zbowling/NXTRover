@@ -15,6 +15,7 @@
 		2860E32E111B888700E27156 /* AppDelegate_iPad.m in Sources */ = {isa = PBXBuildFile; fileRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */; };
 		2860E32F111B888700E27156 /* MainWindow_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2860E32D111B888700E27156 /* MainWindow_iPad.xib */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		D90B9A3A122116FD0007190E /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D90B9A39122116FD0007190E /* GameKit.framework */; };
 		D97407A41220625700FB6290 /* NXTClient.m in Sources */ = {isa = PBXBuildFile; fileRef = D97407A31220625700FB6290 /* NXTClient.m */; };
 		D97407B81220688C00FB6290 /* DriverUIiPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = D97407B71220688C00FB6290 /* DriverUIiPad.xib */; };
 		D97407C1122068FA00FB6290 /* DriverUI.m in Sources */ = {isa = PBXBuildFile; fileRef = D97407BF122068FA00FB6290 /* DriverUI.m */; };
@@ -35,6 +36,7 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Shared/main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* NXTDriver_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NXTDriver_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* NXTDriver-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "NXTDriver-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		D90B9A39122116FD0007190E /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
 		D97407A21220625700FB6290 /* NXTClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NXTClient.h; sourceTree = "<group>"; };
 		D97407A31220625700FB6290 /* NXTClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NXTClient.m; sourceTree = "<group>"; };
 		D97407B71220688C00FB6290 /* DriverUIiPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DriverUIiPad.xib; sourceTree = "<group>"; };
@@ -51,6 +53,7 @@
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				D90B9A3A122116FD0007190E /* GameKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -127,6 +130,7 @@
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+				D90B9A39122116FD0007190E /* GameKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";

@@ -16,17 +16,30 @@
 
 #pragma mark -
 #pragma mark Application lifecycle
+#define degreesToRadians(x) (M_PI * x / 180.0)
 
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    	
+	//self.driverUIController = [[[DriverUI alloc] initWithNibName:@"DriverUI" bundle: [NSBundle mainBundle]] autorelease];
+    // Override point for customization after application launch
 	
-	self.driverUIController = [[[DriverUI alloc] initWithNibName:@"DriverUI" bundle: [NSBundle mainBundle]] autorelease];
-    // Override point for customization after application launch.
+	window.autoresizesSubviews = YES;
+
 	[window addSubview:self.driverUIController.view];
+	//window.rootViewController = self.driverUIController;
     [window makeKeyAndVisible];
 	
+	//[[UIDevice currentDevice] setOrientation: UIInterfaceOrientationLandscapeRight];
 	return YES;
 }
 
+-(void) receivedRotate: (NSNotification*) notification
+{
+	UIDeviceOrientation interfaceOrientation = [[UIDevice currentDevice] orientation];
+	
+	if(interfaceOrientation != UIDeviceOrientationUnknown)
+		[self deviceInterfaceOrientationChanged:interfaceOrientation];
+}
 
 - (void)applicationWillResignActive:(UIApplication *)application {
     /*
@@ -49,6 +62,10 @@
      */
 }
 
+- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
+    // Return YES for supported orientations
+    return (interfaceOrientation == UIInterfaceOrientationLandscapeRight);
+}
 
 #pragma mark -
 #pragma mark Memory management

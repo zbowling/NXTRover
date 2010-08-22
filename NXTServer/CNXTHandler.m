@@ -24,12 +24,17 @@
 
 - (id)init
 {
-if ((self = [super init]) != NULL)
+	if ((self = [super init]) != NULL)
     {
-    nxt = [[NXT alloc] init];
-    [nxt connect:self];
+		al = 0;
+		ar = 0;
+		tick = 0;
+		nxt = [[NXT alloc] init];
+		[nxt connect:self];
+		//timer = [NSTimer scheduledTimerWithTimeInterval:1.0 target:self selector:@selector(moveCar) userInfo:nil repeats:YES];
+		//[self performSelector:@selector(moveCar) withObject:nil afterDelay:3.0];   
     }
-return(self);
+	return(self);
 }
 
 - (void)dealloc
@@ -42,26 +47,39 @@ nxt = NULL;
 
 - (BOOL)handleRequest:(CHTTPMessage *)inRequest forConnection:(CHTTPConnection *)inConnection response:(CHTTPMessage **)ioResponse error:(NSError **)outError;
 {
-NSDictionary *theQueryDictionary = inRequest.requestURL.queryDictionary;
+	NSDictionary *theQueryDictionary = inRequest.requestURL.queryDictionary;
+	
+	NSString *theValue = [theQueryDictionary objectForKey:@"left"];
+	if (theValue)
+    {
+		SInt8 thePower = [theValue intValue];
+		al = thePower;
+		//[self.nxt moveServo:0 power:thePower tacholimit:0];
+    }
+	
+	theValue = [theQueryDictionary objectForKey:@"right"];
+	if (theValue)
+    {
+		SInt8 thePower = [theValue intValue];
+		ar = thePower;
+		//[self.nxt moveServo:1 power:thePower tacholimit:0];
+    }
+	
+	tick = 10;
+	
+	[self moveCar];
+	//[self performSelectorInBackground:@selector(moveCar) withObject:nil]; 
+	
+	if (ioResponse)
+	{
+		*ioResponse = [CHTTPMessage HTTPMessageResponseWithStatusCode:kHTTPStatusCode_OK];
+	}
+	return(YES);
+}
 
-NSString *theValue = [theQueryDictionary objectForKey:@"left"];
-if (theValue)
-    {
-    SInt8 thePower = [theValue intValue];
-    [self.nxt moveServo:0 power:thePower tacholimit:50];
-    }
-theValue = [theQueryDictionary objectForKey:@"right"];
-if (theValue)
-    {
-    SInt8 thePower = [theValue intValue];
-    [self.nxt moveServo:1 power:thePower tacholimit:50];
-    }
-
-if (ioResponse)
-    {
-    *ioResponse = [CHTTPMessage HTTPMessageResponseWithStatusCode:kHTTPStatusCode_OK];
-    }
-return(YES);
+- (void)moveCar {
+	[self.nxt moveServo:0 power:al tacholimit:0];
+	[self.nxt moveServo:1 power:ar tacholimit:0];
 }
 
 #pragma mark -

@@ -14,6 +14,9 @@
 
 @interface CNXTHandler : NSObject <CHTTPRequestHandler> {
     NXT *nxt;
+	SInt8 al,ar;
+	UInt16 tick;
+	NSTimer *timer; 
 }
 
 @end

@@ -10,8 +10,8 @@
 #import "DriverUI.h" 
 
 @interface AppDelegate_iPad : NSObject <UIApplicationDelegate> {
-	UIWindow *window;
-	DriverUI *driverUIController;
+	IBOutlet UIWindow *window;
+	IBOutlet DriverUI *driverUIController;
 }
 @property (nonatomic, retain) IBOutlet DriverUI *driverUIController;
 @property (nonatomic, retain) IBOutlet UIWindow *window;

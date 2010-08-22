@@ -19,7 +19,7 @@
 
 	NSURLRequest *theRequest=[NSURLRequest requestWithURL:[NSURL URLWithString:[NSString stringWithFormat: @"http://%@:8080/go?left=%d&right=%d",server,left,right]]
 											  cachePolicy:NSURLRequestUseProtocolCachePolicy
-										  timeoutInterval:4];
+										  timeoutInterval:1];
 	
 	
 	

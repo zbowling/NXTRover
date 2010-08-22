@@ -10,6 +10,7 @@
 #import "NXTClient.h"
 
 @implementation DriverUI
+@synthesize leftLabel, rightLabel, speedLabel, mSession;
 
 /*
  // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
@@ -40,8 +41,10 @@
     theAccelerometer.updateInterval = 1 / kAccelerometerFrequency;
 	
     theAccelerometer.delegate = self;
-	
-	sendTimer = [NSTimer scheduledTimerWithTimeInterval:4.0 target:self selector:@selector(moveCar) userInfo:nil repeats:YES];
+	mPicker=[[GKPeerPickerController alloc] init];
+	mPicker.delegate=self;
+	mPicker.connectionTypesMask = GKPeerPickerConnectionTypeNearby | GKPeerPickerConnectionTypeOnline;
+	sendTimer = [NSTimer scheduledTimerWithTimeInterval:1.0 target:self selector:@selector(moveCar) userInfo:nil repeats:YES];
 	
 }
 
@@ -56,13 +59,13 @@
 }
 
 
-/*
+
 // Override to allow orientations other than the default portrait orientation.
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
     // Return YES for supported orientations
-    return (interfaceOrientation == UIInterfaceOrientationPortrait);
+    return (interfaceOrientation == UIInterfaceOrientationLandscapeRight);
 }
-*/
+
 
 - (void)didReceiveMemoryWarning {
     // Releases the view if it doesn't have a superview.
@@ -73,9 +76,9 @@
 
 - (void)moveCar {
 	SInt8 left, right;
-	if (running)
+	/*if (running)
 	{
-		if (ay < 0)
+		if (ay > 0)
 		{
 			left = 50;
 			right = 50 - (ay * -50.0);
@@ -85,25 +88,57 @@
 			right = 50;
 		}
 	}
-	else {
-		if (ay < 0)
+	else {*/
+#define MAXVIDEO 
+	double speed = ax * 100.0;
+	if (ax>0.1 || ax < -0.1) {
+		if (ay > 0)
 		{
-			left = ay * 50;
-			right = ay * -50;
+			left = speed;
+			right = (1.0 - fabs(ay)) * speed;
 		}
 		else {
-			left = ay * -50;
-			right = ay * 50;
+			left = (1.0 - fabs(ay)) * speed;
+			right = speed;
 		}
 	}
-
+	else {
+		if (ay > 0)
+		{
+			left = speed;
+			right = speed - (ay * -100.0);
+		}
+		else {
+			left = speed - (ay * 100.0);
+			right = speed;
+		}
+	}
+	
+	speedLabel.text = [NSString stringWithFormat:@"%d",speed];
+	leftLabel.text = [NSString stringWithFormat:@"%d",left];
+	rightLabel.text = [NSString stringWithFormat:@"%d",right];
+	
+	//}
+	if (running)
+		NSLog(@"running: running\nleft: %d\nright:%d",left,right);
+	else
+		NSLog(@"running: not running\nleft: %d\nright:%d",left,right);
 		
 	@try {
-		[NXTClient sendGoMessage:@"192.168.90.228" left:left right:right];
+		[NXTClient sendGoMessage:@"10.0.2.1" left:left right:right];
 	}
 	@catch ( NSException *e ) {
 		NSLog (@"The exception is:\n name: %@\nreason: %@"
 			   , [e name], [e reason]);
+	}
+	
+	
+}
+
+- (IBAction) hostingSwitch:(id) sender {
+	if (switchContol.on)
+	{
+		myGKSession = [[GKSession alloc] initWithSessionID:sessionID displayName:nil sessionMode:GKSessionModeServer];
 	}
 	
 }

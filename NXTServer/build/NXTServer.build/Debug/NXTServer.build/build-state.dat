@@ -1,7 +1,7 @@
 TNXTServer
 v7
 r0
-t304126693.129024
+t304157935.428987
 cCheck dependencies
 cProcessInfoPlistFile /Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app/Contents/Info.plist NXTServer-Info.plist
 cCopyStringsFile /Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
@@ -1243,16 +1243,16 @@ t1282419131
 s41176
 
 N/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.h
-c000000004C703C2B0000000000000127
-t1282423851
-s295
+c000000004C7072F00000000000000155
+t1282437872
+s341
 i<Cocoa/Cocoa.h>
 i"CHTTPRequestHandler.h"
 
 N/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m
-c000000004C703C2B0000000000000AD0
-t1282423851
-s2768
+c000000004C70CF2D0000000000000CB6
+t1282461485
+s3254
 i"CNXTHandler.h"
 i"LegoNXT/LegoNXT.h"
 i"CHTTPMessage.h"
@@ -1281,9 +1281,9 @@ s716
 i<Cocoa/Cocoa.h>
 
 N/Users/zbowling/projects/NXTRover/NXTServer/NXTServerAppDelegate.m
-c000000004C703C2B0000000000000455
-t1282423851
-s1109
+c000000004C70672B0000000000000456
+t1282434859
+s1110
 i"NXTServerAppDelegate.h"
 i"CHTTPServer.h"
 i"CNXTHandler.h"
@@ -1296,7 +1296,7 @@ s149
 i<Cocoa/Cocoa.h>
 
 N/Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app
-t1282433893
+t1282461491
 s102
 
 N/Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app/Contents/Info.plist
@@ -1304,8 +1304,8 @@ t1282428607
 s892
 
 N/Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app/Contents/MacOS/NXTServer
-t1282433892
-s274768
+t1282461491
+s278972
 
 N/Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app/Contents/PkgInfo
 t1282428607
@@ -1408,8 +1408,8 @@ t2
 s0
 
 N/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/CNXTHandler.o
-t1282433890
-s23608
+t1282461491
+s24232
 
 N/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/CNumberToStringValueTransformer.o
 t1282433889
@@ -1581,8 +1581,8 @@ t1282428607
 s7549
 
 N/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/NXTServerAppDelegate.o
-t1282433885
-s22044
+t1282437963
+s22360
 
 N/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/TouchHTTPDConstants.o
 t1282433886
@@ -2022,7 +2022,7 @@ s1002
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies304126678#304126679#0(0"0(0#1#0"8627391392#0"0#
+lSLF07#2@18"Check dependencies304157935#304157935#0(0"0(0#1#0"8617037280#0"0#
 
 CCompileC build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/Base64Transcoder.o /Users/zbowling/projects/NXTRover/NXTServer/../Externals/TouchFoundation/Source/Base64Transcoder.c normal i386 c com.apple.compilers.gcc.4_2
 s304126687.068969
@@ -2348,8 +2348,8 @@ o/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CN
 lSLF07#2@101"Compile /Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304117337#304117337#0(4252"In file included from /Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:30:/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.h:32:20: error: natpmp.h: No such file or directoryIn file included from /Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:30:/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.h:35: error: expected specifier-qualifier-list before 'natpmp_t'/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:33:24: error: getgateway.h: No such file or directory/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m: In function '-[CNATPMPManager init]':/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:43: warning: implicit declaration of function 'initnatpmp'/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:43: error: 'natpmp' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:43: error: (Each undeclared identifier is reported only once/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:43: error: for each function it appears in.)/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m: In function '-[CNATPMPManager dealloc]':/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:50: warning: implicit declaration of function 'closenatpmp'/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:50: error: 'natpmp' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m: In function '-[CNATPMPManager externalAddress:]':/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:59: warning: implicit declaration of function 'sendpublicaddressrequest'/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:59: error: 'natpmp' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:60: error: 'natpmpresp_t' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:60: error: expected ';' before 'theResponse'/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:63: warning: implicit declaration of function 'readnatpmpresponseorretry'/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:63: error: 'theResponse' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:64: error: 'NATPMP_TRYAGAIN' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m: In function '-[CNATPMPManager openPortForProtocol:privatePort:publicPort:lifetime:error:]':/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:79: error: 'natpmpresp_t' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:79: error: expected ';' before 'theResponse'/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:82: warning: implicit declaration of function 'sendnewportmappingrequest'/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:82: error: 'natpmp' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:86: error: 'theResponse' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m:87: error: 'NATPMP_TRYAGAIN' undeclared (first use in this function)20(4@35"Natpmp.h: No such file or directory304117337#120#144#2(7@115"In file included from /Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304117337#18446744073709551615#0#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#30#0#30#0#0"0(13@132"Natpmp.h: No such file or directory in /Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.h304117337#18446744073709551615#0#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.h304116811#32#0#32#0#0"0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.h304116811#32#0#32#0#28"*: No such file or directory0(4@51"Expected specifier-qualifier-list before 'natpmp_t'304117337#384#157#2(7@115"In file included from /Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304117337#18446744073709551615#0#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#30#0#30#0#0"0(13@148"Expected specifier-qualifier-list before 'natpmp_t' in /Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.h304117337#18446744073709551615#0#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.h304116811#35#0#35#0#0"0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.h304116811#35#0#35#0#19"expected * before *0(4@39"Getgateway.h: No such file or directory304117337#541#148#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#33#0#33#0#28"*: No such file or directory0(22@45"Implicit declaration of function 'initnatpmp'304117337#822#153#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#43#0#43#0#36"implicit declaration of function '*'0(4@48"'natpmp' undeclared (first use in this function)304117337#975#154#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#43#0#43#0#43"'*' undeclared (first use in this function)0(22@46"Implicit declaration of function 'closenatpmp'304117337#1559#154#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#50#0#50#0#36"implicit declaration of function '*'0(4@48"'natpmp' undeclared (first use in this function)304117337#1713#154#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#50#0#50#0#43"'*' undeclared (first use in this function)0(22@59"Implicit declaration of function 'sendpublicaddressrequest'304117337#2012#167#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#59#0#59#0#36"implicit declaration of function '*'0(4@48"'natpmp' undeclared (first use in this function)304117337#2179#154#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#59#0#59#0#43"'*' undeclared (first use in this function)0(4@54"'natpmpresp_t' undeclared (first use in this function)304117337#2333#160#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#60#0#60#0#43"'*' undeclared (first use in this function)0(4@33"Expected ';' before 'theResponse'304117337#2493#139#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#60#0#60#0#19"expected * before *0(22@60"Implicit declaration of function 'readnatpmpresponseorretry'304117337#2632#168#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#63#0#63#0#36"implicit declaration of function '*'0(4@53"'theResponse' undeclared (first use in this function)304117337#2800#159#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#63#0#63#0#43"'*' undeclared (first use in this function)0(4@57"'NATPMP_TRYAGAIN' undeclared (first use in this function)304117337#2959#163#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#64#0#64#0#43"'*' undeclared (first use in this function)0(4@54"'natpmpresp_t' undeclared (first use in this function)304117337#3309#160#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#79#0#79#0#43"'*' undeclared (first use in this function)0(4@33"Expected ';' before 'theResponse'304117337#3469#139#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#79#0#79#0#19"expected * before *0(22@60"Implicit declaration of function 'sendnewportmappingrequest'304117337#3608#168#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#82#0#82#0#36"implicit declaration of function '*'0(4@48"'natpmp' undeclared (first use in this function)304117337#3776#154#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#82#0#82#0#43"'*' undeclared (first use in this function)0(4@53"'theResponse' undeclared (first use in this function)304117337#3930#159#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#86#0#86#0#43"'*' undeclared (first use in this function)0(4@57"'NATPMP_TRYAGAIN' undeclared (first use in this function)304117337#4089#163#0(6@93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m304116811#87#0#87#0#43"'*' undeclared (first use in this function)0(0#0#93"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m8599858272#1592"    cd /Users/zbowling/projects/NXTRover/NXTServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTServer/build/Debug -I/Users/zbowling/projects/NXTRover/NXTServer/build/Debug/include -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTServer_Prefix-fgzfdaoyajaoihfjqkzvzuisrxia/NXTServer_Prefix.pch -c /Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/NATPMP/CNATPMPManager.m -o /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/CNATPMPManager.o1#
 
 CCompileC build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/CNXTHandler.o /Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s304126689.796286
-e304126690.061473
+s304154289.786869
+e304154291.377985
 r1
 xCompileC
 xbuild/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/CNXTHandler.o
@@ -2358,7 +2358,12 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m304126689#304126690#0(0"0(0#0#57"/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m8626338176#1779"    cd /Users/zbowling/projects/NXTRover/NXTServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTServer/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Release -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/NXTServer/build/Debug/include -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTServer_Prefix-cmbfrkfxebwgzxddscbxmeiwcrsc/NXTServer_Prefix.pch -c /Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m -o /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/CNXTHandler.o0#
+o/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m: In function '-[CNXTHandler handleRequest:forConnection:response:error:]':
+o/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m:70: warning: 'CNXTHandler' may not respond to '-moveCar'
+o/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m:70: warning: (Messages without a matching method signature
+o/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m:70: warning: will be assumed to return 'id' and accept
+o/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m:70: warning: '...' as arguments.)
+lSLF07#2@65"Compile /Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m304154289#304154291#0(570"/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m: In function '-[CNXTHandler handleRequest:forConnection:response:error:]':/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m:70: warning: 'CNXTHandler' may not respond to '-moveCar'/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m:70: warning: (Messages without a matching method signature/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m:70: warning: will be assumed to return 'id' and accept/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m:70: warning: '...' as arguments.)2(22@43"'CNXTHandler' may not respond to '-moveCar'304154291#133#115#0(6@57"/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m304154285#70#0#70#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)304154291#248#117#0(6@57"/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m304154285#70#0#70#0#0"0(0#0#57"/Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m8708870336#1779"    cd /Users/zbowling/projects/NXTRover/NXTServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTServer/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Release -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/NXTServer/build/Debug/include -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTServer_Prefix-cmbfrkfxebwgzxddscbxmeiwcrsc/NXTServer_Prefix.pch -c /Users/zbowling/projects/NXTRover/NXTServer/CNXTHandler.m -o /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/CNXTHandler.o0#
 
 CCompileC build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/CNumberToStringValueTransformer.o /Users/zbowling/projects/NXTRover/NXTServer/../Externals/TouchFoundation/Source/ValueTransformers/CNumberToStringValueTransformer.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s304126689.770247
@@ -2912,8 +2917,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@119"Compile /Users/zbowling/projects/NXTRover/NXTServer/../Externals/TouchFoundation/Source/Extensions/NSValue_Extensions.m304126689#304126689#0(0"0(0#0#111"/Users/zbowling/projects/NXTRover/NXTServer/../Externals/TouchFoundation/Source/Extensions/NSValue_Extensions.m8610119712#1840"    cd /Users/zbowling/projects/NXTRover/NXTServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTServer/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Release -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/NXTServer/build/Debug/include -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTServer_Prefix-cmbfrkfxebwgzxddscbxmeiwcrsc/NXTServer_Prefix.pch -c /Users/zbowling/projects/NXTRover/NXTServer/../Externals/TouchFoundation/Source/Extensions/NSValue_Extensions.m -o /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/NSValue_Extensions.o0#
 
 CCompileC build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/NXTServerAppDelegate.o /Users/zbowling/projects/NXTRover/NXTServer/NXTServerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s304126685.229351
-e304126685.798112
+s304130763.038248
+e304130763.532648
 r1
 xCompileC
 xbuild/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/NXTServerAppDelegate.o
@@ -2922,7 +2927,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@74"Compile /Users/zbowling/projects/NXTRover/NXTServer/NXTServerAppDelegate.m304126685#304126685#0(0"0(0#0#66"/Users/zbowling/projects/NXTRover/NXTServer/NXTServerAppDelegate.m8626406272#1797"    cd /Users/zbowling/projects/NXTRover/NXTServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTServer/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Release -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/NXTServer/build/Debug/include -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTServer_Prefix-cmbfrkfxebwgzxddscbxmeiwcrsc/NXTServer_Prefix.pch -c /Users/zbowling/projects/NXTRover/NXTServer/NXTServerAppDelegate.m -o /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/NXTServerAppDelegate.o0#
+lSLF07#2@74"Compile /Users/zbowling/projects/NXTRover/NXTServer/NXTServerAppDelegate.m304130763#304130763#0(0"0(0#0#66"/Users/zbowling/projects/NXTRover/NXTServer/NXTServerAppDelegate.m8649430048#1797"    cd /Users/zbowling/projects/NXTRover/NXTServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTServer/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Release -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/NXTServer/build/Debug/include -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTServer_Prefix-cmbfrkfxebwgzxddscbxmeiwcrsc/NXTServer_Prefix.pch -c /Users/zbowling/projects/NXTRover/NXTServer/NXTServerAppDelegate.m -o /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/NXTServerAppDelegate.o0#
 
 CCompileC build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/TouchHTTPDConstants.o /Users/zbowling/projects/NXTRover/NXTServer/../Externals/HTTPD/Source/HTTP/TouchHTTPDConstants.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s304126686.568985
@@ -3946,14 +3951,14 @@ CCpResource build/Debug/NXTServer.app/Contents/Resources/NXTServer.app build/Deb
 r0
 
 CLd /Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app/Contents/MacOS/NXTServer normal i386
-s304126690.061568
-e304126693.054403
+s304154291.378128
+e304154291.479031
 r1
 xLd
 x/Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app/Contents/MacOS/NXTServer
 xnormal
 xi386
-lSLF07#2@99"Link /Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app/Contents/MacOS/NXTServer304126690#304126693#0(0"0(0#0#0"8627445984#884"    cd /Users/zbowling/projects/NXTRover/NXTServer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zbowling/projects/NXTRover/NXTServer/build/Debug -L/Users/zbowling/projects/NXTRover/NXTServer -F/Users/zbowling/projects/NXTRover/NXTServer/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Release -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -filelist /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/NXTServer.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Security -framework LegoNXT -o /Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app/Contents/MacOS/NXTServer0#
+lSLF07#2@99"Link /Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app/Contents/MacOS/NXTServer304154291#304154291#0(0"0(0#0#0"8709625376#884"    cd /Users/zbowling/projects/NXTRover/NXTServer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zbowling/projects/NXTRover/NXTServer/build/Debug -L/Users/zbowling/projects/NXTRover/NXTServer -F/Users/zbowling/projects/NXTRover/NXTServer/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Release -F/Users/zbowling/projects/NXTRover/NXTServer/legonxtremote/build/Release -filelist /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/Objects-normal/i386/NXTServer.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Security -framework LegoNXT -o /Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app/Contents/MacOS/NXTServer0#
 
 CLd /Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app/Contents/MacOS/NXTServer normal x86_64
 r0
@@ -4185,10 +4190,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@31"Precompile NXTServer_Prefix.pch304119591#304119591#0(0"0(0#0#64"/Users/zbowling/projects/NXTRover/NXTServer/NXTServer_Prefix.pch8619921152#1515"    cd /Users/zbowling/projects/NXTRover/NXTServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -mfix-and-continue -gdwarf-2 -iquote /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/NXTServer-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTServer/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Debug -F/Users/zbowling/projects/NXTRover/NXTServer/../legonxtremote/build/Release -I/Users/zbowling/projects/NXTRover/NXTServer/build/Debug/include -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTServer/build/NXTServer.build/Debug/NXTServer.build/DerivedSources -c /Users/zbowling/projects/NXTRover/NXTServer/NXTServer_Prefix.pch -o /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTServer_Prefix-flnpsaokdirwefbeswndvdscnxpz/NXTServer_Prefix.pch.gch0#
 
 CTouch /Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app
-s304126693.054599
-e304126693.128977
+s304154291.479145
+e304154291.489162
 r1
 xTouch
 x/Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app
-lSLF07#2@75"Touch /Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app304126693#304126693#0(0"0(0#0#0"8626111168#143"    cd /Users/zbowling/projects/NXTRover/NXTServer    /usr/bin/touch -c /Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app0#
+lSLF07#2@75"Touch /Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app304154291#304154291#0(0"0(0#0#0"8708951520#143"    cd /Users/zbowling/projects/NXTRover/NXTServer    /usr/bin/touch -c /Users/zbowling/projects/NXTRover/NXTServer/build/Debug/NXTServer.app0#
 
