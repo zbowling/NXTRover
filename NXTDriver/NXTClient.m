@@ -15,9 +15,10 @@
 
 + (void) sendGoMessage:(NSString*)server 
 				  left:(SInt8)left 
-				 right:(SInt8)right {
+				 right:(SInt8)right
+				 shoot:(SInt8)shoot{
 
-	NSURLRequest *theRequest=[NSURLRequest requestWithURL:[NSURL URLWithString:[NSString stringWithFormat: @"http://%@:8080/go?left=%d&right=%d",server,left,right]]
+	NSURLRequest *theRequest=[NSURLRequest requestWithURL:[NSURL URLWithString:[NSString stringWithFormat: @"http://%@:8080/go?left=%d&right=%d&shoot=%d",server,left,right,shoot]]
 											  cachePolicy:NSURLRequestUseProtocolCachePolicy
 										  timeoutInterval:1];
 	

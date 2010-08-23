@@ -16,6 +16,7 @@
 
 + (void)sendGoMessage:(NSString*)server 
 				  left:(SInt8)left 
-				 right:(SInt8)right;
+				 right:(SInt8)right
+				shoot:(SInt8)shoot;
 
 @end

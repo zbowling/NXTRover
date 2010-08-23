@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <GameKit/GameKit.h>
+#define SESSION_ID @"nxtdriver"
 
 @interface DriverUI : UIViewController<GKPeerPickerControllerDelegate,GKSessionDelegate> {
 	BOOL running;
@@ -18,13 +19,14 @@
 	IBOutlet UILabel *speedLabel;
 	IBOutlet UILabel *leftLabel;
 	IBOutlet UILabel *rightLabel;
-	GKPeerPickerController *mPicker;
 	GKSession *mSession;
 	IBOutlet UISwitch *switchContol;
+	IBOutlet UIImageView *imageView;
 }
 @property (nonatomic, retain) IBOutlet UILabel* speedLabel;
 @property (nonatomic, retain) IBOutlet UILabel* leftLabel;
 @property (nonatomic, retain) IBOutlet UILabel* rightLabel;
+@property (nonatomic, retain) IBOutlet UIImageView *imageView;
 - (IBAction) goButtonDown:(id)sender;
 - (IBAction) goButtonUp:(id)sender;
 - (IBAction) hostingSwitch:(id)sender;

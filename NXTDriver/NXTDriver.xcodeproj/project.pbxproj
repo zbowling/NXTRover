@@ -16,6 +16,9 @@
 		2860E32F111B888700E27156 /* MainWindow_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2860E32D111B888700E27156 /* MainWindow_iPad.xib */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		D90B9A3A122116FD0007190E /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D90B9A39122116FD0007190E /* GameKit.framework */; };
+		D92562B51221CF3000F35A28 /* super_rover2b.png in Resources */ = {isa = PBXBuildFile; fileRef = D92562B41221CF3000F35A28 /* super_rover2b.png */; };
+		D92562BD1221D02D00F35A28 /* super_rover2c.png in Resources */ = {isa = PBXBuildFile; fileRef = D92562BC1221D02D00F35A28 /* super_rover2c.png */; };
+		D92562C21221D07800F35A28 /* super_rover2.png in Resources */ = {isa = PBXBuildFile; fileRef = D92562C11221D07800F35A28 /* super_rover2.png */; };
 		D97407A41220625700FB6290 /* NXTClient.m in Sources */ = {isa = PBXBuildFile; fileRef = D97407A31220625700FB6290 /* NXTClient.m */; };
 		D97407B81220688C00FB6290 /* DriverUIiPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = D97407B71220688C00FB6290 /* DriverUIiPad.xib */; };
 		D97407C1122068FA00FB6290 /* DriverUI.m in Sources */ = {isa = PBXBuildFile; fileRef = D97407BF122068FA00FB6290 /* DriverUI.m */; };
@@ -37,6 +40,9 @@
 		32CA4F630368D1EE00C91783 /* NXTDriver_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NXTDriver_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* NXTDriver-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "NXTDriver-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		D90B9A39122116FD0007190E /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
+		D92562B41221CF3000F35A28 /* super_rover2b.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = super_rover2b.png; sourceTree = "<group>"; };
+		D92562BC1221D02D00F35A28 /* super_rover2c.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = super_rover2c.png; sourceTree = "<group>"; };
+		D92562C11221D07800F35A28 /* super_rover2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = super_rover2.png; sourceTree = "<group>"; };
 		D97407A21220625700FB6290 /* NXTClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NXTClient.h; sourceTree = "<group>"; };
 		D97407A31220625700FB6290 /* NXTClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NXTClient.m; sourceTree = "<group>"; };
 		D97407B71220688C00FB6290 /* DriverUIiPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DriverUIiPad.xib; sourceTree = "<group>"; };
@@ -103,6 +109,9 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				D92562C11221D07800F35A28 /* super_rover2.png */,
+				D92562BC1221D02D00F35A28 /* super_rover2c.png */,
+				D92562B41221CF3000F35A28 /* super_rover2b.png */,
 				D97407A21220625700FB6290 /* NXTClient.h */,
 				D97407A31220625700FB6290 /* NXTClient.m */,
 				2860E32A111B888700E27156 /* iPad */,
@@ -181,6 +190,9 @@
 				2860E32F111B888700E27156 /* MainWindow_iPad.xib in Resources */,
 				D97407B81220688C00FB6290 /* DriverUIiPad.xib in Resources */,
 				D97407C2122068FA00FB6290 /* DriverUI.xib in Resources */,
+				D92562B51221CF3000F35A28 /* super_rover2b.png in Resources */,
+				D92562BD1221D02D00F35A28 /* super_rover2c.png in Resources */,
+				D92562C21221D07800F35A28 /* super_rover2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

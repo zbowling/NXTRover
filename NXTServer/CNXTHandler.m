@@ -65,6 +65,14 @@ nxt = NULL;
 		//[self.nxt moveServo:1 power:thePower tacholimit:0];
     }
 	
+	theValue = [theQueryDictionary objectForKey:@"shoot"];
+	if (theValue)
+    {
+		SInt8 thePower = [theValue intValue];
+		as = thePower;
+		//[self.nxt moveServo:1 power:thePower tacholimit:0];
+    }
+	
 	tick = 10;
 	
 	[self moveCar];
@@ -79,7 +87,15 @@ nxt = NULL;
 
 - (void)moveCar {
 	[self.nxt moveServo:0 power:al tacholimit:0];
-	[self.nxt moveServo:1 power:ar tacholimit:0];
+	[self.nxt moveServo:2 power:ar tacholimit:0];
+	if (as == 1)
+	{
+		[self.nxt moveServo:1 power:100 tacholimit:100];
+	}
+	else {
+		[self.nxt moveServo:1 power:0 tacholimit:0];
+	}
+
 }
 
 #pragma mark -
