@@ -1,0 +1,289 @@
+TCapTest
+v7
+r0
+t304192591.771132
+cCheck dependencies
+cProcessInfoPlistFile /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/Info.plist CapTest-Info.plist
+cCompileXIB /Users/zbowling/Downloads/CapTest/MainWindow.xib
+cProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-guzjpwhvjocjogaiegjicsuhfhrt/CapTest_Prefix.pch.gch CapTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/main.o /Users/zbowling/Downloads/CapTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/CapTestAppDelegate.o /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/CapTest normal i386
+cGenerateDSYMFile /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app.dSYM /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/CapTest
+cTouch /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004BD204D500000000000B5380
+t1272054997
+s742272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004BD204C70000000000000112
+t1272054983
+s274
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004BD1D01E000000000000007D
+t1272041502
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C705C290000000000000132
+t1282432041
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004C04734F00000000000D9120
+t1275360079
+s889120
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004C047342000000000000014A
+t1275360066
+s330
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/zbowling/Downloads/CapTest/CapTest_Prefix.pch
+c000000004C706B2300000000000000B7
+t1282435875
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.h
+c000000004C716029000000000000023D
+t1282498601
+s573
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+
+N/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m
+c000000004C7162FB000000000000154B
+t1282499323
+s5451
+i"CapTestAppDelegate.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/zbowling/Downloads/CapTest/MainWindow.xib
+c000000004C706B230000000000002108
+t1282435875
+s8456
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/CapTest.LinkFileList
+c000000004C71616D00000000000000F8
+t1282498925
+s248
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/CapTestAppDelegate.o
+t1282499791
+s63188
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/main.o
+t1282499791
+s6292
+
+N/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app
+t1282499791
+s204
+
+N/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app.dSYM
+t1282499791
+s102
+
+N/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/CapTest
+t1282499791
+s23408
+
+N/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/Info.plist
+t1282499786
+s591
+
+N/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/MainWindow.nib
+t1282499789
+s984
+
+N/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/PkgInfo
+t1282499786
+s8
+
+N/Users/zbowling/Downloads/CapTest/main.m
+c000000004C7073FE000000000000015D
+t1282438142
+s349
+i<UIKit/UIKit.h>
+
+N/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-apdqkahwjxafyugctwjzllcfjyxx/CapTest_Prefix.pch.gch
+t1282498929
+s15232016
+
+N/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-guzjpwhvjocjogaiegjicsuhfhrt/CapTest_Prefix.pch.gch
+t1282499790
+s13825936
+
+NCapTest-Info.plist
+c000000004C706B23000000000000038D
+t1282435875
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304192585#304192586#0(0"0(0#1#0"8667388192#0"0#
+
+CCompileC build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/CapTestAppDelegate.o /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304192590.966887
+e304192591.137361
+r1
+xCompileC
+xbuild/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/CapTestAppDelegate.o
+x/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate captureFrame]':
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:100: warning: unused variable 'data'
+lSLF07#2@70"Compile /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304192590#304192591#0(214"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate captureFrame]':/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:100: warning: unused variable 'data'1(22@22"Unused variable 'data'304192591#114#100#0(6@62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304192123#100#0#100#0#19"unused variable '*'0(0#0#62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m8660003520#1882"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator -I/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/DerivedSources/i386 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-guzjpwhvjocjogaiegjicsuhfhrt/CapTest_Prefix.pch -c /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m -o /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/CapTestAppDelegate.o0#
+
+CCompileC build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/main.o /Users/zbowling/Downloads/CapTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304192590.965670
+e304192591.021288
+r1
+xCompileC
+xbuild/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/main.o
+x/Users/zbowling/Downloads/CapTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/zbowling/Downloads/CapTest/main.m304192590#304192591#0(0"0(0#0#40"/Users/zbowling/Downloads/CapTest/main.m8666075232#1846"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator -I/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/DerivedSources/i386 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-guzjpwhvjocjogaiegjicsuhfhrt/CapTest_Prefix.pch -c /Users/zbowling/Downloads/CapTest/main.m -o /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/zbowling/Downloads/CapTest/MainWindow.xib
+s304192586.110599
+e304192589.228299
+r1
+xCompileXIB
+x/Users/zbowling/Downloads/CapTest/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib304192586#304192589#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#48"/Users/zbowling/Downloads/CapTest/MainWindow.xib8662924544#555"    cd /Users/zbowling/Downloads/CapTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/MainWindow.nib /Users/zbowling/Downloads/CapTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CGenerateDSYMFile /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app.dSYM /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/CapTest
+s304192591.694603
+e304192591.758760
+r1
+xGenerateDSYMFile
+x/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app.dSYM
+x/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/CapTest
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/CapTest.app.dSYM build/Debug-iphonesimulator/CapTest.app/CapTest304192591#304192591#0(0"0(0#0#81"/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/CapTest8661593984#368"    cd /Users/zbowling/Downloads/CapTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/CapTest -o /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app.dSYM0#
+
+CLd /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/CapTest normal i386
+s304192591.137482
+e304192591.694087
+r1
+xLd
+x/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/CapTest
+xnormal
+xi386
+lSLF07#2@86"Link /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/CapTest304192591#304192591#0(0"0(0#0#0"8657918496#894"    cd /Users/zbowling/Downloads/CapTest    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator -F/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator -filelist /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/CapTest.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -o /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/CapTest0#
+
+CProcessInfoPlistFile /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/Info.plist CapTest-Info.plist
+s304192586.106662
+e304192586.110474
+r1
+xProcessInfoPlistFile
+x/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/Info.plist
+xCapTest-Info.plist
+lSLF07#2@26"Process CapTest-Info.plist304192586#304192586#0(0"0(0#0#52"/Users/zbowling/Downloads/CapTest/CapTest-Info.plist8666080416#464"    cd /Users/zbowling/Downloads/CapTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CapTest-Info.plist -genpkginfo /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/Info.plist0#
+
+CProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-apdqkahwjxafyugctwjzllcfjyxx/CapTest_Prefix.pch.gch CapTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304191728.433238
+e304191729.860402
+r1
+xProcessPCH
+x/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-apdqkahwjxafyugctwjzllcfjyxx/CapTest_Prefix.pch.gch
+xCapTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile CapTest_Prefix.pch304191728#304191729#0(0"0(0#0#52"/Users/zbowling/Downloads/CapTest/CapTest_Prefix.pch8618707072#1743"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator -I/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/DerivedSources/i386 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/DerivedSources -c /Users/zbowling/Downloads/CapTest/CapTest_Prefix.pch -o /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-apdqkahwjxafyugctwjzllcfjyxx/CapTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-guzjpwhvjocjogaiegjicsuhfhrt/CapTest_Prefix.pch.gch CapTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304192589.228584
+e304192590.965503
+r1
+xProcessPCH
+x/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-guzjpwhvjocjogaiegjicsuhfhrt/CapTest_Prefix.pch.gch
+xCapTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile CapTest_Prefix.pch304192589#304192590#0(0"0(0#0#52"/Users/zbowling/Downloads/CapTest/CapTest_Prefix.pch8655777376#1743"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator -I/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/DerivedSources/i386 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/DerivedSources -c /Users/zbowling/Downloads/CapTest/CapTest_Prefix.pch -o /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-guzjpwhvjocjogaiegjicsuhfhrt/CapTest_Prefix.pch.gch0#
+
+CTouch /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app
+s304192591.758869
+e304192591.771064
+r1
+xTouch
+x/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app
+lSLF07#2@79"Touch /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app304192591#304192591#0(0"0(0#0#0"8658694880#268"    cd /Users/zbowling/Downloads/CapTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app0#
+

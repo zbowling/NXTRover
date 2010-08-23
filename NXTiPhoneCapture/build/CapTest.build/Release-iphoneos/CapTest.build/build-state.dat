@@ -1,0 +1,472 @@
+TCapTest
+v7
+r0
+t304209863.026076
+cCheck dependencies
+cCpResource build/Release-iphoneos/CapTest.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/Info.plist CapTest-Info.plist
+cCompileXIB /Users/zbowling/Downloads/CapTest/MainWindow.xib
+cCompileXIB /Users/zbowling/Downloads/CapTest/Classes/CaptureController.xib
+cProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-fqvjtqqfysxudccgpxdaotusgmzu/CapTest_Prefix.pch.gch CapTest_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-axrlpepaxdnfiehjtteqorkvarbq/CapTest_Prefix.pch.gch CapTest_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/main.o /Users/zbowling/Downloads/CapTest/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CapTestAppDelegate.o /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CaptureController.o /Users/zbowling/Downloads/CapTest/Classes/CaptureController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CapTest normal armv6
+cCompileC build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/main.o /Users/zbowling/Downloads/CapTest/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CapTestAppDelegate.o /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CaptureController.o /Users/zbowling/Downloads/CapTest/Classes/CaptureController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CapTest normal armv7
+cCreateUniversalBinary /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/CapTest normal "armv6 armv7"
+cGenerateDSYMFile /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app.dSYM /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/CapTest
+cProcessProductPackaging "/Users/zbowling/Library/MobileDevice/Provisioning Profiles/60B5E405-E5F2-48B0-8163-16384033226B.mobileprovision" /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/embedded.mobileprovision
+cTouch /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest.xcent
+cCodeSign /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app
+cValidate /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C5B59520000000000000110
+t1281055058
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004C5B401F00000000000001A7
+t1281048607
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C5B401F00000000000001E5
+t1281048607
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004C0481660000000000178AC0
+t1275363686
+s1542848
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004C048158000000000000014A
+t1275363672
+s330
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C0458CC00000000000000C4
+t1275353292
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/zbowling/Downloads/CapTest/CapTest_Prefix.pch
+c000000004C706B2300000000000000B7
+t1282435875
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.h
+c000000004C7182E300000000000002C4
+t1282507491
+s708
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+i"CaptureController.h"
+
+N/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m
+c000000004C719FE200000000000016FB
+t1282514914
+s5883
+i"CapTestAppDelegate.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/zbowling/Downloads/CapTest/Classes/CaptureController.h
+c000000004C717EB70000000000000132
+t1282506423
+s306
+i<UIKit/UIKit.h>
+
+N/Users/zbowling/Downloads/CapTest/Classes/CaptureController.m
+c000000004C71823D00000000000009D3
+t1282507325
+s2515
+i"CaptureController.h"
+i<QuartzCore/QuartzCore.h>
+i<GameKit/GameKit.h>
+i"CapTestAppDelegate.h"
+
+N/Users/zbowling/Downloads/CapTest/Classes/CaptureController.xib
+c000000004C716BB7000000000000186E
+t1282501559
+s6254
+
+N/Users/zbowling/Downloads/CapTest/MainWindow.xib
+c000000004C717D5A000000000000508A
+t1282506074
+s20618
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest.xcent
+t1282514984
+s420
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CapTest
+t1282514984
+s25600
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CapTest.LinkFileList
+c000000004C71A021000000000000016E
+t1282514977
+s366
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CapTestAppDelegate.o
+t1282514984
+s62324
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CaptureController.o
+t1282514984
+s48272
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/main.o
+t1282514984
+s6428
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CapTest
+t1282514984
+s25600
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CapTest.LinkFileList
+c000000004C71A021000000000000016E
+t1282514977
+s366
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CapTestAppDelegate.o
+t1282514984
+s62380
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CaptureController.o
+t1282514984
+s48268
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/main.o
+t1282514984
+s6408
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app
+t1282514985
+s374
+
+N/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app.dSYM
+t1282514984
+s102
+
+N/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/CapTest
+t1282514984
+s68400
+
+N/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/CaptureController.nib
+t1282514979
+s764
+
+N/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/Info.plist
+t1282514977
+s726
+
+N/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/MainWindow.nib
+t1282514979
+s1106
+
+N/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/PkgInfo
+t1282514977
+s8
+
+N/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/ResourceRules.plist
+t1282514977
+s485
+
+N/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/embedded.mobileprovision
+t1282514984
+s7549
+
+N/Users/zbowling/Downloads/CapTest/main.m
+c000000004C7073FE000000000000015D
+t1282438142
+s349
+i<UIKit/UIKit.h>
+
+N/Users/zbowling/Library/MobileDevice/Provisioning Profiles/60B5E405-E5F2-48B0-8163-16384033226B.mobileprovision
+c000000004C7177970000000000001D7D
+t1282504599
+s7549
+
+N/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-axrlpepaxdnfiehjtteqorkvarbq/CapTest_Prefix.pch.gch
+t1282514983
+s10090032
+
+N/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-fqvjtqqfysxudccgpxdaotusgmzu/CapTest_Prefix.pch.gch
+t1282514983
+s9631280
+
+NCapTest-Info.plist
+c000000004C706B23000000000000038D
+t1282435875
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304209861#304209861#0(0"0(0#1#0"8649953696#0"0#
+
+CCodeSign /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app
+s304209861.703468
+e304209862.338630
+r1
+xCodeSign
+x/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app
+o/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app: replacing existing signature
+lSLF07#2@43"CodeSign build/Release-iphoneos/CapTest.app304209861#304209862#0(99"/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app: replacing existing signature0(0#0#68"/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app8646543712#639"    cd /Users/zbowling/Downloads/CapTest    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Zaccariah Bowling (9SH8WSU29L)" --resource-rules=/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/ResourceRules.plist --entitlements /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest.xcent /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app0#
+
+CCompileC build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CapTestAppDelegate.o /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304207784.025705
+e304207784.525858
+r1
+xCompileC
+xbuild/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CapTestAppDelegate.o
+x/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate captureFrame]':
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:61: warning: implicit declaration of function 'UIGetScreenImage'
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:61: warning: initialization makes pointer from integer without a cast
+lSLF07#2@70"Compile /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304207784#304207784#0(375"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate captureFrame]':/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:61: warning: implicit declaration of function 'UIGetScreenImage'/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:61: warning: initialization makes pointer from integer without a cast2(22@51"Implicit declaration of function 'UIGetScreenImage'304207784#114#128#0(6@62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304207714#61#0#61#0#36"implicit declaration of function '*'0(22@56"Initialization makes pointer from integer without a cast304207784#242#133#0(6@62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304207714#61#0#61#0#0"0(0#0#62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m8648421472#1764"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Release-iphoneos -I/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources/armv6 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-fqvjtqqfysxudccgpxdaotusgmzu/CapTest_Prefix.pch -c /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m -o /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CapTestAppDelegate.o0#
+
+CCompileC build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CaptureController.o /Users/zbowling/Downloads/CapTest/Classes/CaptureController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304207784.026806
+e304207784.424028
+r1
+xCompileC
+xbuild/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CaptureController.o
+x/Users/zbowling/Downloads/CapTest/Classes/CaptureController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/zbowling/Downloads/CapTest/Classes/CaptureController.m304207784#304207784#0(0"0(0#0#61"/Users/zbowling/Downloads/CapTest/Classes/CaptureController.m8648219968#1762"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Release-iphoneos -I/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources/armv6 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-fqvjtqqfysxudccgpxdaotusgmzu/CapTest_Prefix.pch -c /Users/zbowling/Downloads/CapTest/Classes/CaptureController.m -o /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CaptureController.o0#
+
+CCompileC build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/main.o /Users/zbowling/Downloads/CapTest/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304207784.004548
+e304207784.325914
+r1
+xCompileC
+xbuild/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/main.o
+x/Users/zbowling/Downloads/CapTest/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/zbowling/Downloads/CapTest/main.m304207784#304207784#0(0"0(0#0#40"/Users/zbowling/Downloads/CapTest/main.m8649986464#1728"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Release-iphoneos -I/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources/armv6 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-fqvjtqqfysxudccgpxdaotusgmzu/CapTest_Prefix.pch -c /Users/zbowling/Downloads/CapTest/main.m -o /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CapTestAppDelegate.o /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304207784.326061
+e304207784.599409
+r1
+xCompileC
+xbuild/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CapTestAppDelegate.o
+x/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate captureFrame]':
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:61: warning: implicit declaration of function 'UIGetScreenImage'
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:61: warning: initialization makes pointer from integer without a cast
+lSLF07#2@70"Compile /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304207784#304207784#0(375"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate captureFrame]':/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:61: warning: implicit declaration of function 'UIGetScreenImage'/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:61: warning: initialization makes pointer from integer without a cast2(22@51"Implicit declaration of function 'UIGetScreenImage'304207784#114#128#0(6@62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304207714#61#0#61#0#36"implicit declaration of function '*'0(22@56"Initialization makes pointer from integer without a cast304207784#242#133#0(6@62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304207714#61#0#61#0#0"0(0#0#62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m8646834624#1764"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Release-iphoneos -I/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources/armv7 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-axrlpepaxdnfiehjtteqorkvarbq/CapTest_Prefix.pch -c /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m -o /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CapTestAppDelegate.o0#
+
+CCompileC build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CaptureController.o /Users/zbowling/Downloads/CapTest/Classes/CaptureController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304207784.351952
+e304207784.529443
+r1
+xCompileC
+xbuild/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CaptureController.o
+x/Users/zbowling/Downloads/CapTest/Classes/CaptureController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/zbowling/Downloads/CapTest/Classes/CaptureController.m304207784#304207784#0(0"0(0#0#61"/Users/zbowling/Downloads/CapTest/Classes/CaptureController.m8646627936#1762"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Release-iphoneos -I/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources/armv7 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-axrlpepaxdnfiehjtteqorkvarbq/CapTest_Prefix.pch -c /Users/zbowling/Downloads/CapTest/Classes/CaptureController.m -o /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CaptureController.o0#
+
+CCompileC build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/main.o /Users/zbowling/Downloads/CapTest/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304207784.028115
+e304207784.351788
+r1
+xCompileC
+xbuild/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/main.o
+x/Users/zbowling/Downloads/CapTest/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/zbowling/Downloads/CapTest/main.m304207784#304207784#0(0"0(0#0#40"/Users/zbowling/Downloads/CapTest/main.m8647487264#1728"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Release-iphoneos -I/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources/armv7 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-axrlpepaxdnfiehjtteqorkvarbq/CapTest_Prefix.pch -c /Users/zbowling/Downloads/CapTest/main.m -o /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/zbowling/Downloads/CapTest/Classes/CaptureController.xib
+s304207777.335611
+e304207779.530034
+r1
+xCompileXIB
+x/Users/zbowling/Downloads/CapTest/Classes/CaptureController.xib
+lSLF07#2@40"CompileXIB Classes/CaptureController.xib304207777#304207779#0(0"0(0#0#63"/Users/zbowling/Downloads/CapTest/Classes/CaptureController.xib8648240192#551"    cd /Users/zbowling/Downloads/CapTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/CaptureController.nib /Users/zbowling/Downloads/CapTest/Classes/CaptureController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/zbowling/Downloads/CapTest/MainWindow.xib
+s304207777.334745
+e304207779.538366
+r1
+xCompileXIB
+x/Users/zbowling/Downloads/CapTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib304207777#304207779#0(0"0(0#0#48"/Users/zbowling/Downloads/CapTest/MainWindow.xib8648370624#529"    cd /Users/zbowling/Downloads/CapTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/MainWindow.nib /Users/zbowling/Downloads/CapTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCpResource build/Release-iphoneos/CapTest.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s304207777.279675
+e304207777.334636
+r1
+xCpResource
+xbuild/Release-iphoneos/CapTest.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist304207777#304207777#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist8639629408#493"    cd /Users/zbowling/Downloads/CapTest    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app0#
+
+CCreateUniversalBinary /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/CapTest normal "armv6 armv7"
+s304207784.681487
+e304207784.684836
+r1
+xCreateUniversalBinary
+x/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/CapTest
+xnormal
+xarmv6 armv7
+lSLF07#2@85"CreateUniversalBinary build/Release-iphoneos/CapTest.app/CapTest normal "armv6 armv7"304207784#304207784#0(0"0(0#0#45"/Users/zbowling/Downloads/CapTest/armv6 armv78647725344#504"    cd /Users/zbowling/Downloads/CapTest    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CapTest /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CapTest -output /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/CapTest0#
+
+CGenerateDSYMFile /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app.dSYM /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/CapTest
+s304207784.685143
+e304207784.731389
+r1
+xGenerateDSYMFile
+x/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app.dSYM
+x/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/CapTest
+lSLF07#2@99"GenerateDSYMFile build/Release-iphoneos/CapTest.app.dSYM build/Release-iphoneos/CapTest.app/CapTest304207784#304207784#0(0"0(0#0#76"/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/CapTest8647464096#351"    cd /Users/zbowling/Downloads/CapTest    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/CapTest -o /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app.dSYM0#
+
+CLd /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CapTest normal armv6
+s304207784.525988
+e304207784.678680
+r1
+xLd
+x/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CapTest
+xnormal
+xarmv6
+lSLF07#2@118"Link /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CapTest304207784#304207784#0(0"0(0#0#0"8650894144#861"    cd /Users/zbowling/Downloads/CapTest    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/zbowling/Downloads/CapTest/build/Release-iphoneos -F/Users/zbowling/Downloads/CapTest/build/Release-iphoneos -filelist /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CapTest.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -o /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv6/CapTest0#
+
+CLd /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CapTest normal armv7
+s304207784.599496
+e304207784.681387
+r1
+xLd
+x/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CapTest
+xnormal
+xarmv7
+lSLF07#2@118"Link /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CapTest304207784#304207784#0(0"0(0#0#0"8648531232#861"    cd /Users/zbowling/Downloads/CapTest    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/zbowling/Downloads/CapTest/build/Release-iphoneos -F/Users/zbowling/Downloads/CapTest/build/Release-iphoneos -filelist /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CapTest.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -o /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/Objects-normal/armv7/CapTest0#
+
+CProcessInfoPlistFile /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/Info.plist CapTest-Info.plist
+s304207777.282655
+e304207777.293461
+r1
+xProcessInfoPlistFile
+x/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/Info.plist
+xCapTest-Info.plist
+lSLF07#2@26"Process CapTest-Info.plist304207777#304207777#0(0"0(0#0#52"/Users/zbowling/Downloads/CapTest/CapTest-Info.plist8650749536#548"    cd /Users/zbowling/Downloads/CapTest    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CapTest-Info.plist -genpkginfo /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/ResourceRules.plist -o /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/Info.plist0#
+
+CProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-axrlpepaxdnfiehjtteqorkvarbq/CapTest_Prefix.pch.gch CapTest_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s304207779.539834
+e304207784.004411
+r1
+xProcessPCH
+x/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-axrlpepaxdnfiehjtteqorkvarbq/CapTest_Prefix.pch.gch
+xCapTest_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile CapTest_Prefix.pch304207779#304207784#0(0"0(0#0#52"/Users/zbowling/Downloads/CapTest/CapTest_Prefix.pch8648589824#1629"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Release-iphoneos -I/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources/armv7 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/zbowling/Downloads/CapTest/CapTest_Prefix.pch -o /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-axrlpepaxdnfiehjtteqorkvarbq/CapTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-fqvjtqqfysxudccgpxdaotusgmzu/CapTest_Prefix.pch.gch CapTest_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s304207779.538571
+e304207783.578031
+r1
+xProcessPCH
+x/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-fqvjtqqfysxudccgpxdaotusgmzu/CapTest_Prefix.pch.gch
+xCapTest_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile CapTest_Prefix.pch304207779#304207783#0(0"0(0#0#52"/Users/zbowling/Downloads/CapTest/CapTest_Prefix.pch8650301056#1629"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Release-iphoneos -I/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources/armv6 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/zbowling/Downloads/CapTest/CapTest_Prefix.pch -o /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-fqvjtqqfysxudccgpxdaotusgmzu/CapTest_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/zbowling/Library/MobileDevice/Provisioning Profiles/60B5E405-E5F2-48B0-8163-16384033226B.mobileprovision" /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/embedded.mobileprovision
+s304207784.731520
+e304207784.733060
+r1
+xProcessProductPackaging
+x/Users/zbowling/Library/MobileDevice/Provisioning Profiles/60B5E405-E5F2-48B0-8163-16384033226B.mobileprovision
+x/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/zbowling/Library/MobileDevice/Provisioning Profiles/60B5E405-E5F2-48B0-8163-16384033226B.mobileprovision" build/Release-iphoneos/CapTest.app/embedded.mobileprovision304207784#304207784#0(0"0(0#0#93"/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/embedded.mobileprovision8647071584#418"    cd /Users/zbowling/Downloads/CapTest    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/zbowling/Library/MobileDevice/Provisioning Profiles/60B5E405-E5F2-48B0-8163-16384033226B.mobileprovision" -o /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest.xcent
+s304207784.736023
+e304207784.755443
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest.xcent
+lSLF07#2@177"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/CapTest.build/Release-iphoneos/CapTest.build/CapTest.xcent304207784#304207784#0(0"0(0#0#98"/Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest.xcent8637969376#424"    cd /Users/zbowling/Downloads/CapTest    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/zbowling/Downloads/CapTest/build/CapTest.build/Release-iphoneos/CapTest.build/CapTest.xcent0#
+
+CTouch /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app
+s304207784.733126
+e304207784.735902
+r1
+xTouch
+x/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app
+lSLF07#2@74"Touch /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app304207784#304207784#0(0"0(0#0#0"8646773728#256"    cd /Users/zbowling/Downloads/CapTest    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app0#
+
+CValidate /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app
+s304209862.338738
+e304209863.026010
+r1
+xValidate
+x/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app
+owarning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIconFile, CFBundleIconFiles, or provide a default Icon.png that is 57x57 (-19013)
+oUnable to validate your application. - (null)
+o
+lSLF07#2@43"Validate build/Release-iphoneos/CapTest.app304209862#304209863#0(243"warning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIconFile, CFBundleIconFiles, or provide a default Icon.png that is 57x57 (-19013)Unable to validate your application. - (null)1(22@187" iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIconFile, CFBundleIconFiles, or provide a default Icon.png that is 57x57 (-19013)304209863#18446744073709551615#0#0(6@0"304209863#0#0#0#0#0"0(0#0#68"/Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app8647730944#365"    cd /Users/zbowling/Downloads/CapTest    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/zbowling/Downloads/CapTest/build/Release-iphoneos/CapTest.app0#
+

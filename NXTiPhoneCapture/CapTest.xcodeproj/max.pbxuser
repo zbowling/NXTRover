@@ -1,0 +1,175 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CapTestAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1411, 626}}";
+			sepNavSelRange = "{94, 0}";
+			sepNavVisRange = "{0, 349}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CapTestAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1222}}";
+			sepNavSelRange = "{1081, 0}";
+			sepNavVisRange = "{830, 456}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CapTest */ = {
+		activeExec = 0;
+		executables = (
+			50E33EEF1220A2A30040C1D2 /* CapTest */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 50E33EEF1220A2A30040C1D2 /* CapTest */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CapTest */;
+		codeSenseManager = 50E33EFC1220A2C10040C1D2 /* Code sense */;
+		executables = (
+			50E33EEF1220A2A30040C1D2 /* CapTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1233,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 304128675;
+			PBXWorkspaceStateSaveDate = 304128675;
+		};
+		perUserProjectItems = {
+			50E33F4F1220AB960040C1D2 /* PBXTextBookmark */ = 50E33F4F1220AB960040C1D2 /* PBXTextBookmark */;
+			50E33F511220AB960040C1D2 /* PBXTextBookmark */ = 50E33F511220AB960040C1D2 /* PBXTextBookmark */;
+			50E33F521220AB960040C1D2 /* PBXTextBookmark */ = 50E33F521220AB960040C1D2 /* PBXTextBookmark */;
+			50E33F531220AB960040C1D2 /* PBXTextBookmark */ = 50E33F531220AB960040C1D2 /* PBXTextBookmark */;
+			50E33F541220AB960040C1D2 /* PBXTextBookmark */ = 50E33F541220AB960040C1D2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 50E33EFB1220A2C10040C1D2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1411, 626}}";
+			sepNavSelRange = "{25, 0}";
+			sepNavVisRange = "{0, 349}";
+		};
+	};
+	50E33EEF1220A2A30040C1D2 /* CapTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CapTest;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	50E33EFB1220A2C10040C1D2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	50E33EFC1220A2C10040C1D2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	50E33F4F1220AB960040C1D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50E33F501220AB960040C1D2 /* UIImagePickerController.h */;
+		name = "UIImagePickerController.h: 16";
+		rLen = 51;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 1505;
+		vrLoc = 0;
+	};
+	50E33F501220AB960040C1D2 /* UIImagePickerController.h */ = {
+		isa = PBXFileReference;
+		name = UIImagePickerController.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h;
+		sourceTree = "<absolute>";
+	};
+	50E33F511220AB960040C1D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CapTestAppDelegate.h */;
+		name = "CapTestAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 94;
+		rType = 0;
+		vrLen = 349;
+		vrLoc = 0;
+	};
+	50E33F521220AB960040C1D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 3";
+		rLen = 0;
+		rLoc = 25;
+		rType = 0;
+		vrLen = 349;
+		vrLoc = 0;
+	};
+	50E33F531220AB960040C1D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CapTestAppDelegate.m */;
+		name = "CapTestAppDelegate.m: 38";
+		rLen = 0;
+		rLoc = 1081;
+		rType = 0;
+		vrLen = 1802;
+		vrLoc = 0;
+	};
+	50E33F541220AB960040C1D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CapTestAppDelegate.m */;
+		name = "CapTestAppDelegate.m: 38";
+		rLen = 0;
+		rLoc = 1103;
+		rType = 0;
+		vrLen = 1802;
+		vrLoc = 0;
+	};
+}

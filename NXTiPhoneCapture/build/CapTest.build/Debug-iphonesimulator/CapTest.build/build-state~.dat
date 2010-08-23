@@ -1,0 +1,334 @@
+TCapTest
+v7
+r0
+t304191730.127162
+cCheck dependencies
+cProcessInfoPlistFile /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/Info.plist CapTest-Info.plist
+cCompileXIB /Users/zbowling/Downloads/CapTest/MainWindow.xib
+cProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-apdqkahwjxafyugctwjzllcfjyxx/CapTest_Prefix.pch.gch CapTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/main.o /Users/zbowling/Downloads/CapTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/CapTestAppDelegate.o /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C705C290000000000000132
+t1282432041
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004C04734F00000000000D9120
+t1275360079
+s889120
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004C047342000000000000014A
+t1275360066
+s330
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/zbowling/Downloads/CapTest/CapTest_Prefix.pch
+c000000004C706B2300000000000000B7
+t1282435875
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.h
+c000000004C716029000000000000023D
+t1282498601
+s573
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+
+N/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m
+c000000004C7160CE0000000000001538
+t1282498766
+s5432
+i"CapTestAppDelegate.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/zbowling/Downloads/CapTest/MainWindow.xib
+c000000004C706B230000000000002108
+t1282435875
+s8456
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/CapTest.LinkFileList
+c000000004C71616D00000000000000F8
+t1282498925
+s248
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/CapTestAppDelegate.o
+t2
+s0
+
+N/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/main.o
+t1282498930
+s6292
+
+N/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app
+t2
+s0
+
+N/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app.dSYM
+t2
+s0
+
+N/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/CapTest
+t2
+s0
+
+N/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/Info.plist
+t1282498925
+s591
+
+N/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/MainWindow.nib
+t1282498928
+s984
+
+N/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/PkgInfo
+t1282498925
+s8
+
+N/Users/zbowling/Downloads/CapTest/main.m
+c000000004C7073FE000000000000015D
+t1282438142
+s349
+i<UIKit/UIKit.h>
+
+N/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-apdqkahwjxafyugctwjzllcfjyxx/CapTest_Prefix.pch.gch
+t1282498929
+s15232016
+
+NCapTest-Info.plist
+c000000004C706B23000000000000038D
+t1282435875
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304191725#304191725#0(0"0(0#1#0"8651923872#0"0#
+
+CCompileC build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/CapTestAppDelegate.o /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304191729.877850
+e304191730.110299
+r0
+xCompileC
+xbuild/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/CapTestAppDelegate.o
+x/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:29: warning: 'CapTestAppDelegate' may not respond to '-performSelector:withObject:withDelay:'
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:29: warning: (Messages without a matching method signature
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:29: warning: will be assumed to return 'id' and accept
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:29: warning: '...' as arguments.)
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate setupGameKit]':
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:54: warning: 'UIImagePickerController' may not respond to '-show'
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate peerPickerController:didConnectPeer:toSession:]':
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:72: warning: local declaration of 'picker' hides instance variable
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:73: warning: local declaration of 'picker' hides instance variable
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:74: warning: local declaration of 'picker' hides instance variable
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate peerPickerControllerDidCancel:]':
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:83: error: object cannot be set - either readonly property or no setter found
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:81: error: accessing unknown 'picker' getter method
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate captureFrame]':
+o/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:100: warning: unused variable 'data'
+o{standard input}:517:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000006$pb"
+o{standard input}:517:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:510:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"
+o{standard input}:510:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:502:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000006$pb"
+o{standard input}:502:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:493:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000006$pb"
+o{standard input}:493:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:484:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000006$pb"
+o{standard input}:484:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:477:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000006$pb"
+o{standard input}:477:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:468:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000006$pb"
+o{standard input}:468:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:400:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000004$pb"
+o{standard input}:400:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:394:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" minus "L00000000004$pb"
+o{standard input}:394:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:256:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:256:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:249:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000001$pb"
+o{standard input}:249:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:241:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000001$pb"
+o{standard input}:241:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:235:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000001$pb"
+o{standard input}:235:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:227:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000001$pb"
+o{standard input}:227:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:220:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000001$pb"
+o{standard input}:220:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:214:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:214:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:208:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:208:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:205:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+o{standard input}:205:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:196:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:196:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:194:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000001$pb"
+o{standard input}:194:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:192:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"
+o{standard input}:192:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:185:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+o{standard input}:185:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:179:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.window$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:179:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:171:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:171:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:165:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"
+o{standard input}:165:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:162:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+o{standard input}:162:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:159:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+o{standard input}:159:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:152:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+o{standard input}:152:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:146:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000001$pb"
+o{standard input}:146:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:140:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:140:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:133:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.window$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:133:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:125:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:125:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:119:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:119:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:111:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:111:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:105:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:105:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:97:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:97:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:91:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:91:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:83:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:83:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:77:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:77:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:69:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:69:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:63:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:63:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:60:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"
+o{standard input}:60:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:55:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:55:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CapTestAppDelegate.window$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol LC0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+lSLF07#2@70"Compile /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304191729#304191730#0(14172"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate application:didFinishLaunchingWithOptions:]':/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:29: warning: 'CapTestAppDelegate' may not respond to '-performSelector:withObject:withDelay:'/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:29: warning: (Messages without a matching method signature/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:29: warning: will be assumed to return 'id' and accept/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:29: warning: '...' as arguments.)/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate setupGameKit]':/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:54: warning: 'UIImagePickerController' may not respond to '-show'/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate peerPickerController:didConnectPeer:toSession:]':/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:72: warning: local declaration of 'picker' hides instance variable/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:73: warning: local declaration of 'picker' hides instance variable/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:74: warning: local declaration of 'picker' hides instance variable/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate peerPickerControllerDidCancel:]':/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:83: error: object cannot be set - either readonly property or no setter found/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:81: error: accessing unknown 'picker' getter method/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m: In function '-[CapTestAppDelegate captureFrame]':/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m:100: warning: unused variable 'data'{standard input}:517:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000006$pb"{standard input}:517:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:510:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000006$pb"{standard input}:510:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:502:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000006$pb"{standard input}:502:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:493:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000006$pb"{standard input}:493:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:484:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000006$pb"{standard input}:484:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:477:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000006$pb"{standard input}:477:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:468:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000006$pb"{standard input}:468:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:400:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000004$pb"{standard input}:400:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:394:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" minus "L00000000004$pb"{standard input}:394:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:256:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:256:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:249:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000001$pb"{standard input}:249:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:241:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000001$pb"{standard input}:241:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:235:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000001$pb"{standard input}:235:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:227:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000001$pb"{standard input}:227:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:220:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000001$pb"{standard input}:220:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:214:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:214:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:208:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:208:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:205:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"{standard input}:205:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:196:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:196:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:194:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000001$pb"{standard input}:194:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:192:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000001$pb"{standard input}:192:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:185:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"{standard input}:185:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:179:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.window$non_lazy_ptr" minus "L00000000001$pb"{standard input}:179:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:171:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:171:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:165:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"{standard input}:165:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:162:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"{standard input}:162:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:159:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"{standard input}:159:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:152:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"{standard input}:152:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:146:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000001$pb"{standard input}:146:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:140:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" minus "L00000000001$pb"{standard input}:140:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:133:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.window$non_lazy_ptr" minus "L00000000001$pb"{standard input}:133:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:125:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:125:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:119:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" minus "L00000000001$pb"{standard input}:119:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:111:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:111:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:105:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" minus "L00000000001$pb"{standard input}:105:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:97:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:97:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:91:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" minus "L00000000001$pb"{standard input}:91:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:83:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:83:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:77:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" minus "L00000000001$pb"{standard input}:77:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:69:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:69:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:63:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:63:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:60:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"{standard input}:60:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:55:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" minus "L00000000001$pb"{standard input}:55:symbol: "L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CapTestAppDelegate.picker$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CapTestAppDelegate.window$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol LC0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_209(22@80"'CapTestAppDelegate' may not respond to '-performSelector:withObject:withDelay:'304191729#144#157#0(6@62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304191566#29#0#29#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)304191729#301#122#0(6@62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304191566#29#0#29#0#0"0(22@52"'UIImagePickerController' may not respond to '-show'304191729#752#129#0(6@62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304191566#54#0#54#0#26"'*' may not respond to '*'0(22@53"Local declaration of 'picker' hides instance variable304191729#1029#130#0(6@62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304191566#72#0#72#0#0"0(22@53"Local declaration of 'picker' hides instance variable304191729#1159#130#0(6@62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304191566#73#0#73#0#0"0(22@53"Local declaration of 'picker' hides instance variable304191729#1289#130#0(6@62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304191566#74#0#74#0#0"0(4@66"Object cannot be set - either readonly property or no setter found304191729#1551#141#0(6@62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304191566#83#0#83#0#0"0(4@40"Accessing unknown 'picker' getter method304191729#1692#115#0(6@62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304191566#81#0#81#0#0"0(22@22"Unused variable 'data'304191729#1921#100#0(6@62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m304191566#100#0#100#0#19"unused variable '*'0(0#0#62"/Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m8618908896#1882"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator -I/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/DerivedSources/i386 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-apdqkahwjxafyugctwjzllcfjyxx/CapTest_Prefix.pch -c /Users/zbowling/Downloads/CapTest/Classes/CapTestAppDelegate.m -o /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/CapTestAppDelegate.o1#
+
+CCompileC build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/main.o /Users/zbowling/Downloads/CapTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304191729.860548
+e304191730.127084
+r1
+xCompileC
+xbuild/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/main.o
+x/Users/zbowling/Downloads/CapTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/zbowling/Downloads/CapTest/main.m304191729#304191730#0(0"0(0#0#40"/Users/zbowling/Downloads/CapTest/main.m8623708512#1846"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator -I/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/DerivedSources/i386 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-apdqkahwjxafyugctwjzllcfjyxx/CapTest_Prefix.pch -c /Users/zbowling/Downloads/CapTest/main.m -o /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/zbowling/Downloads/CapTest/MainWindow.xib
+s304191725.688989
+e304191728.432941
+r1
+xCompileXIB
+x/Users/zbowling/Downloads/CapTest/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib304191725#304191728#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#48"/Users/zbowling/Downloads/CapTest/MainWindow.xib23644379086389316#555"    cd /Users/zbowling/Downloads/CapTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/MainWindow.nib /Users/zbowling/Downloads/CapTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app.dSYM /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/CapTest
+r0
+
+CLd /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/CapTest normal i386
+r0
+
+CProcessInfoPlistFile /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/Info.plist CapTest-Info.plist
+s304191725.639731
+e304191725.688845
+r1
+xProcessInfoPlistFile
+x/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/Info.plist
+xCapTest-Info.plist
+lSLF07#2@26"Process CapTest-Info.plist304191725#304191725#0(0"0(0#0#52"/Users/zbowling/Downloads/CapTest/CapTest-Info.plist8652051136#464"    cd /Users/zbowling/Downloads/CapTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CapTest-Info.plist -genpkginfo /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app/Info.plist0#
+
+CProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-apdqkahwjxafyugctwjzllcfjyxx/CapTest_Prefix.pch.gch CapTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304191728.433238
+e304191729.860402
+r1
+xProcessPCH
+x/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-apdqkahwjxafyugctwjzllcfjyxx/CapTest_Prefix.pch.gch
+xCapTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile CapTest_Prefix.pch304191728#304191729#0(0"0(0#0#52"/Users/zbowling/Downloads/CapTest/CapTest_Prefix.pch8618707072#1743"    cd /Users/zbowling/Downloads/CapTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-generated-files.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-own-target-headers.hmap -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-all-target-headers.hmap -iquote /Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/CapTest-project-headers.hmap -F/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator -I/Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/include -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/DerivedSources/i386 -I/Users/zbowling/Downloads/CapTest/build/CapTest.build/Debug-iphonesimulator/CapTest.build/DerivedSources -c /Users/zbowling/Downloads/CapTest/CapTest_Prefix.pch -o /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CapTest_Prefix-apdqkahwjxafyugctwjzllcfjyxx/CapTest_Prefix.pch.gch0#
+
+CTouch /Users/zbowling/Downloads/CapTest/build/Debug-iphonesimulator/CapTest.app
+r0
+
