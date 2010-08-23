@@ -1,110 +1,125 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-
-	<title>zbowling/NXTRover @ GitHub</title>
-	
-	<style type="text/css">
-		body {
-  		margin-top: 1.0em;
-  		background-color: #97bc45;
-		  font-family: "Helvetica,Arial,FreeSans";
-  		color: #000000;
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>
+      zbowling/NXTRover @ GitHub
+    </title>
+    <style type="text/css">
+/*<![CDATA[*/
+    body {
+      margin-top: 1.0em;
+      background-color: #FFCC00;
+      font-family: "Helvetica,Arial,FreeSans";
+      color: #000000;
     }
     #container {
       margin: 0 auto;
       width: 700px;
     }
-		h1 { font-size: 3.8em; color: #6843ba; margin-bottom: 3px; }
-		h1 .small { font-size: 0.4em; }
-		h1 a { text-decoration: none }
-		h2 { font-size: 1.5em; color: #6843ba; }
-    h3 { text-align: center; color: #6843ba; }
-    a { color: #6843ba; }
+    h1 { font-size: 3.8em; color: #0033FF; margin-bottom: 3px; }
+    h1 .small { font-size: 0.4em; }
+    h1 a { text-decoration: none }
+    h2 { font-size: 1.5em; color: #0033FF; }
+    h3 { text-align: center; color: #0033FF; }
+    a { color: #0033FF; }
     .description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
     .download { float: right; }
-		pre { background: #000; color: #fff; padding: 15px;}
+    pre { background: #000; color: #fff; padding: 15px;}
     hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
     .footer { text-align:center; padding-top:30px; font-style: italic; }
-	</style>
-	
-</head>
-
-<body>
-  <a href="http://github.com/zbowling/NXTRover"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
-
-  <div id="container">
-
-    <div class="download">
-      <a href="http://github.com/zbowling/NXTRover/zipball/master">
-        <img border="0" width="90" src="http://github.com/images/modules/download/zip.png"></a>
-      <a href="http://github.com/zbowling/NXTRover/tarball/master">
-        <img border="0" width="90" src="http://github.com/images/modules/download/tar.png"></a>
-    </div>
-
-    <h1><a href="http://github.com/zbowling/NXTRover">NXTRover</a>
-      <span class="small">by <a href="http://github.com/zbowling">zbowling</a></span></h1>
-
-    <div class="description">
-      Control your NXT Robot using your iPad's accelerometer and relay video to your iPad from your iPhone to get a first person perspective. 
-      <img src="rover.jpg"/>
-    </div>
-
-    <p>SuperRover (NXTRover) is a project put together over the 48 hour hackathon at iOSDevCamp 2010.<p>
-
-<p>NXTRover has 3 parts. 
-<ul><li> An iPad app (NXTDriver) to control the rover using the accelerometer and display the video feed from the iPhone</li>
-<li>An iPhone app (NXTiPhoneCapture) to relay video from your rover.</li>
-<li>A standalone embedded Cocoa web server for the Mac (NXTServer) that connects to the Lego Mindstorm NXT module over bluetooth to relay commands remotely sent by the iPad.</li>
-</ul>  
-</p>
-Special thanks to Charles C, Max Wesile, Jonathan Wright, our two lego builders and drivers Philip, and Kevin.</pre>
-</p><h2>Dependencies</h2>
-<p>A working Lego Mindstorm robot NXT </p>
-<h2>Install</h2>
-<p>The code is just meant to illustrate a working prototype. A few things (such as the IP address of the web server that the iPad relays too) are currently hard coded for the demo. I'm hoping to clean this up in the coming days and make them user configurable. The code also assumes that the right rover motor is connected to port A on your NXT module and the left motor is connected to port C and that the launcher motor is connected to port B. (This can be changed in the NXTServer code). </p>
-
-<ol>
-  <li>In the NXTDriver project, update the ip address of in the code to point to your Mac. Build and install on to your iPad. Connect your iPad to the same network as your Mac and launch the app. </li>
-  <li>build the "framework" target in the legonxtremote project. copy the LegoNXT.framework from the build/release folder to your /Library/Frameworks directory</li>
-
-  <li>Build the NXTServer app. Run the server and click "Connect" to pair your server to your NXT unit over bluetooth. </li>
-
-  <li> (Optional) Build the NXTiPhoneCapture and install it on an iPhone 3GS or newer. Launch the iPad app and the iPhone and bind the two. </li>
-</ol>
-<p>If everything is connected and built everything should work. Have fun!!</p>
-<h2>License</h2>
-<p>MIT/X11 (BSD 2 clause modified)</p>
-<h2>Authors</h2>
-<p>Jonathan Wight (jon@inkling.com)
-<br/>Zac Bowling (zac@zacbowling.com)
-<br/>
-<br/>      </p>
-<h2>Contact</h2>
-<p>Zac Bowling (zac@zacbowling.com)
-<br/>      </p>
-
-
-    <h2>Download</h2>
+    /*]]>*/
+    </style>
+  </head>
+  <body>
     <p>
-      You can download this project in either
-      <a href="http://github.com/zbowling/NXTRover/zipball/master">zip</a> or
-      <a href="http://github.com/zbowling/NXTRover/tarball/master">tar</a> formats.
+      <a href="http://github.com/zbowling/NXTRover"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
     </p>
-    <p>You can also clone the project with <a href="http://git-scm.com">Git</a>
-      by running:
-      <pre>$ git clone git://github.com/zbowling/NXTRover</pre>
-    </p>
-
-    <div class="footer">
-      get the source code on GitHub : <a href="http://github.com/zbowling/NXTRover">zbowling/NXTRover</a>
+    <div id="container">
+      <div class="download">
+        <a href="http://github.com/zbowling/NXTRover/zipball/master"><img border="0" width="90" src="http://github.com/images/modules/download/zip.png" /></a> <a href="http://github.com/zbowling/NXTRover/tarball/master"><img border="0" width="90" src="http://github.com/images/modules/download/tar.png" /></a>
+      </div>
+      <h1>
+        <a href="http://github.com/zbowling/NXTRover">NXTRover</a> <span class="small">by <a href="http://github.com/zbowling">zbowling</a></span>
+      </h1>
+      <div class="description">
+        Control your NXT Robot using your iPad's accelerometer and relay video to your iPad from your iPhone to get a first person perspective. <img src="rover.jpg" />
+      </div>
+      <p>
+        SuperRover (NXTRover) is a project put together over the 48 hour hackathon at iOSDevCamp 2010.
+      </p>
+      <p>
+        NXTRover has 3 parts.
+      </p>
+      <ul>
+        <li>An iPad app (NXTDriver) to control the rover using the accelerometer and display the video feed from the iPhone
+        </li>
+        <li>An iPhone app (NXTiPhoneCapture) to relay video from your rover.
+        </li>
+        <li>A standalone embedded Cocoa web server for the Mac (NXTServer) that connects to the Lego Mindstorm NXT module over bluetooth to relay commands remotely sent by the iPad.
+        </li>
+      </ul>Special thanks to Charles C, Max Wesile, Jonathan Wright, our two lego builders and drivers Philip, and Kevin.
+      <h2>
+        Dependencies
+      </h2>
+      <p>
+        A working Lego Mindstorm robot NXT
+      </p>
+      <h2>
+        Install
+      </h2>
+      <p>
+        The code is just meant to illustrate a working prototype. A few things (such as the IP address of the web server that the iPad relays too) are currently hard coded for the demo. I'm hoping to clean this up in the coming days and make them user configurable. The code also assumes that the right rover motor is connected to port A on your NXT module and the left motor is connected to port C and that the launcher motor is connected to port B. (This can be changed in the NXTServer code).
+      </p>
+      <ol>
+        <li>In the NXTDriver project, update the ip address of in the code to point to your Mac. Build and install on to your iPad. Connect your iPad to the same network as your Mac and launch the app.
+        </li>
+        <li>build the "framework" target in the legonxtremote project. copy the LegoNXT.framework from the build/release folder to your /Library/Frameworks directory
+        </li>
+        <li>Build the NXTServer app. Run the server and click "Connect" to pair your server to your NXT unit over bluetooth.
+        </li>
+        <li>(Optional) Build the NXTiPhoneCapture and install it on an iPhone 3GS or newer. Launch the iPad app and the iPhone and bind the two.
+        </li>
+      </ol>
+      <p>
+        If everything is connected and built everything should work. Have fun!!
+      </p>
+      <h2>
+        License
+      </h2>
+      <p>
+        MIT/X11 (BSD 2 clause modified)
+      </p>
+      <h2>
+        Authors
+      </h2>
+      <p>
+        Jonathan Wight (jon@inkling.com)<br />
+        Zac Bowling (zac@zacbowling.com)<br />
+        <br />
+      </p>
+      <h2>
+        Contact
+      </h2>
+      <p>
+        Zac Bowling (zac@zacbowling.com)<br />
+      </p>
+      <h2>
+        Download
+      </h2>
+      <p>
+        You can download this project in either <a href="http://github.com/zbowling/NXTRover/zipball/master">zip</a> or <a href="http://github.com/zbowling/NXTRover/tarball/master">tar</a> formats.
+      </p>
+      <p>
+        You can also clone the project with <a href="http://git-scm.com">Git</a> by running:
+      </p>
+      <pre>
+$ git clone git://github.com/zbowling/NXTRover
+</pre>
+      <div class="footer">
+        get the source code on GitHub : <a href="http://github.com/zbowling/NXTRover">zbowling/NXTRover</a>
+      </div>
     </div>
-
-  </div>
-
-  
-</body>
+  </body>
 </html>
