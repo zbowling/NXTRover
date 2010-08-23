@@ -1,2 +1,0 @@
-/Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.m: In function '+[NXTClient sendGoMessage:left:right:]':
-/Users/zbowling/projects/NXTRover/NXTDriver/NXTClient.m:30: warning: unused variable 'receivedData'

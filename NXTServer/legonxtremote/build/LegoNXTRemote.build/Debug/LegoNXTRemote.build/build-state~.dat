@@ -1,305 +1,0 @@
-TLegoNXTRemote
-v7
-r0
-t304111946.890904
-cCheck dependencies
-cProcessInfoPlistFile /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/Info.plist Info.plist
-cStripNIB /Users/zbowling/projects/NXTRover/legonxtremote/English.lproj/MainMenu.nib
-cCopyStringsFile /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-cPBXCp build/Debug/LegoNXTRemote.app/Contents/Frameworks/LegoNXT.framework build/Debug/LegoNXT.framework
-cCompileC build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/Objects-normal/i386/main.o /Users/zbowling/projects/NXTRover/legonxtremote/src/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/Objects-normal/i386/LegoNXTRemote.o /Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/MacOS/LegoNXTRemote normal i386
-cTouch /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app
-
-N/Developer/SDKs/MacOSX10.4u.sdk
-c000000004AC5F97600000000000000EE
-t1254488438
-s238
-
-N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothDevice.h
-c0000000046F238DE000000000000A13C
-t1190279390
-s41276
-
-N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothRFCOMMChannel.h
-c0000000046F238DE00000000000048E1
-t1190279390
-s18657
-
-N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothSDPUUID.h
-c0000000046F238DE0000000000001A71
-t1190279390
-s6769
-
-N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/IOBluetoothUI.framework/Headers/objc/IOBluetoothDeviceSelectorController.h
-c0000000046F2392B00000000000033C2
-t1190279467
-s13250
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004BE2D1A200000000000000EE
-t1273156002
-s238
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothDevice.h
-c000000004B4837C8000000000000BD2F
-t1263024072
-s48431
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothRFCOMMChannel.h
-c000000004B4837C800000000000049DF
-t1263024072
-s18911
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothSDPUUID.h
-c000000004B4837C80000000000001A73
-t1263024072
-s6771
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetoothUI.framework/Headers/objc/IOBluetoothDeviceSelectorController.h
-c000000004B48389900000000000033F0
-t1263024281
-s13296
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004A1F2D63000000000000A5E0
-t1243557219
-s42464
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/English.lproj/InfoPlist.strings
-c00000000496132D100000000000000DA
-t1231106769
-s218
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/English.lproj/MainMenu.nib
-c000000004C70278800000000000000AA
-t1282418568
-s170
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXT.framework
-c000000004C7029BB00000000000000AA
-t1282419131
-s170
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXT.framework/LegoNXT
-c000000004C7029BB000000000000A0D8
-t1282419131
-s41176
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app
-t1282419146
-s102
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/Frameworks/LegoNXT.framework
-t1282419144
-s170
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/Info.plist
-t1282419143
-s907
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/MacOS/LegoNXTRemote
-t1282419146
-s26444
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/PkgInfo
-t1282419143
-s8
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/Resources/English.lproj/InfoPlist.strings
-t1282419144
-s218
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/Resources/English.lproj/MainMenu.nib
-t1282419144
-s34592
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/Objects-normal/i386/LegoNXTRemote.LinkFileList
-c000000004C7029C70000000000000107
-t1282419143
-s263
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/Objects-normal/i386/LegoNXTRemote.o
-t1282419146
-s47200
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/Objects-normal/i386/main.o
-t1282419146
-s4880
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXT.h
-c000000004984F8690000000000003E54
-t1233451113
-s15956
-i<Cocoa/Cocoa.h>
-i<IOBluetooth/objc/IOBluetoothDevice.h>
-i<IOBluetooth/objc/IOBluetoothSDPUUID.h>
-i<IOBluetooth/objc/IOBluetoothRFCOMMChannel.h>
-i<IOBluetoothUI/objc/IOBluetoothDeviceSelectorController.h>
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.h
-c000000004984F869000000000000082B
-t1233451113
-s2091
-i<Cocoa/Cocoa.h>
-i<LegoNXT.h>
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m
-c000000004984F8690000000000002F87
-t1233451113
-s12167
-i"LegoNXTRemote.h"
-
-N/Users/zbowling/projects/NXTRover/legonxtremote/src/main.m
-c00000000496132D1000000000000012F
-t1231106769
-s303
-i<Cocoa/Cocoa.h>
-
-NInfo.plist
-c00000000496132D100000000000003D7
-t1231106769
-s983
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies304111943#304111943#0(0"0(0#1#0"8621947200#0"0#
-
-CCompileC build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/Objects-normal/i386/LegoNXTRemote.o /Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s304111944.973101
-e304111946.817680
-r1
-xCompileC
-xbuild/LegoNXTRemote.build/Debug/LegoNXTRemote.build/Objects-normal/i386/LegoNXTRemote.o
-x/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m: In function '-[LegoNXTRemote awakeFromNib]':
-o/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m:192: warning: conflicting types for '-(id)awakeFromNib'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSNibLoading.h:26: warning: previous declaration of '-(void)awakeFromNib'
-o/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m:193: warning: multiple methods named '-setDelegate:' found
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:93: warning: using '-(void)setDelegate:(id)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothRFCOMMChannel.h:315: warning: also found '-(IOReturn)setDelegate:(id)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSCollectionView.h:90: warning: also found '-(void)setDelegate:(id <NSCollectionViewDelegate>)aDelegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSPathControl.h:62: warning: also found '-(void)setDelegate:(id <NSPathControlDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSPathCell.h:93: warning: also found '-(void)setDelegate:(id <NSPathCellDelegate>)value'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSRuleEditor.h:105: warning: also found '-(void)setDelegate:(id <NSRuleEditorDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSDatePickerCell.h:125: warning: also found '-(void)setDelegate:(id <NSDatePickerCellDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSToolbar.h:80: warning: also found '-(void)setDelegate:(id <NSToolbarDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSDrawer.h:65: warning: also found '-(void)setDelegate:(id <NSDrawerDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSound.h:66: warning: also found '-(void)setDelegate:(id <NSSoundDelegate>)aDelegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTabView.h:116: warning: also found '-(void)setDelegate:(id <NSTabViewDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTextStorage.h:77: warning: also found '-(void)setDelegate:(id <NSTextStorageDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSLayoutManager.h:212: warning: also found '-(void)setDelegate:(id <NSLayoutManagerDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSOutlineView.h:119: warning: also found '-(void)setDelegate:(id <NSOutlineViewDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h:109: warning: also found '-(void)setDelegate:(id <NSTableViewDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTextView.h:434: warning: also found '-(void)setDelegate:(id <NSTextViewDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSComboBox.h:54: warning: also found '-(void)setDelegate:(id <NSComboBoxDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTokenField.h:29: warning: also found '-(void)setDelegate:(id <NSTokenFieldDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTokenFieldCell.h:66: warning: also found '-(void)setDelegate:(id <NSTokenFieldCellDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTextField.h:37: warning: also found '-(void)setDelegate:(id <NSTextFieldDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSavePanel.h:121: warning: also found '-(void)setDelegate:(id <NSOpenSavePanelDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSplitView.h:52: warning: also found '-(void)setDelegate:(id <NSSplitViewDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSpeechSynthesizer.h:63: warning: also found '-(void)setDelegate:(id <NSSpeechSynthesizerDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSpeechRecognizer.h:27: warning: also found '-(void)setDelegate:(id <NSSpeechRecognizerDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSImage.h:130: warning: also found '-(void)setDelegate:(id <NSImageDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSBrowser.h:146: warning: also found '-(void)setDelegate:(id <NSBrowserDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSMenu.h:146: warning: also found '-(void)setDelegate:(id <NSMenuDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSMatrix.h:195: warning: also found '-(void)setDelegate:(id <NSMatrixDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSWindow.h:284: warning: also found '-(void)setDelegate:(id <NSWindowDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSAlert.h:127: warning: also found '-(void)setDelegate:(id <NSAlertDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSApplication.h:139: warning: also found '-(void)setDelegate:(id <NSApplicationDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSText.h:91: warning: also found '-(void)setDelegate:(id <NSTextDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSAnimation.h:92: warning: also found '-(void)setDelegate:(id <NSAnimationDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSSpellServer.h:40: warning: also found '-(void)setDelegate:(id <NSSpellServerDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSMetadata.h:25: warning: also found '-(void)setDelegate:(id <NSMetadataQueryDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSConnection.h:70: warning: also found '-(void)setDelegate:(id <NSConnectionDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXMLParser.h:25: warning: also found '-(void)setDelegate:(id <NSXMLParserDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNetServices.h:196: warning: also found '-(void)setDelegate:(id <NSNetServiceBrowserDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNetServices.h:88: warning: also found '-(void)setDelegate:(id <NSNetServiceDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSStream.h:41: warning: also found '-(void)setDelegate:(id <NSStreamDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPort.h:88: warning: also found '-(void)setDelegate:(id <NSMachPortDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPort.h:30: warning: also found '-(void)setDelegate:(id <NSPortDelegate>)anObject'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSKeyedArchiver.h:98: warning: also found '-(void)setDelegate:(id <NSKeyedUnarchiverDelegate>)delegate'
-o/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSKeyedArchiver.h:45: warning: also found '-(void)setDelegate:(id <NSKeyedArchiverDelegate>)delegate'
-lSLF07#2@75"Compile /Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m304111944#304111946#0(8339"/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m: In function '-[LegoNXTRemote awakeFromNib]':/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m:192: warning: conflicting types for '-(id)awakeFromNib'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSNibLoading.h:26: warning: previous declaration of '-(void)awakeFromNib'/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m:193: warning: multiple methods named '-setDelegate:' found/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:93: warning: using '-(void)setDelegate:(id)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothRFCOMMChannel.h:315: warning: also found '-(IOReturn)setDelegate:(id)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSCollectionView.h:90: warning: also found '-(void)setDelegate:(id <NSCollectionViewDelegate>)aDelegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSPathControl.h:62: warning: also found '-(void)setDelegate:(id <NSPathControlDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSPathCell.h:93: warning: also found '-(void)setDelegate:(id <NSPathCellDelegate>)value'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSRuleEditor.h:105: warning: also found '-(void)setDelegate:(id <NSRuleEditorDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSDatePickerCell.h:125: warning: also found '-(void)setDelegate:(id <NSDatePickerCellDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSToolbar.h:80: warning: also found '-(void)setDelegate:(id <NSToolbarDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSDrawer.h:65: warning: also found '-(void)setDelegate:(id <NSDrawerDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSound.h:66: warning: also found '-(void)setDelegate:(id <NSSoundDelegate>)aDelegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTabView.h:116: warning: also found '-(void)setDelegate:(id <NSTabViewDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTextStorage.h:77: warning: also found '-(void)setDelegate:(id <NSTextStorageDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSLayoutManager.h:212: warning: also found '-(void)setDelegate:(id <NSLayoutManagerDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSOutlineView.h:119: warning: also found '-(void)setDelegate:(id <NSOutlineViewDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h:109: warning: also found '-(void)setDelegate:(id <NSTableViewDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTextView.h:434: warning: also found '-(void)setDelegate:(id <NSTextViewDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSComboBox.h:54: warning: also found '-(void)setDelegate:(id <NSComboBoxDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTokenField.h:29: warning: also found '-(void)setDelegate:(id <NSTokenFieldDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTokenFieldCell.h:66: warning: also found '-(void)setDelegate:(id <NSTokenFieldCellDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTextField.h:37: warning: also found '-(void)setDelegate:(id <NSTextFieldDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSavePanel.h:121: warning: also found '-(void)setDelegate:(id <NSOpenSavePanelDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSplitView.h:52: warning: also found '-(void)setDelegate:(id <NSSplitViewDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSpeechSynthesizer.h:63: warning: also found '-(void)setDelegate:(id <NSSpeechSynthesizerDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSpeechRecognizer.h:27: warning: also found '-(void)setDelegate:(id <NSSpeechRecognizerDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSImage.h:130: warning: also found '-(void)setDelegate:(id <NSImageDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSBrowser.h:146: warning: also found '-(void)setDelegate:(id <NSBrowserDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSMenu.h:146: warning: also found '-(void)setDelegate:(id <NSMenuDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSMatrix.h:195: warning: also found '-(void)setDelegate:(id <NSMatrixDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSWindow.h:284: warning: also found '-(void)setDelegate:(id <NSWindowDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSAlert.h:127: warning: also found '-(void)setDelegate:(id <NSAlertDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSApplication.h:139: warning: also found '-(void)setDelegate:(id <NSApplicationDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSText.h:91: warning: also found '-(void)setDelegate:(id <NSTextDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSAnimation.h:92: warning: also found '-(void)setDelegate:(id <NSAnimationDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSSpellServer.h:40: warning: also found '-(void)setDelegate:(id <NSSpellServerDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSMetadata.h:25: warning: also found '-(void)setDelegate:(id <NSMetadataQueryDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSConnection.h:70: warning: also found '-(void)setDelegate:(id <NSConnectionDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXMLParser.h:25: warning: also found '-(void)setDelegate:(id <NSXMLParserDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNetServices.h:196: warning: also found '-(void)setDelegate:(id <NSNetServiceBrowserDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNetServices.h:88: warning: also found '-(void)setDelegate:(id <NSNetServiceDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSStream.h:41: warning: also found '-(void)setDelegate:(id <NSStreamDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPort.h:88: warning: also found '-(void)setDelegate:(id <NSMachPortDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPort.h:30: warning: also found '-(void)setDelegate:(id <NSPortDelegate>)anObject'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSKeyedArchiver.h:98: warning: also found '-(void)setDelegate:(id <NSKeyedUnarchiverDelegate>)delegate'/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSKeyedArchiver.h:45: warning: also found '-(void)setDelegate:(id <NSKeyedArchiverDelegate>)delegate'47(22@41"Conflicting types for '-(id)awakeFromNib'304111946#114#124#0(6@67"/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m255143913#192#0#192#0#25"conflicting types for '*'0(22@45"Previous declaration of '-(void)awakeFromNib'304111946#238#156#0(6@96"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSNibLoading.h294846034#26#0#26#0#0"0(22@44"Multiple methods named '-setDelegate:' found304111946#394#127#0(6@67"/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m255143913#193#0#193#0#0"0(22@39"Using '-(void)setDelegate:(id)delegate'304111946#521#155#0(6@101"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h289485624#93#0#93#0#0"0(22@48"Also found '-(IOReturn)setDelegate:(id)delegate'304111946#676#182#0(6@118"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothRFCOMMChannel.h284716872#315#0#315#0#0"0(22@72"Also found '-(void)setDelegate:(id <NSCollectionViewDelegate>)aDelegate'304111946#858#187#0(6@100"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSCollectionView.h294846034#90#0#90#0#0"0(22@68"Also found '-(void)setDelegate:(id <NSPathControlDelegate>)delegate'304111946#1045#180#0(6@97"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSPathControl.h294846034#62#0#62#0#0"0(22@62"Also found '-(void)setDelegate:(id <NSPathCellDelegate>)value'304111946#1225#171#0(6@94"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSPathCell.h294846034#93#0#93#0#0"0(22@67"Also found '-(void)setDelegate:(id <NSRuleEditorDelegate>)delegate'304111946#1396#179#0(6@96"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSRuleEditor.h294846034#105#0#105#0#0"0(22@71"Also found '-(void)setDelegate:(id <NSDatePickerCellDelegate>)anObject'304111946#1575#187#0(6@100"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSDatePickerCell.h294846033#125#0#125#0#0"0(22@64"Also found '-(void)setDelegate:(id <NSToolbarDelegate>)delegate'304111946#1762#172#0(6@93"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSToolbar.h294846034#80#0#80#0#0"0(22@63"Also found '-(void)setDelegate:(id <NSDrawerDelegate>)anObject'304111946#1934#170#0(6@92"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSDrawer.h294846033#65#0#65#0#0"0(22@63"Also found '-(void)setDelegate:(id <NSSoundDelegate>)aDelegate'304111946#2104#169#0(6@91"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSound.h294846034#66#0#66#0#0"0(22@64"Also found '-(void)setDelegate:(id <NSTabViewDelegate>)anObject'304111946#2273#173#0(6@93"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTabView.h294846034#116#0#116#0#0"0(22@68"Also found '-(void)setDelegate:(id <NSTextStorageDelegate>)delegate'304111946#2446#180#0(6@97"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTextStorage.h294846034#77#0#77#0#0"0(22@70"Also found '-(void)setDelegate:(id <NSLayoutManagerDelegate>)delegate'304111946#2626#185#0(6@99"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSLayoutManager.h294846033#212#0#212#0#0"0(22@68"Also found '-(void)setDelegate:(id <NSOutlineViewDelegate>)anObject'304111946#2811#181#0(6@97"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSOutlineView.h294846034#119#0#119#0#0"0(22@66"Also found '-(void)setDelegate:(id <NSTableViewDelegate>)delegate'304111946#2992#177#0(6@95"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h294846034#109#0#109#0#0"0(22@65"Also found '-(void)setDelegate:(id <NSTextViewDelegate>)anObject'304111946#3169#175#0(6@94"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTextView.h294846034#434#0#434#0#0"0(22@65"Also found '-(void)setDelegate:(id <NSComboBoxDelegate>)anObject'304111946#3344#174#0(6@94"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSComboBox.h294846033#54#0#54#0#0"0(22@67"Also found '-(void)setDelegate:(id <NSTokenFieldDelegate>)anObject'304111946#3518#178#0(6@96"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTokenField.h294846034#29#0#29#0#0"0(22@71"Also found '-(void)setDelegate:(id <NSTokenFieldCellDelegate>)anObject'304111946#3696#186#0(6@100"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTokenFieldCell.h294846034#66#0#66#0#0"0(22@66"Also found '-(void)setDelegate:(id <NSTextFieldDelegate>)anObject'304111946#3882#176#0(6@95"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTextField.h294846034#37#0#37#0#0"0(22@70"Also found '-(void)setDelegate:(id <NSOpenSavePanelDelegate>)delegate'304111946#4058#181#0(6@95"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSavePanel.h294846034#121#0#121#0#0"0(22@66"Also found '-(void)setDelegate:(id <NSSplitViewDelegate>)delegate'304111946#4239#176#0(6@95"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSplitView.h294846034#52#0#52#0#0"0(22@74"Also found '-(void)setDelegate:(id <NSSpeechSynthesizerDelegate>)anObject'304111946#4415#192#0(6@103"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSpeechSynthesizer.h294846034#63#0#63#0#0"0(22@73"Also found '-(void)setDelegate:(id <NSSpeechRecognizerDelegate>)anObject'304111946#4607#190#0(6@102"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSSpeechRecognizer.h294846034#27#0#27#0#0"0(22@62"Also found '-(void)setDelegate:(id <NSImageDelegate>)anObject'304111946#4797#169#0(6@91"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSImage.h294846033#130#0#130#0#0"0(22@64"Also found '-(void)setDelegate:(id <NSBrowserDelegate>)anObject'304111946#4966#173#0(6@93"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSBrowser.h294846033#146#0#146#0#0"0(22@61"Also found '-(void)setDelegate:(id <NSMenuDelegate>)anObject'304111946#5139#167#0(6@90"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSMenu.h294846033#146#0#146#0#0"0(22@63"Also found '-(void)setDelegate:(id <NSMatrixDelegate>)anObject'304111946#5306#171#0(6@92"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSMatrix.h294846033#195#0#195#0#0"0(22@63"Also found '-(void)setDelegate:(id <NSWindowDelegate>)anObject'304111946#5477#171#0(6@92"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSWindow.h294846034#284#0#284#0#0"0(22@62"Also found '-(void)setDelegate:(id <NSAlertDelegate>)delegate'304111946#5648#169#0(6@91"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSAlert.h294846033#127#0#127#0#0"0(22@68"Also found '-(void)setDelegate:(id <NSApplicationDelegate>)anObject'304111946#5817#181#0(6@97"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSApplication.h294846033#139#0#139#0#0"0(22@61"Also found '-(void)setDelegate:(id <NSTextDelegate>)anObject'304111946#5998#166#0(6@90"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSText.h294846034#91#0#91#0#0"0(22@66"Also found '-(void)setDelegate:(id <NSAnimationDelegate>)delegate'304111946#6164#176#0(6@95"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSAnimation.h294846033#92#0#92#0#0"0(22@68"Also found '-(void)setDelegate:(id <NSSpellServerDelegate>)anObject'304111946#6340#184#0(6@101"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSSpellServer.h289485625#40#0#40#0#0"0(22@70"Also found '-(void)setDelegate:(id <NSMetadataQueryDelegate>)delegate'304111946#6524#183#0(6@98"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSMetadata.h289485624#25#0#25#0#0"0(22@67"Also found '-(void)setDelegate:(id <NSConnectionDelegate>)anObject'304111946#6707#182#0(6@100"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSConnection.h289485624#70#0#70#0#0"0(22@66"Also found '-(void)setDelegate:(id <NSXMLParserDelegate>)delegate'304111946#6889#180#0(6@99"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXMLParser.h289485626#25#0#25#0#0"0(22@74"Also found '-(void)setDelegate:(id <NSNetServiceBrowserDelegate>)delegate'304111946#7069#191#0(6@101"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNetServices.h289485624#196#0#196#0#0"0(22@67"Also found '-(void)setDelegate:(id <NSNetServiceDelegate>)delegate'304111946#7260#183#0(6@101"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNetServices.h289485624#88#0#88#0#0"0(22@63"Also found '-(void)setDelegate:(id <NSStreamDelegate>)delegate'304111946#7443#174#0(6@96"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSStream.h289485625#41#0#41#0#0"0(22@65"Also found '-(void)setDelegate:(id <NSMachPortDelegate>)anObject'304111946#7617#174#0(6@94"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPort.h289485625#88#0#88#0#0"0(22@61"Also found '-(void)setDelegate:(id <NSPortDelegate>)anObject'304111946#7791#170#0(6@94"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPort.h289485625#30#0#30#0#0"0(22@72"Also found '-(void)setDelegate:(id <NSKeyedUnarchiverDelegate>)delegate'304111946#7961#190#0(6@103"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSKeyedArchiver.h289485624#98#0#98#0#0"0(22@70"Also found '-(void)setDelegate:(id <NSKeyedArchiverDelegate>)delegate'304111946#8151#188#0(6@103"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSKeyedArchiver.h289485624#45#0#45#0#0"0(0#0#67"/Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m8620641888#1047"    cd /Users/zbowling/projects/NXTRover/legonxtremote    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/LegoNXTRemote.hmap -F/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug -I/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/include -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/DerivedSources -c /Users/zbowling/projects/NXTRover/legonxtremote/src/LegoNXTRemote.m -o /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/Objects-normal/i386/LegoNXTRemote.o0#
-
-CCompileC build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/Objects-normal/i386/main.o /Users/zbowling/projects/NXTRover/legonxtremote/src/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s304111944.972110
-e304111946.633804
-r1
-xCompileC
-xbuild/LegoNXTRemote.build/Debug/LegoNXTRemote.build/Objects-normal/i386/main.o
-x/Users/zbowling/projects/NXTRover/legonxtremote/src/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/zbowling/projects/NXTRover/legonxtremote/src/main.m304111944#304111946#0(0"0(0#0#58"/Users/zbowling/projects/NXTRover/legonxtremote/src/main.m8636442560#1029"    cd /Users/zbowling/projects/NXTRover/legonxtremote    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/LegoNXTRemote.hmap -F/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug -I/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/include -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/DerivedSources -c /Users/zbowling/projects/NXTRover/legonxtremote/src/main.m -o /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/Objects-normal/i386/main.o0#
-
-CCopyStringsFile /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-s304111943.260373
-e304111944.964104
-r1
-xCopyStringsFile
-x/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/Resources/English.lproj/InfoPlist.strings
-xEnglish.lproj/InfoPlist.strings
-lSLF07#2@36"Copy English.lproj/InfoPlist.strings304111943#304111944#0(0"0(0#0#79"/Users/zbowling/projects/NXTRover/legonxtremote/English.lproj/InfoPlist.strings8634689760#390"    cd /Users/zbowling/projects/NXTRover/legonxtremote    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/Resources/English.lproj0#
-
-CLd /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/MacOS/LegoNXTRemote normal i386
-s304111946.817783
-e304111946.887706
-r1
-xLd
-x/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/MacOS/LegoNXTRemote
-xnormal
-xi386
-lSLF07#2@111"Link /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/MacOS/LegoNXTRemote304111946#304111946#0(0"0(0#0#0"8636486720#632"    cd /Users/zbowling/projects/NXTRover/legonxtremote    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug -F/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug -filelist /Users/zbowling/projects/NXTRover/legonxtremote/build/LegoNXTRemote.build/Debug/LegoNXTRemote.build/Objects-normal/i386/LegoNXTRemote.LinkFileList -mmacosx-version-min=10.6 -framework LegoNXT -framework Cocoa -o /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/MacOS/LegoNXTRemote0#
-
-CPBXCp build/Debug/LegoNXTRemote.app/Contents/Frameworks/LegoNXT.framework build/Debug/LegoNXT.framework
-s304111944.964223
-e304111944.971955
-r1
-xPBXCp
-xbuild/Debug/LegoNXTRemote.app/Contents/Frameworks/LegoNXT.framework
-xbuild/Debug/LegoNXT.framework
-lSLF07#2@34"Copy build/Debug/LegoNXT.framework304111944#304111944#0(0"0(0#0#77"/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXT.framework8632852928#379"    cd /Users/zbowling/projects/NXTRover/legonxtremote    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXT.framework /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/Frameworks0#
-
-CProcessInfoPlistFile /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/Info.plist Info.plist
-s304111943.255507
-e304111943.259433
-r1
-xProcessInfoPlistFile
-x/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/Info.plist
-xInfo.plist
-lSLF07#2@18"Process Info.plist304111943#304111943#0(0"0(0#0#58"/Users/zbowling/projects/NXTRover/legonxtremote/Info.plist8637776640#341"    cd /Users/zbowling/projects/NXTRover/legonxtremote    builtin-infoPlistUtility Info.plist -genpkginfo /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/Info.plist0#
-
-CStripNIB /Users/zbowling/projects/NXTRover/legonxtremote/English.lproj/MainMenu.nib
-s304111943.259535
-e304111944.908110
-r1
-xStripNIB
-x/Users/zbowling/projects/NXTRover/legonxtremote/English.lproj/MainMenu.nib
-lSLF07#2@35"StripNIB English.lproj/MainMenu.nib304111943#304111944#0(0"0(0#0#74"/Users/zbowling/projects/NXTRover/legonxtremote/English.lproj/MainMenu.nib8636167904#328"    cd /Users/zbowling/projects/NXTRover/legonxtremote    /Developer/usr/bin/ibtool --strip /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/zbowling/projects/NXTRover/legonxtremote/English.lproj/MainMenu.nib0#
-
-CTouch /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app
-s304111946.887813
-e304111946.890868
-r1
-xTouch
-x/Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app
-lSLF07#2@83"Touch /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app304111946#304111946#0(0"0(0#0#0"8636177312#155"    cd /Users/zbowling/projects/NXTRover/legonxtremote    /usr/bin/touch -c /Users/zbowling/projects/NXTRover/legonxtremote/build/Debug/LegoNXTRemote.app0#
-
