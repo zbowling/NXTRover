@@ -8,6 +8,7 @@
 
 #import "CapTestAppDelegate.h"
 #import <QuartzCore/QuartzCore.h>
+#import <AVFoundation/AVFoundation.h>
 
 @implementation CapTestAppDelegate
 
@@ -45,7 +46,7 @@
 	self.gpicker.connectionTypesMask = GKPeerPickerConnectionTypeNearby;
 	self.gpicker.delegate = self;
 	[self.gpicker show];
-	//
+	
 }
 
 

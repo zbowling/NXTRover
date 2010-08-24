@@ -1,0 +1,674 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 759}}";
+			sepNavSelRange = "{574, 7}";
+			sepNavVisRange = "{0, 704}";
+		};
+	};
+	1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 3653}}";
+			sepNavSelRange = "{2520, 0}";
+			sepNavVisRange = "{0, 1909}";
+			sepNavWindowFrame = "{{15, 141}, {1774, 1032}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* NXTiPhoneAVCapture */ = {
+		activeExec = 0;
+		executables = (
+			D9256343122440DA00F35A28 /* NXTiPhoneAVCapture */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D9256343122440DA00F35A28 /* NXTiPhoneAVCapture */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* NXTiPhoneAVCapture */;
+		codeSenseManager = D925634F122440F300F35A28 /* Code sense */;
+		executables = (
+			D9256343122440DA00F35A28 /* NXTiPhoneAVCapture */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1473,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 304365786;
+			PBXWorkspaceStateSaveDate = 304365786;
+		};
+		perUserProjectItems = {
+			D9256347122440F300F35A28 /* PBXTextBookmark */ = D9256347122440F300F35A28 /* PBXTextBookmark */;
+			D9256348122440F300F35A28 /* PBXTextBookmark */ = D9256348122440F300F35A28 /* PBXTextBookmark */;
+			D925635D1224425C00F35A28 /* PlistBookmark */ = D925635D1224425C00F35A28 /* PlistBookmark */;
+			D925635E1224425C00F35A28 /* PBXTextBookmark */ = D925635E1224425C00F35A28 /* PBXTextBookmark */;
+			D925635F1224425C00F35A28 /* PBXTextBookmark */ = D925635F1224425C00F35A28 /* PBXTextBookmark */;
+			D92563601224425C00F35A28 /* PBXTextBookmark */ = D92563601224425C00F35A28 /* PBXTextBookmark */;
+			D9256364122443A400F35A28 /* PBXTextBookmark */ = D9256364122443A400F35A28 /* PBXTextBookmark */;
+			D9256365122443A400F35A28 /* PBXTextBookmark */ = D9256365122443A400F35A28 /* PBXTextBookmark */;
+			D9256366122443A400F35A28 /* PBXTextBookmark */ = D9256366122443A400F35A28 /* PBXTextBookmark */;
+			D9256367122443A400F35A28 /* PBXTextBookmark */ = D9256367122443A400F35A28 /* PBXTextBookmark */;
+			D925636A1224446900F35A28 /* PBXTextBookmark */ = D925636A1224446900F35A28 /* PBXTextBookmark */;
+			D925636B1224446900F35A28 /* PBXTextBookmark */ = D925636B1224446900F35A28 /* PBXTextBookmark */;
+			D925636C1224446900F35A28 /* PBXTextBookmark */ = D925636C1224446900F35A28 /* PBXTextBookmark */;
+			D925636F1224447900F35A28 /* PBXTextBookmark */ = D925636F1224447900F35A28 /* PBXTextBookmark */;
+			D92563701224449400F35A28 /* PBXTextBookmark */ = D92563701224449400F35A28 /* PBXTextBookmark */;
+			D92563711224449400F35A28 /* PBXTextBookmark */ = D92563711224449400F35A28 /* PBXTextBookmark */;
+			D92563721224449400F35A28 /* PBXTextBookmark */ = D92563721224449400F35A28 /* PBXTextBookmark */;
+			D925639F122445C500F35A28 /* PBXTextBookmark */ = D925639F122445C500F35A28 /* PBXTextBookmark */;
+			D92563A1122445C500F35A28 /* PlistBookmark */ = D92563A1122445C500F35A28 /* PlistBookmark */;
+			D92563A2122445C500F35A28 /* PBXTextBookmark */ = D92563A2122445C500F35A28 /* PBXTextBookmark */;
+			D92563A3122445C500F35A28 /* PBXTextBookmark */ = D92563A3122445C500F35A28 /* PBXTextBookmark */;
+			D92563A4122445C500F35A28 /* PBXTextBookmark */ = D92563A4122445C500F35A28 /* PBXTextBookmark */;
+			D92563A51224460100F35A28 /* PBXTextBookmark */ = D92563A51224460100F35A28 /* PBXTextBookmark */;
+			D92563A61224460100F35A28 /* PBXTextBookmark */ = D92563A61224460100F35A28 /* PBXTextBookmark */;
+			D92563A71224460100F35A28 /* PBXTextBookmark */ = D92563A71224460100F35A28 /* PBXTextBookmark */;
+			D92563C6122446F900F35A28 /* PlistBookmark */ = D92563C6122446F900F35A28 /* PlistBookmark */;
+			D92563C7122446F900F35A28 /* PBXTextBookmark */ = D92563C7122446F900F35A28 /* PBXTextBookmark */;
+			D92563C8122446F900F35A28 /* PBXTextBookmark */ = D92563C8122446F900F35A28 /* PBXTextBookmark */;
+			D92563C9122446F900F35A28 /* PBXTextBookmark */ = D92563C9122446F900F35A28 /* PBXTextBookmark */;
+			D92563CA122446F900F35A28 /* PBXTextBookmark */ = D92563CA122446F900F35A28 /* PBXTextBookmark */;
+			D92563CB122446F900F35A28 /* PBXTextBookmark */ = D92563CB122446F900F35A28 /* PBXTextBookmark */;
+			D92563CC122446F900F35A28 /* PBXTextBookmark */ = D92563CC122446F900F35A28 /* PBXTextBookmark */;
+			D92563D4122447A600F35A28 /* PBXTextBookmark */ = D92563D4122447A600F35A28 /* PBXTextBookmark */;
+			D92563D5122447A600F35A28 /* XCBuildMessageTextBookmark */ = D92563D5122447A600F35A28 /* XCBuildMessageTextBookmark */;
+			D92563D6122447A600F35A28 /* PBXTextBookmark */ = D92563D6122447A600F35A28 /* PBXTextBookmark */;
+			D92563DB1224480E00F35A28 /* XCBuildMessageTextBookmark */ = D92563DB1224480E00F35A28 /* XCBuildMessageTextBookmark */;
+			D92563DC1224480E00F35A28 /* PBXTextBookmark */ = D92563DC1224480E00F35A28 /* PBXTextBookmark */;
+			D92563E91224482C00F35A28 /* PBXTextBookmark */ = D92563E91224482C00F35A28 /* PBXTextBookmark */;
+			D925640C1224492D00F35A28 /* PBXTextBookmark */ = D925640C1224492D00F35A28 /* PBXTextBookmark */;
+			D925640D1224492D00F35A28 /* PBXTextBookmark */ = D925640D1224492D00F35A28 /* PBXTextBookmark */;
+			D925640E1224492D00F35A28 /* PBXTextBookmark */ = D925640E1224492D00F35A28 /* PBXTextBookmark */;
+			D92564131224497F00F35A28 /* PBXTextBookmark */ = D92564131224497F00F35A28 /* PBXTextBookmark */;
+			D9256416122449D500F35A28 /* PBXTextBookmark */ = D9256416122449D500F35A28 /* PBXTextBookmark */;
+			D925642612244CC700F35A28 /* PBXTextBookmark */ = D925642612244CC700F35A28 /* PBXTextBookmark */;
+			D92564381224567300F35A28 /* PBXTextBookmark */ = D92564381224567300F35A28 /* PBXTextBookmark */;
+			D925644E12245E6000F35A28 /* PBXTextBookmark */ = D925644E12245E6000F35A28 /* PBXTextBookmark */;
+			D925645912245E8800F35A28 /* PBXTextBookmark */ = D925645912245E8800F35A28 /* PBXTextBookmark */;
+			D925646812245F4B00F35A28 /* PBXTextBookmark */ = D925646812245F4B00F35A28 /* PBXTextBookmark */;
+			D925647F12246A2E00F35A28 /* PBXTextBookmark */ = D925647F12246A2E00F35A28 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D925634E122440F300F35A28 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 760}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 362}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* NXTiPhoneAVCapture_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 760}}";
+			sepNavSelRange = "{208, 12}";
+			sepNavVisRange = "{0, 312}";
+		};
+	};
+	D9256343122440DA00F35A28 /* NXTiPhoneAVCapture */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = NXTiPhoneAVCapture;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	D9256347122440F300F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 0;
+	};
+	D9256348122440F300F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 5053;
+		rType = 0;
+		vrLen = 2057;
+		vrLoc = 154;
+	};
+	D925634E122440F300F35A28 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D925634F122440F300F35A28 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D925635D1224425C00F35A28 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* NXTiPhoneAVCapture-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/NXTiPhoneAVCapture-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	D925635E1224425C00F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.h */;
+		name = "NXTiPhoneAVCaptureAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 431;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+	D925635F1224425C00F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 139";
+		rLen = 0;
+		rLoc = 5344;
+		rType = 0;
+		vrLen = 2072;
+		vrLoc = 2956;
+	};
+	D92563601224425C00F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 74";
+		rLen = 0;
+		rLoc = 2659;
+		rType = 0;
+		vrLen = 2122;
+		vrLoc = 1769;
+	};
+	D9256364122443A400F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 63";
+		rLen = 0;
+		rLoc = 2132;
+		rType = 0;
+		vrLen = 2056;
+		vrLoc = 398;
+	};
+	D9256365122443A400F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* NXTiPhoneAVCapture_Prefix.pch */;
+		name = "NXTiPhoneAVCapture_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 205;
+		vrLoc = 0;
+	};
+	D9256366122443A400F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.h */;
+		name = "NXTiPhoneAVCaptureAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 0;
+	};
+	D9256367122443A400F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.h */;
+		name = "NXTiPhoneAVCaptureAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 697;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 0;
+	};
+	D925636A1224446900F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.h */;
+		name = "NXTiPhoneAVCaptureAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 488;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 0;
+	};
+	D925636B1224446900F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 138";
+		rLen = 0;
+		rLoc = 5293;
+		rType = 0;
+		vrLen = 2021;
+		vrLoc = 3150;
+	};
+	D925636C1224446900F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 60";
+		rLen = 0;
+		rLoc = 1921;
+		rType = 0;
+		vrLen = 1899;
+		vrLoc = 200;
+	};
+	D925636F1224447900F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 60";
+		rLen = 0;
+		rLoc = 1972;
+		rType = 0;
+		vrLen = 1923;
+		vrLoc = 200;
+	};
+	D92563701224449400F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.h */;
+		name = "NXTiPhoneAVCaptureAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 488;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 0;
+	};
+	D92563711224449400F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 60";
+		rLen = 0;
+		rLoc = 1972;
+		rType = 0;
+		vrLen = 1965;
+		vrLoc = 158;
+	};
+	D92563721224449400F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 61";
+		rLen = 0;
+		rLoc = 2043;
+		rType = 0;
+		vrLen = 2023;
+		vrLoc = 200;
+	};
+	D925639F122445C500F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D92563A0122445C500F35A28 /* AVFoundation.h */;
+		name = "AVFoundation.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1628;
+		vrLoc = 0;
+	};
+	D92563A0122445C500F35A28 /* AVFoundation.h */ = {
+		isa = PBXFileReference;
+		name = AVFoundation.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 760}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1628}";
+		};
+	};
+	D92563A1122445C500F35A28 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* NXTiPhoneAVCapture-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/NXTiPhoneAVCapture-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	D92563A2122445C500F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 76";
+		rLen = 0;
+		rLoc = 2452;
+		rType = 0;
+		vrLen = 2117;
+		vrLoc = 1884;
+	};
+	D92563A3122445C500F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.h */;
+		name = "NXTiPhoneAVCaptureAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 0;
+	};
+	D92563A4122445C500F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.h */;
+		name = "NXTiPhoneAVCaptureAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 577;
+		vrLoc = 0;
+	};
+	D92563A51224460100F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 1951;
+		vrLoc = 0;
+	};
+	D92563A61224460100F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.h */;
+		name = "NXTiPhoneAVCaptureAppDelegate.h: 17";
+		rLen = 0;
+		rLoc = 488;
+		rType = 0;
+		vrLen = 577;
+		vrLoc = 0;
+	};
+	D92563A71224460100F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.h */;
+		name = "NXTiPhoneAVCaptureAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 490;
+		rType = 0;
+		vrLen = 577;
+		vrLoc = 0;
+	};
+	D92563C6122446F900F35A28 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* NXTiPhoneAVCapture-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/NXTiPhoneAVCapture-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	D92563C7122446F900F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D92563A0122445C500F35A28 /* AVFoundation.h */;
+		name = "AVFoundation.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1628;
+		vrLoc = 0;
+	};
+	D92563C8122446F900F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 0;
+	};
+	D92563C9122446F900F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* NXTiPhoneAVCapture_Prefix.pch */;
+		name = "NXTiPhoneAVCapture_Prefix.pch: 8";
+		rLen = 12;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 312;
+		vrLoc = 0;
+	};
+	D92563CA122446F900F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 1885;
+		vrLoc = 0;
+	};
+	D92563CB122446F900F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.h */;
+		name = "NXTiPhoneAVCaptureAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 532;
+		vrLoc = 0;
+	};
+	D92563CC122446F900F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.h */;
+		name = "NXTiPhoneAVCaptureAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 532;
+		vrLoc = 0;
+	};
+	D92563D4122447A600F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.h */;
+		name = "NXTiPhoneAVCaptureAppDelegate.h: 16";
+		rLen = 0;
+		rLoc = 488;
+		rType = 0;
+		vrLen = 374;
+		vrLoc = 158;
+	};
+	D92563D5122447A600F35A28 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'previewLayer' undeclared (first use in this function)";
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 60;
+		rType = 1;
+	};
+	D92563D6122447A600F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 60";
+		rLen = 0;
+		rLoc = 1950;
+		rType = 0;
+		vrLen = 1764;
+		vrLoc = 853;
+	};
+	D92563DB1224480E00F35A28 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Class 'NXTiPhoneAVCaptureAppDelegate' does not implement the 'AVCaptureVideoDataOutputSampleBufferDelegate' protocol";
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 44;
+		rType = 1;
+	};
+	D92563DC1224480E00F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 8";
+		rLen = 0;
+		rLoc = 157;
+		rType = 0;
+		vrLen = 1881;
+		vrLoc = 0;
+	};
+	D92563E91224482C00F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 8";
+		rLen = 0;
+		rLoc = 157;
+		rType = 0;
+		vrLen = 1881;
+		vrLoc = 0;
+	};
+	D925640C1224492D00F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.h */;
+		name = "NXTiPhoneAVCaptureAppDelegate.h: 21";
+		rLen = 7;
+		rLoc = 574;
+		rType = 0;
+		vrLen = 704;
+		vrLoc = 0;
+	};
+	D925640D1224492D00F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 1896;
+		vrLoc = 0;
+	};
+	D925640E1224492D00F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 295;
+		rType = 0;
+		vrLen = 1904;
+		vrLoc = 0;
+	};
+	D92564131224497F00F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 93";
+		rLen = 0;
+		rLoc = 3154;
+		rType = 0;
+		vrLen = 2033;
+		vrLoc = 2507;
+	};
+	D9256416122449D500F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 247";
+		rLen = 0;
+		rLoc = 8448;
+		rType = 0;
+		vrLen = 1474;
+		vrLoc = 7138;
+	};
+	D925642612244CC700F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 78";
+		rLen = 0;
+		rLoc = 2520;
+		rType = 0;
+		vrLen = 1909;
+		vrLoc = 0;
+	};
+	D92564381224567300F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 78";
+		rLen = 0;
+		rLoc = 2520;
+		rType = 0;
+		vrLen = 1909;
+		vrLoc = 0;
+	};
+	D925644E12245E6000F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 78";
+		rLen = 0;
+		rLoc = 2520;
+		rType = 0;
+		vrLen = 1909;
+		vrLoc = 0;
+	};
+	D925645912245E8800F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 78";
+		rLen = 0;
+		rLoc = 2520;
+		rType = 0;
+		vrLen = 1909;
+		vrLoc = 0;
+	};
+	D925646812245F4B00F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 78";
+		rLen = 0;
+		rLoc = 2520;
+		rType = 0;
+		vrLen = 1909;
+		vrLoc = 0;
+	};
+	D925647F12246A2E00F35A28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NXTiPhoneAVCaptureAppDelegate.m */;
+		name = "NXTiPhoneAVCaptureAppDelegate.m: 78";
+		rLen = 0;
+		rLoc = 2520;
+		rType = 0;
+		vrLen = 1909;
+		vrLoc = 0;
+	};
+}

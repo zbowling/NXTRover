@@ -1,0 +1,242 @@
+TNXTiPhoneAVCapture
+v7
+r0
+t304367334.020276
+cCheck dependencies
+cProcessInfoPlistFile /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app/Info.plist NXTiPhoneAVCapture-Info.plist
+cCompileXIB /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/MainWindow.xib
+cProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTiPhoneAVCapture_Prefix-dvktvyfmhuutnybnndyctzzpokyw/NXTiPhoneAVCapture_Prefix.pch.gch NXTiPhoneAVCapture_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/Objects-normal/i386/main.o /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/Objects-normal/i386/NXTiPhoneAVCaptureAppDelegate.o /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C705C290000000000000132
+t1282432041
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C01F5AE00000000000C05A0
+t1275196846
+s787872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C01F5AA000000000000065C
+t1275196842
+s1628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.h
+c000000004C01F51300000000000001CF
+t1275196691
+s463
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004C0473250000000000155C80
+t1275360037
+s1399936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h
+c000000004C740F770000000000000214
+t1282674551
+s532
+i<UIKit/UIKit.h>
+i<AVFoundation/AVCaptureVideoPreviewLayer.h>
+
+N/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m
+c000000004C740E770000000000001A1E
+t1282674295
+s6686
+i"NXTiPhoneAVCaptureAppDelegate.h"
+
+N/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/MainWindow.xib
+c000000004C740C0100000000000049BF
+t1282673665
+s18879
+
+N/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/NXTiPhoneAVCapture_Prefix.pch
+c000000004C740F270000000000000138
+t1282674471
+s312
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+i<QuartzCore/QuartzCore.h>
+i<CoreMedia/CoreMedia.h>
+
+N/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app
+t1282674148
+s170
+
+N/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app.dSYM
+t2
+s0
+
+N/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app/Info.plist
+t1282674145
+s641
+
+N/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app/MainWindow.nib
+t1282674148
+s995
+
+N/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app/NXTiPhoneAVCapture
+t2
+s0
+
+N/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app/PkgInfo
+t1282674145
+s8
+
+N/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/Objects-normal/i386/NXTiPhoneAVCapture.LinkFileList
+c000000004C740DE10000000000000155
+t1282674145
+s341
+
+N/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/Objects-normal/i386/NXTiPhoneAVCaptureAppDelegate.o
+t2
+s0
+
+N/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/Objects-normal/i386/main.o
+t1282674475
+s6332
+
+N/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/main.m
+c000000004C74095A000000000000016A
+t1282672986
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTiPhoneAVCapture_Prefix-dvktvyfmhuutnybnndyctzzpokyw/NXTiPhoneAVCapture_Prefix.pch.gch
+t1282674475
+s17487056
+
+NNXTiPhoneAVCapture-Info.plist
+c000000004C74095A000000000000038D
+t1282672986
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304367333#304367333#0(0"0(0#1#0"8663453856#0"0#
+
+CCompileC build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/Objects-normal/i386/NXTiPhoneAVCaptureAppDelegate.o /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304367333.961258
+e304367334.020195
+r0
+xCompileC
+xbuild/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/Objects-normal/i386/NXTiPhoneAVCaptureAppDelegate.o
+x/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:9:
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h:10:52: error: AVFoundation/AVCaptureVideoPreviewLayer.h: No such file or directory
+oIn file included from /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:9:
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h:13: error: expected specifier-qualifier-list before 'AVCaptureVideoPreviewLayer'
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h:14: error: expected specifier-qualifier-list before 'AVCaptureSession'
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h:20: error: expected specifier-qualifier-list before 'AVCaptureSession'
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:13: error: no declaration of property 'session' found in the interface
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m: In function '-[NXTiPhoneAVCaptureAppDelegate setupCaptureSession]':
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:20: error: 'session' undeclared (first use in this function)
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:20: error: (Each undeclared identifier is reported only once
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:20: error: for each function it appears in.)
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:20: error: 'AVCaptureSession' undeclared (first use in this function)
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:25: error: 'AVCaptureSessionPresetMedium' undeclared (first use in this function)
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:28: error: 'AVCaptureDevice' undeclared (first use in this function)
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:28: error: 'device' undeclared (first use in this function)
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:32: error: 'AVCaptureDeviceInput' undeclared (first use in this function)
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:32: error: 'input' undeclared (first use in this function)
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:40: error: 'AVCaptureVideoDataOutput' undeclared (first use in this function)
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:40: error: 'output' undeclared (first use in this function)
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:60: error: 'preview' undeclared (first use in this function)
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:60: error: 'AVCaptureVideoPreviewLayer' undeclared (first use in this function)
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:61: error: 'previewLayer' undeclared (first use in this function)
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m: At top level:
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:69: error: expected ')' before 'AVCaptureOutput'
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:71: error: expected ')' before 'AVCaptureConnection'
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m: In function '-[NXTiPhoneAVCaptureAppDelegate captureOutput:didOutputSampleBuffer:fromConnection:]':
+o/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:76: error: expected expression before 'UIImage'
+lSLF07#2@100"Compile /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367333#304367334#0(4199"In file included from /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:9:/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h:10:52: error: AVFoundation/AVCaptureVideoPreviewLayer.h: No such file or directoryIn file included from /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:9:/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h:13: error: expected specifier-qualifier-list before 'AVCaptureVideoPreviewLayer'/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h:14: error: expected specifier-qualifier-list before 'AVCaptureSession'/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h:20: error: expected specifier-qualifier-list before 'AVCaptureSession'/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:13: error: no declaration of property 'session' found in the interface/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m: In function '-[NXTiPhoneAVCaptureAppDelegate setupCaptureSession]':/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:20: error: 'session' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:20: error: (Each undeclared identifier is reported only once/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:20: error: for each function it appears in.)/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:20: error: 'AVCaptureSession' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:25: error: 'AVCaptureSessionPresetMedium' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:28: error: 'AVCaptureDevice' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:28: error: 'device' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:32: error: 'AVCaptureDeviceInput' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:32: error: 'input' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:40: error: 'AVCaptureVideoDataOutput' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:40: error: 'output' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:60: error: 'preview' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:60: error: 'AVCaptureVideoPreviewLayer' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:61: error: 'previewLayer' undeclared (first use in this function)/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m: At top level:/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:69: error: expected ')' before 'AVCaptureOutput'/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:71: error: expected ')' before 'AVCaptureConnection'/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m: In function '-[NXTiPhoneAVCaptureAppDelegate captureOutput:didOutputSampleBuffer:fromConnection:]':/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:76: error: expected expression before 'UIImage'21(4@68"AVFoundation/AVCaptureVideoPreviewLayer.h: No such file or directory304367333#118#176#2(7@114"In file included from /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367333#18446744073709551615#0#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#9#0#9#0#0"0(13@164"AVFoundation/AVCaptureVideoPreviewLayer.h: No such file or directory in /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h304367333#18446744073709551615#0#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h304367332#10#0#10#0#0"0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h304367332#10#0#10#0#28"*: No such file or directory0(4@69"Expected specifier-qualifier-list before 'AVCaptureVideoPreviewLayer'304367333#412#174#2(7@114"In file included from /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367333#18446744073709551615#0#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#9#0#9#0#0"0(13@165"Expected specifier-qualifier-list before 'AVCaptureVideoPreviewLayer' in /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h304367333#18446744073709551615#0#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h304367332#13#0#13#0#0"0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h304367332#13#0#13#0#19"expected * before *0(4@59"Expected specifier-qualifier-list before 'AVCaptureSession'304367333#586#164#2(7@114"In file included from /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367333#18446744073709551615#0#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#9#0#9#0#0"0(13@155"Expected specifier-qualifier-list before 'AVCaptureSession' in /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h304367333#18446744073709551615#0#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h304367332#14#0#14#0#0"0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h304367332#14#0#14#0#19"expected * before *0(4@59"Expected specifier-qualifier-list before 'AVCaptureSession'304367333#750#164#2(7@114"In file included from /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367333#18446744073709551615#0#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#9#0#9#0#0"0(13@155"Expected specifier-qualifier-list before 'AVCaptureSession' in /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h304367333#18446744073709551615#0#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h304367332#20#0#20#0#0"0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.h304367332#20#0#20#0#19"expected * before *0(4@59"No declaration of property 'session' found in the interface304367333#914#164#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#13#0#13#0#0"0(4@49"'session' undeclared (first use in this function)304367333#1240#154#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#20#0#20#0#43"'*' undeclared (first use in this function)0(4@58"'AVCaptureSession' undeclared (first use in this function)304367333#1686#163#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#20#0#20#0#43"'*' undeclared (first use in this function)0(4@70"'AVCaptureSessionPresetMedium' undeclared (first use in this function)304367333#1849#175#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#25#0#25#0#43"'*' undeclared (first use in this function)0(4@57"'AVCaptureDevice' undeclared (first use in this function)304367333#2024#162#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#28#0#28#0#43"'*' undeclared (first use in this function)0(4@48"'device' undeclared (first use in this function)304367333#2186#153#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#28#0#28#0#43"'*' undeclared (first use in this function)0(4@62"'AVCaptureDeviceInput' undeclared (first use in this function)304367333#2339#167#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#32#0#32#0#43"'*' undeclared (first use in this function)0(4@47"'input' undeclared (first use in this function)304367333#2506#152#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#32#0#32#0#43"'*' undeclared (first use in this function)0(4@66"'AVCaptureVideoDataOutput' undeclared (first use in this function)304367333#2658#171#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#40#0#40#0#43"'*' undeclared (first use in this function)0(4@48"'output' undeclared (first use in this function)304367333#2829#153#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#40#0#40#0#43"'*' undeclared (first use in this function)0(4@49"'preview' undeclared (first use in this function)304367333#2982#154#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#60#0#60#0#43"'*' undeclared (first use in this function)0(4@68"'AVCaptureVideoPreviewLayer' undeclared (first use in this function)304367333#3136#173#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#60#0#60#0#43"'*' undeclared (first use in this function)0(4@54"'previewLayer' undeclared (first use in this function)304367333#3309#159#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#61#0#61#0#43"'*' undeclared (first use in this function)0(23@13"At top level:304367333#3468#108#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#0#0#0#0#0"0(4@37"Expected ')' before 'AVCaptureOutput'304367333#3576#142#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#69#0#69#0#19"expected * before *0(4@41"Expected ')' before 'AVCaptureConnection'304367333#3718#146#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#71#0#71#0#19"expected * before *0(4@36"Expected expression before 'UIImage'304367333#4058#141#0(6@92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m304367095#76#0#76#0#19"expected * before *0(0#0#92"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m8662594944#2333"    cd /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/NXTiPhoneAVCapture-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/NXTiPhoneAVCapture-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/NXTiPhoneAVCapture-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/NXTiPhoneAVCapture-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/include -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTiPhoneAVCapture_Prefix-dvktvyfmhuutnybnndyctzzpokyw/NXTiPhoneAVCapture_Prefix.pch -c /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m -o /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/Objects-normal/i386/NXTiPhoneAVCaptureAppDelegate.o1#
+
+CCompileC build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/Objects-normal/i386/main.o /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s304367275.056920
+e304367275.144562
+r1
+xCompileC
+xbuild/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/Objects-normal/i386/main.o
+x/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/main.m304367275#304367275#0(0"0(0#0#59"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/main.m8662594688#2275"    cd /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/NXTiPhoneAVCapture-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/NXTiPhoneAVCapture-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/NXTiPhoneAVCapture-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/NXTiPhoneAVCapture-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/include -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/DerivedSources -include /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTiPhoneAVCapture_Prefix-dvktvyfmhuutnybnndyctzzpokyw/NXTiPhoneAVCapture_Prefix.pch -c /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/main.m -o /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/MainWindow.xib
+s304366945.642714
+e304366948.599779
+r1
+xCompileXIB
+x/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib304366945#304366948#0(0"0(0#0#67"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/MainWindow.xib8652076544#623"    cd /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app/MainWindow.nib /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app.dSYM /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app/NXTiPhoneAVCapture
+r0
+
+CLd /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app/NXTiPhoneAVCapture normal i386
+r0
+
+CProcessInfoPlistFile /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app/Info.plist NXTiPhoneAVCapture-Info.plist
+s304366945.594086
+e304366945.642585
+r1
+xProcessInfoPlistFile
+x/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app/Info.plist
+xNXTiPhoneAVCapture-Info.plist
+lSLF07#2@37"Process NXTiPhoneAVCapture-Info.plist304366945#304366945#0(0"0(0#0#82"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/NXTiPhoneAVCapture-Info.plist8663942336#554"    cd /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NXTiPhoneAVCapture-Info.plist -genpkginfo /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app/Info.plist0#
+
+CProcessPCH /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTiPhoneAVCapture_Prefix-dvktvyfmhuutnybnndyctzzpokyw/NXTiPhoneAVCapture_Prefix.pch.gch NXTiPhoneAVCapture_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304367273.914075
+e304367275.056766
+r1
+xProcessPCH
+x/var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTiPhoneAVCapture_Prefix-dvktvyfmhuutnybnndyctzzpokyw/NXTiPhoneAVCapture_Prefix.pch.gch
+xNXTiPhoneAVCapture_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile NXTiPhoneAVCapture_Prefix.pch304367273#304367275#0(0"0(0#0#82"/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/NXTiPhoneAVCapture_Prefix.pch8650269536#2142"    cd /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/NXTiPhoneAVCapture-generated-files.hmap -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/NXTiPhoneAVCapture-own-target-headers.hmap -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/NXTiPhoneAVCapture-all-target-headers.hmap -iquote /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/NXTiPhoneAVCapture-project-headers.hmap -F/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/include -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/DerivedSources/i386 -I/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/NXTiPhoneAVCapture.build/Debug-iphonesimulator/NXTiPhoneAVCapture.build/DerivedSources -c /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/NXTiPhoneAVCapture_Prefix.pch -o /var/folders/hY/hYKhoOUMHYqC7Mp6xqrPRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NXTiPhoneAVCapture_Prefix-dvktvyfmhuutnybnndyctzzpokyw/NXTiPhoneAVCapture_Prefix.pch.gch0#
+
+CTouch /Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/build/Debug-iphonesimulator/NXTiPhoneAVCapture.app
+r0
+

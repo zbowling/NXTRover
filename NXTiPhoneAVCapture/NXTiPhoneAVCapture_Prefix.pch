@@ -1,0 +1,11 @@
+//
+// Prefix header for all source files of the 'NXTiPhoneAVCapture' target in the 'NXTiPhoneAVCapture' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import <AVFoundation/AVFoundation.h>
+	#import <QuartzCore/QuartzCore.h>
+	#import <CoreMedia/CoreMedia.h>
+#endif

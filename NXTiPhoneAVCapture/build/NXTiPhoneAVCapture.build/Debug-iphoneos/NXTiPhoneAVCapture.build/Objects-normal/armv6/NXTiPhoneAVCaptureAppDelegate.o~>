@@ -1,0 +1,134 @@
+/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m: In function '-[NXTiPhoneAVCaptureAppDelegate setupCaptureSession]':
+/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:45: warning: class 'NXTiPhoneAVCaptureAppDelegate' does not implement the 'AVCaptureVideoDataOutputSampleBufferDelegate' protocol
+/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m: In function '-[NXTiPhoneAVCaptureAppDelegate captureOutput:didOutputSampleBuffer:fromConnection:]':
+/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:77: warning: 'NXTiPhoneAVCaptureAppDelegate' may not respond to '-imageFromSampleBuffer:'
+/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:77: warning: (Messages without a matching method signature
+/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:77: warning: will be assumed to return 'id' and accept
+/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:77: warning: '...' as arguments.)
+/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:79: error: expected identifier before '[' token
+/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m: In function '-[NXTiPhoneAVCaptureAppDelegate application:didFinishLaunchingWithOptions:]':
+/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:162: warning: 'NXTiPhoneAVCaptureAppDelegate' may not respond to '-setupGameKit'
+/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m: In function '-[NXTiPhoneAVCaptureAppDelegate session:peer:didChangeState:]':
+/Users/zbowling/projects/NXTRover/NXTiPhoneAVCapture/Classes/NXTiPhoneAVCaptureAppDelegate.m:207: warning: local declaration of 'session' hides instance variable
+{standard input}:526:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L44"
+{standard input}:526:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+{standard input}:525:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.session$non_lazy_ptr" minus "L43"
+{standard input}:525:symbol: "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.session$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:524:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.preview$non_lazy_ptr" minus "L42"
+{standard input}:524:symbol: "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.preview$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:523:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L41"
+{standard input}:523:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+{standard input}:522:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L40"
+{standard input}:522:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+{standard input}:521:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.window$non_lazy_ptr" minus "L39"
+{standard input}:521:symbol: "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:520:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L38"
+{standard input}:520:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+{standard input}:519:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.preview$non_lazy_ptr" minus "L37"
+{standard input}:519:symbol: "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.preview$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:518:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L36"
+{standard input}:518:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+{standard input}:517:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.window$non_lazy_ptr" minus "L35"
+{standard input}:517:symbol: "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.window$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:516:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.session$non_lazy_ptr" minus "L34"
+{standard input}:516:symbol: "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.session$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:515:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L33"
+{standard input}:515:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+{standard input}:514:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_6" minus "L32"
+{standard input}:514:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_6" can't be undefined in a subtraction expression
+{standard input}:513:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.preview$non_lazy_ptr" minus "L31"
+{standard input}:513:symbol: "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.preview$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:512:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L30"
+{standard input}:512:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+{standard input}:511:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L29"
+{standard input}:511:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+{standard input}:510:non-relocatable subtraction expression, "L_kCVPixelBufferPixelFormatTypeKey$non_lazy_ptr" minus "L28"
+{standard input}:510:symbol: "L_kCVPixelBufferPixelFormatTypeKey$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:508:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L27"
+{standard input}:508:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+{standard input}:507:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_5" minus "L26"
+{standard input}:507:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_5" can't be undefined in a subtraction expression
+{standard input}:506:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L25"
+{standard input}:506:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+{standard input}:505:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L24"
+{standard input}:505:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+{standard input}:504:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L23"
+{standard input}:504:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:502:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L21"
+{standard input}:502:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+{standard input}:501:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.session$non_lazy_ptr" minus "L20"
+{standard input}:501:symbol: "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.session$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:500:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L19"
+{standard input}:500:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+{standard input}:499:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L18"
+{standard input}:499:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:498:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L17"
+{standard input}:498:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:497:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L16"
+{standard input}:497:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+{standard input}:496:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L15"
+{standard input}:496:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:495:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.session$non_lazy_ptr" minus "L14"
+{standard input}:495:symbol: "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.session$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:494:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L13"
+{standard input}:494:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:493:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L12"
+{standard input}:493:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+{standard input}:492:non-relocatable subtraction expression, "L_AVMediaTypeVideo$non_lazy_ptr" minus "L11"
+{standard input}:492:symbol: "L_AVMediaTypeVideo$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:491:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L10"
+{standard input}:491:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:490:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L9"
+{standard input}:490:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+{standard input}:489:non-relocatable subtraction expression, "L_AVCaptureSessionPresetMedium$non_lazy_ptr" minus "L8"
+{standard input}:489:symbol: "L_AVCaptureSessionPresetMedium$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:488:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L7"
+{standard input}:488:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+{standard input}:487:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.session$non_lazy_ptr" minus "L6"
+{standard input}:487:symbol: "L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.session$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:486:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L5"
+{standard input}:486:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+{standard input}:485:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L4"
+{standard input}:485:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:484:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L3"
+{standard input}:484:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:483:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L2"
+{standard input}:483:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub
+{standard input}:unknown:Undefined local symbol L_dispatch_queue_create$stub
+{standard input}:unknown:Undefined local symbol L_dispatch_release$stub
+{standard input}:unknown:Undefined local symbol L_CMTimeMake$stub
+{standard input}:unknown:Undefined local symbol L_objc_msgSend_stret$stub
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.session$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+{standard input}:unknown:Undefined local symbol L_AVCaptureSessionPresetMedium$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+{standard input}:unknown:Undefined local symbol L_AVMediaTypeVideo$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+{standard input}:unknown:Undefined local symbol L_kCVPixelBufferPixelFormatTypeKey$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.preview$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_6
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NXTiPhoneAVCaptureAppDelegate.window$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17

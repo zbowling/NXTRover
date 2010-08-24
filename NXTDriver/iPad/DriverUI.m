@@ -4,10 +4,10 @@
 //
 //  Created by Zac Bowling on 8/21/10.
 //  Copyright 2010 i'mhello. All rights reserved.
-//
+// 
 
 #import "DriverUI.h"
-#import "NXTClient.h"
+#import "NXTClient.h" 
 
 @implementation DriverUI
 @synthesize leftLabel, rightLabel, speedLabel, mSession, imageView;
