@@ -1,0 +1,222 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SuperRoverAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 794}}";
+			sepNavSelRange = "{139, 0}";
+			sepNavVisRange = "{0, 325}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SuperRoverAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1092}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2165}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SuperRover */ = {
+		activeExec = 0;
+		executables = (
+			D9D113DC132225B90012703C /* SuperRover */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D9D113DC132225B90012703C /* SuperRover */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SuperRover */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SuperRover */,
+		);
+		codeSenseManager = D9D113F8132225E50012703C /* Code sense */;
+		executables = (
+			D9D113DC132225B90012703C /* SuperRover */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1473,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1433,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321004985;
+			PBXWorkspaceStateSaveDate = 321004985;
+		};
+		perUserProjectItems = {
+			D9D1140B132226700012703C /* PBXTextBookmark */ = D9D1140B132226700012703C /* PBXTextBookmark */;
+			D9D1140C132226700012703C /* PBXTextBookmark */ = D9D1140C132226700012703C /* PBXTextBookmark */;
+			D9D1140D132226700012703C /* PBXTextBookmark */ = D9D1140D132226700012703C /* PBXTextBookmark */;
+			D9D11413132226980012703C /* PBXTextBookmark */ = D9D11413132226980012703C /* PBXTextBookmark */;
+		};
+		sourceControlManager = D9D113F7132225E50012703C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D9D113DC132225B90012703C /* SuperRover */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SuperRover;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	D9D113F7132225E50012703C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D9D113F8132225E50012703C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D9D1140B132226700012703C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SuperRoverAppDelegate.m */;
+		name = "SuperRoverAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2032;
+		vrLoc = 479;
+	};
+	D9D1140C132226700012703C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SuperRoverAppDelegate.h */;
+		name = "SuperRoverAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+	D9D1140D132226700012703C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SuperRoverAppDelegate.h */;
+		name = "SuperRoverAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+	D9D11413132226980012703C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SuperRoverAppDelegate.h */;
+		name = "SuperRoverAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+	D9D11414132226E20012703C /* DriverController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 794}}";
+			sepNavSelRange = "{266, 0}";
+			sepNavVisRange = "{0, 276}";
+		};
+	};
+	D9D1146B13222A230012703C /* VideoView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 794}}";
+			sepNavSelRange = "{516, 0}";
+			sepNavVisRange = "{0, 525}";
+		};
+	};
+	D9D1146C13222A230012703C /* VideoView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 794}}";
+			sepNavSelRange = "{337, 0}";
+			sepNavVisRange = "{0, 582}";
+		};
+	};
+	D9D1147813222C430012703C /* VideoController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 988}}";
+			sepNavSelRange = "{959, 0}";
+			sepNavVisRange = "{3, 1161}";
+		};
+	};
+	D9D1147913222C430012703C /* VideoController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 858}}";
+			sepNavSelRange = "{744, 0}";
+			sepNavVisRange = "{0, 1548}";
+		};
+	};
+	D9D1147B13222D080012703C /* GameKitRemoteConnection.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 794}}";
+			sepNavSelRange = "{529, 0}";
+			sepNavVisRange = "{0, 535}";
+		};
+	};
+	D9D1147C13222D080012703C /* GameKitRemoteConnection.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 794}}";
+			sepNavSelRange = "{581, 0}";
+			sepNavVisRange = "{0, 637}";
+		};
+	};
+}
